@@ -1,2 +1,0 @@
-# ceden
-cede'en brehehe
