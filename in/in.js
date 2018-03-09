@@ -8,7 +8,7 @@ function _inJ() {
     console.log("jQuery loaded");
     _$ = jQuery;
     // do load onclick
-    _$(document).on("click", function (e) {
+    _$(document).on("click tap", function (e) {
         // console.log(e.target);
         _inJ_click_value = _$(e.target).html(); // or var clickedBtnID = this.id
         console.log(_inJ_click_value);
