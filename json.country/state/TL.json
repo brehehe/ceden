@@ -1,0 +1,88 @@
+{
+    "101TL": {
+        "name": "Aileu",
+        "sub": {
+            "101201TL": "Aileu"
+        }
+    },
+    "102TL": {
+        "name": "Ainaro",
+        "sub": {
+            "102201TL": "Ainaro"
+        }
+    },
+    "103TL": {
+        "name": "Ambeno",
+        "sub": {
+            "103201TL": "Pante Macassar"
+        }
+    },
+    "104TL": {
+        "name": "Baucau",
+        "sub": {
+            "104201TL": "Baucau"
+        }
+    },
+    "105TL": {
+        "name": "Bobonaro",
+        "sub": {
+            "105201TL": "Auba",
+            "105202TL": "Lolotoi",
+            "105203TL": "Maliana"
+        }
+    },
+    "106TL": {
+        "name": "Cova Lima",
+        "sub": {
+            "106201TL": "Auba",
+            "106202TL": "Lolotoi",
+            "106203TL": "Maliana"
+        }
+    },
+    "107TL": {
+        "name": "Dili",
+        "sub": {
+            "107201TL": "Dare",
+            "107202TL": "Dili",
+            "107203TL": "Metinaro"
+        }
+    },
+    "108TL": {
+        "name": "Ermera",
+        "sub": {
+            "108201TL": "Ermera"
+        }
+    },
+    "109TL": {
+        "name": "Lautem",
+        "sub": {
+            "109201TL": "Lautem",
+            "109202TL": "Los Palos"
+        }
+    },
+    "110TL": {
+        "name": "Liquica",
+        "sub": {
+            "110201TL": "Bazartete",
+            "110202TL": "Liquica"
+        }
+    },
+    "111TL": {
+        "name": "Manatuto",
+        "sub": {
+            "111201TL": "Manatuto"
+        }
+    },
+    "112TL": {
+        "name": "Manufahi",
+        "sub": {
+            "112201TL": "Same"
+        }
+    },
+    "113TL": {
+        "name": "Viqueque",
+        "sub": {
+            "113201TL": "Viqueque"
+        }
+    }
+}

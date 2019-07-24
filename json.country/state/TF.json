@@ -1,0 +1,20 @@
+{
+    "101TF": {
+        "name": "Amsterdam",
+        "sub": {
+            "101201TF": "Martin-de-Vivies"
+        }
+    },
+    "102TF": {
+        "name": "Crozet Islands",
+        "sub": {
+            "102201TF": "Martin-de-Vivies"
+        }
+    },
+    "103TF": {
+        "name": "Kerguelen",
+        "sub": {
+            "103201TF": "Port-aux-Francais"
+        }
+    }
+}

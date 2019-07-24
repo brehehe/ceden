@@ -1,0 +1,157 @@
+{
+    "101SV": {
+        "name": "Ahuachapan",
+        "sub": {
+            "101201SV": "Ahuachapan",
+            "101202SV": "Atiquizaya",
+            "101203SV": "Concepcion de Ataco",
+            "101204SV": "Guaymango",
+            "101205SV": "Jujutla",
+            "101206SV": "San Francisco Menendez",
+            "101207SV": "Tacuba"
+        }
+    },
+    "102SV": {
+        "name": "Cabanas",
+        "sub": {
+            "102201SV": "Ilobasco",
+            "102202SV": "Sensuntepeque",
+            "102203SV": "Victoria"
+        }
+    },
+    "103SV": {
+        "name": "Chalatenango",
+        "sub": {
+            "103201SV": "Chalatenango",
+            "103202SV": "La Palma",
+            "103203SV": "Nueva Concepcion",
+            "103204SV": "San Francisco Morazan"
+        }
+    },
+    "104SV": {
+        "name": "Cuscatlan",
+        "sub": {
+            "104201SV": "Cojutepeque",
+            "104202SV": "San Pedro Perulapan",
+            "104203SV": "Suchitoto",
+            "104204SV": "Tecoluca",
+            "104205SV": "Tenancingo"
+        }
+    },
+    "105SV": {
+        "name": "La Libertad",
+        "sub": {
+            "105201SV": "Cojutepeque",
+            "105202SV": "San Pedro Perulapan",
+            "105203SV": "Suchitoto",
+            "105204SV": "Tecoluca",
+            "105205SV": "Tenancingo"
+        }
+    },
+    "106SV": {
+        "name": "La Paz",
+        "sub": {
+            "106201SV": "Cojutepeque",
+            "106202SV": "San Pedro Perulapan",
+            "106203SV": "Suchitoto",
+            "106204SV": "Tecoluca",
+            "106205SV": "Tenancingo"
+        }
+    },
+    "107SV": {
+        "name": "La Union",
+        "sub": {
+            "107201SV": "Cojutepeque",
+            "107202SV": "San Pedro Perulapan",
+            "107203SV": "Suchitoto",
+            "107204SV": "Tecoluca",
+            "107205SV": "Tenancingo"
+        }
+    },
+    "108SV": {
+        "name": "Morazan",
+        "sub": {
+            "108201SV": "Cacaopera",
+            "108202SV": "Corinto",
+            "108203SV": "Gotera",
+            "108204SV": "Guatajiagua",
+            "108205SV": "Jocoro",
+            "108206SV": "Sociedad"
+        }
+    },
+    "109SV": {
+        "name": "San Miguel",
+        "sub": {
+            "109201SV": "Cacaopera",
+            "109202SV": "Corinto",
+            "109203SV": "Gotera",
+            "109204SV": "Guatajiagua",
+            "109205SV": "Jocoro",
+            "109206SV": "Sociedad"
+        }
+    },
+    "110SV": {
+        "name": "San Salvador",
+        "sub": {
+            "110201SV": "Cacaopera",
+            "110202SV": "Corinto",
+            "110203SV": "Gotera",
+            "110204SV": "Guatajiagua",
+            "110205SV": "Jocoro",
+            "110206SV": "Sociedad"
+        }
+    },
+    "111SV": {
+        "name": "San Vicente",
+        "sub": {
+            "111201SV": "Cacaopera",
+            "111202SV": "Corinto",
+            "111203SV": "Gotera",
+            "111204SV": "Guatajiagua",
+            "111205SV": "Jocoro",
+            "111206SV": "Sociedad"
+        }
+    },
+    "112SV": {
+        "name": "Santa Ana",
+        "sub": {
+            "112201SV": "Cacaopera",
+            "112202SV": "Corinto",
+            "112203SV": "Gotera",
+            "112204SV": "Guatajiagua",
+            "112205SV": "Jocoro",
+            "112206SV": "Sociedad"
+        }
+    },
+    "113SV": {
+        "name": "Sonsonate",
+        "sub": {
+            "113201SV": "Acajutla",
+            "113202SV": "Armenia",
+            "113203SV": "Izalco",
+            "113204SV": "Juayua",
+            "113205SV": "Nahuizalco",
+            "113206SV": "San Antonio del Monte",
+            "113207SV": "San Julian",
+            "113208SV": "Sonsonate",
+            "113209SV": "Sonzacate"
+        }
+    },
+    "114SV": {
+        "name": "Usulutan",
+        "sub": {
+            "114201SV": "Berlin",
+            "114202SV": "Concepcion Batres",
+            "114203SV": "Estanzuelas",
+            "114204SV": "Jiquilisco",
+            "114205SV": "Jucuapa",
+            "114206SV": "Jucuaran",
+            "114207SV": "Ozatlan",
+            "114208SV": "Puerto El Triunfo",
+            "114209SV": "San Agustin",
+            "114210SV": "Santa Elena",
+            "114211SV": "Santiago de Maria",
+            "114212SV": "Usulutan"
+        }
+    }
+}

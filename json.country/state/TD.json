@@ -1,0 +1,117 @@
+{
+    "101TD": {
+        "name": "Batha",
+        "sub": {
+            "101201TD": "Ati",
+            "101202TD": "Oum Hadjer"
+        }
+    },
+    "102TD": {
+        "name": "Biltine",
+        "sub": {
+            "102201TD": "Biltine"
+        }
+    },
+    "103TD": {
+        "name": "Bourkou-Ennedi-Tibesti",
+        "sub": {
+            "103201TD": "Aouzou",
+            "103202TD": "Bardai",
+            "103203TD": "Fada",
+            "103204TD": "Faya"
+        }
+    },
+    "104TD": {
+        "name": "Chari-Baguirmi",
+        "sub": {
+            "104201TD": "Bokoro",
+            "104202TD": "Bousso",
+            "104203TD": "Dourbali",
+            "104204TD": "Massaguet",
+            "104205TD": "Massakory",
+            "104206TD": "Massenya",
+            "104207TD": "Ngama",
+            "104208TD": "N\\'Djamena"
+        }
+    },
+    "105TD": {
+        "name": "Guera",
+        "sub": {
+            "105201TD": "Bitkine",
+            "105202TD": "Melfi",
+            "105203TD": "Mongo"
+        }
+    },
+    "106TD": {
+        "name": "Kanem",
+        "sub": {
+            "106201TD": "Mao",
+            "106202TD": "Moussoro",
+            "106203TD": "Rig-Rig"
+        }
+    },
+    "107TD": {
+        "name": "Lac",
+        "sub": {
+            "107201TD": "Bol"
+        }
+    },
+    "108TD": {
+        "name": "Logone Occidental",
+        "sub": {
+            "108201TD": "Bol"
+        }
+    },
+    "109TD": {
+        "name": "Logone Oriental",
+        "sub": {
+            "109201TD": "Bol"
+        }
+    },
+    "110TD": {
+        "name": "Mayo-Kebbi",
+        "sub": {
+            "110201TD": "Bongor",
+            "110202TD": "Fianga",
+            "110203TD": "Gounou Gaya",
+            "110204TD": "Guelengdeng",
+            "110205TD": "Lere",
+            "110206TD": "Pala"
+        }
+    },
+    "111TD": {
+        "name": "Moyen-Chari",
+        "sub": {
+            "111201TD": "Goundi",
+            "111202TD": "Koumra",
+            "111203TD": "Kyabe",
+            "111204TD": "Moissala",
+            "111205TD": "Sarh"
+        }
+    },
+    "112TD": {
+        "name": "Ouaddai",
+        "sub": {
+            "112201TD": "Abeche",
+            "112202TD": "Adre",
+            "112203TD": "Am Dam"
+        }
+    },
+    "113TD": {
+        "name": "Salamat",
+        "sub": {
+            "113201TD": "Abou Deia",
+            "113202TD": "Am Timan",
+            "113203TD": "Mangueigne"
+        }
+    },
+    "114TD": {
+        "name": "Tandjile",
+        "sub": {
+            "114201TD": "Benoy",
+            "114202TD": "Bere",
+            "114203TD": "Kelo",
+            "114204TD": "Lai"
+        }
+    }
+}
