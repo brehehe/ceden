@@ -1,0 +1,146 @@
+{
+    "101BY": {
+        "name": "Brest",
+        "sub": {
+            "101201BY": "Baranavichy",
+            "101202BY": "Bjaroza",
+            "101203BY": "Bjeloozersk",
+            "101204BY": "Brest",
+            "101205BY": "David-Haradok",
+            "101206BY": "Drahichyn",
+            "101207BY": "Hancavichy",
+            "101208BY": "Ivacevichy",
+            "101209BY": "Ivanava",
+            "101210BY": "Kamjenec",
+            "101211BY": "Kobryn",
+            "101212BY": "Kosava",
+            "101213BY": "Ljahavichy",
+            "101214BY": "Luninjec",
+            "101215BY": "Malaryta",
+            "101216BY": "Mikashevichy",
+            "101217BY": "Pinsk",
+            "101218BY": "Pruzhany",
+            "101219BY": "Stolin",
+            "101220BY": "Vysokoje",
+            "101221BY": "Zhabinka"
+        }
+    },
+    "102BY": {
+        "name": "Homjel\\'",
+        "sub": {
+            "102201BY": "Buda Kosheljovo",
+            "102202BY": "Chechersk",
+            "102203BY": "Dobrush",
+            "102204BY": "Hojniki",
+            "102205BY": "Homjel\\'",
+            "102206BY": "Jel\\'sk",
+            "102207BY": "Kalinkavichy",
+            "102208BY": "Kascjukovka",
+            "102209BY": "Mazyr",
+            "102210BY": "Narovlja",
+            "102211BY": "Pjetrykav",
+            "102212BY": "Rahachow",
+            "102213BY": "Rechyca",
+            "102214BY": "Svetlahorsk",
+            "102215BY": "Vasilevichy",
+            "102216BY": "Vjetka",
+            "102217BY": "Zhlobin",
+            "102218BY": "Zhytkavichy"
+        }
+    },
+    "103BY": {
+        "name": "Hrodna",
+        "sub": {
+            "103201BY": "Ashmjany",
+            "103202BY": "Berjozovka",
+            "103203BY": "Hrodna",
+            "103204BY": "Lida",
+            "103205BY": "Masty",
+            "103206BY": "Navahrudak",
+            "103207BY": "Shchuchyn",
+            "103208BY": "Skidel\\'",
+            "103209BY": "Slonim",
+            "103210BY": "Smarhon\\'",
+            "103211BY": "Vawkavysk"
+        }
+    },
+    "104BY": {
+        "name": "Mahiljow",
+        "sub": {
+            "104201BY": "Asipovichy",
+            "104202BY": "Babrujsk",
+            "104203BY": "Byhau",
+            "104204BY": "Chausy",
+            "104205BY": "Cherikov",
+            "104206BY": "Horki",
+            "104207BY": "Kascjukovichy",
+            "104208BY": "Klimavichy",
+            "104209BY": "Krychaw",
+            "104210BY": "Mahiljow",
+            "104211BY": "Mstislav",
+            "104212BY": "Shklov",
+            "104213BY": "Slaeuharad"
+        }
+    },
+    "105BY": {
+        "name": "Mahilyowskaya Voblasts",
+        "sub": {
+            "105201BY": "Asipovichy",
+            "105202BY": "Babrujsk",
+            "105203BY": "Byhau",
+            "105204BY": "Chausy",
+            "105205BY": "Cherikov",
+            "105206BY": "Horki",
+            "105207BY": "Kascjukovichy",
+            "105208BY": "Klimavichy",
+            "105209BY": "Krychaw",
+            "105210BY": "Mahiljow",
+            "105211BY": "Mstislav",
+            "105212BY": "Shklov",
+            "105213BY": "Slaeuharad"
+        }
+    },
+    "106BY": {
+        "name": "Minsk",
+        "sub": {
+            "106201BY": "Minsk"
+        }
+    },
+    "107BY": {
+        "name": "Minskaja Voblasts\\'",
+        "sub": {
+            "107201BY": "Minsk"
+        }
+    },
+    "108BY": {
+        "name": "Petrik",
+        "sub": {
+            "108201BY": "Petrikov"
+        }
+    },
+    "109BY": {
+        "name": "Vicebsk",
+        "sub": {
+            "109201BY": "Baran\\'",
+            "109202BY": "Braslav",
+            "109203BY": "Chashniki",
+            "109204BY": "Disna",
+            "109205BY": "Dokshicy",
+            "109206BY": "Dubrovna",
+            "109207BY": "Haradok",
+            "109208BY": "Hlybokaje",
+            "109209BY": "Ljepjel\\'",
+            "109210BY": "Mjory",
+            "109211BY": "Navapolack",
+            "109212BY": "Novalukoml\\'",
+            "109213BY": "Orsha",
+            "109214BY": "Pastavy",
+            "109215BY": "Polack",
+            "109216BY": "Polotsk",
+            "109217BY": "Senno",
+            "109218BY": "Talachyn",
+            "109219BY": "Verhnjadzvimsk",
+            "109220BY": "Vicebsk"
+        }
+    }
+}

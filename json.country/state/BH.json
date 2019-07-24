@@ -1,0 +1,62 @@
+{
+    "101BH": {
+        "name": "al-Manamah",
+        "sub": {
+            "101201BH": "al-Manamah"
+        }
+    },
+    "102BH": {
+        "name": "al-Muharraq",
+        "sub": {
+            "102201BH": "al-Muharraq"
+        }
+    },
+    "103BH": {
+        "name": "ar-Rifa\\'a",
+        "sub": {
+            "103201BH": "ar-Rifa\\'a"
+        }
+    },
+    "104BH": {
+        "name": "Badiyah",
+        "sub": {
+            "104201BH": "Badiyah"
+        }
+    },
+    "105BH": {
+        "name": "Hidd",
+        "sub": {
+            "105201BH": "Hidd"
+        }
+    },
+    "106BH": {
+        "name": "Jidd Hafs",
+        "sub": {
+            "106201BH": "Hidd"
+        }
+    },
+    "107BH": {
+        "name": "Mahama",
+        "sub": {
+            "107201BH": "Mahama"
+        }
+    },
+    "108BH": {
+        "name": "Manama",
+        "sub": {
+            "108201BH": "Manama"
+        }
+    },
+    "109BH": {
+        "name": "Sitrah",
+        "sub": {
+            "109201BH": "Sitrah"
+        }
+    },
+    "110BH": {
+        "name": "\\'Isa",
+        "sub": {
+            "110201BH": "\\'Isa"
+        }
+    }
+}

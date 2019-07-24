@@ -1,0 +1,93 @@
+{
+    "101GD": {
+        "name": "Carriacou-Petite Martinique",
+        "sub": {
+            "101201GD": "Ikerasak",
+            "101202GD": "Illorsuit",
+            "101203GD": "Niaqornat",
+            "101204GD": "Nuugaatsiaq",
+            "101205GD": "Qaarsut",
+            "101206GD": "Saattut",
+            "101207GD": "Ukkusissat",
+            "101208GD": "Uummannaq"
+        }
+    },
+    "102GD": {
+        "name": "Saint Andrew",
+        "sub": {
+            "102201GD": "Ikerasak",
+            "102202GD": "Illorsuit",
+            "102203GD": "Niaqornat",
+            "102204GD": "Nuugaatsiaq",
+            "102205GD": "Qaarsut",
+            "102206GD": "Saattut",
+            "102207GD": "Ukkusissat",
+            "102208GD": "Uummannaq"
+        }
+    },
+    "103GD": {
+        "name": "Saint Davids",
+        "sub": {
+            "103201GD": "Ikerasak",
+            "103202GD": "Illorsuit",
+            "103203GD": "Niaqornat",
+            "103204GD": "Nuugaatsiaq",
+            "103205GD": "Qaarsut",
+            "103206GD": "Saattut",
+            "103207GD": "Ukkusissat",
+            "103208GD": "Uummannaq"
+        }
+    },
+    "104GD": {
+        "name": "Saint George\\'s",
+        "sub": {
+            "104201GD": "Ikerasak",
+            "104202GD": "Illorsuit",
+            "104203GD": "Niaqornat",
+            "104204GD": "Nuugaatsiaq",
+            "104205GD": "Qaarsut",
+            "104206GD": "Saattut",
+            "104207GD": "Ukkusissat",
+            "104208GD": "Uummannaq"
+        }
+    },
+    "105GD": {
+        "name": "Saint John",
+        "sub": {
+            "105201GD": "Ikerasak",
+            "105202GD": "Illorsuit",
+            "105203GD": "Niaqornat",
+            "105204GD": "Nuugaatsiaq",
+            "105205GD": "Qaarsut",
+            "105206GD": "Saattut",
+            "105207GD": "Ukkusissat",
+            "105208GD": "Uummannaq"
+        }
+    },
+    "106GD": {
+        "name": "Saint Mark",
+        "sub": {
+            "106201GD": "Ikerasak",
+            "106202GD": "Illorsuit",
+            "106203GD": "Niaqornat",
+            "106204GD": "Nuugaatsiaq",
+            "106205GD": "Qaarsut",
+            "106206GD": "Saattut",
+            "106207GD": "Ukkusissat",
+            "106208GD": "Uummannaq"
+        }
+    },
+    "107GD": {
+        "name": "Saint Patrick",
+        "sub": {
+            "107201GD": "Ikerasak",
+            "107202GD": "Illorsuit",
+            "107203GD": "Niaqornat",
+            "107204GD": "Nuugaatsiaq",
+            "107205GD": "Qaarsut",
+            "107206GD": "Saattut",
+            "107207GD": "Ukkusissat",
+            "107208GD": "Uummannaq"
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "101BO": {
+        "name": "Beni",
+        "sub": {
+            "101201BO": "Guayaramerin",
+            "101202BO": "Magdalena",
+            "101203BO": "Reyes",
+            "101204BO": "Riberalta",
+            "101205BO": "Rurrenabaque",
+            "101206BO": "San Borja",
+            "101207BO": "San Ignacio",
+            "101208BO": "San Ramon",
+            "101209BO": "Santa Ana",
+            "101210BO": "Santa Rosa",
+            "101211BO": "Trinidad"
+        }
+    },
+    "102BO": {
+        "name": "Chuquisaca",
+        "sub": {
+            "102201BO": "Camargo",
+            "102202BO": "Monteagudo",
+            "102203BO": "Muyupampa",
+            "102204BO": "Padilla",
+            "102205BO": "Sucre",
+            "102206BO": "Tarabuco",
+            "102207BO": "Villa Serano"
+        }
+    },
+    "103BO": {
+        "name": "Cochabamba",
+        "sub": {
+            "103201BO": "Aiquile",
+            "103202BO": "Arani",
+            "103203BO": "Capinota",
+            "103204BO": "Chimore",
+            "103205BO": "Cliza",
+            "103206BO": "Cochabamba",
+            "103207BO": "Colomi",
+            "103208BO": "Entre Rios",
+            "103209BO": "Irpa Irpa",
+            "103210BO": "Ivirgarzama",
+            "103211BO": "Mizque",
+            "103212BO": "Punata",
+            "103213BO": "Shinahota",
+            "103214BO": "Sipe Sipe",
+            "103215BO": "Tarata",
+            "103216BO": "Ucurena"
+        }
+    },
+    "104BO": {
+        "name": "La Paz",
+        "sub": {
+            "104201BO": "Aiquile",
+            "104202BO": "Arani",
+            "104203BO": "Capinota",
+            "104204BO": "Chimore",
+            "104205BO": "Cliza",
+            "104206BO": "Cochabamba",
+            "104207BO": "Colomi",
+            "104208BO": "Entre Rios",
+            "104209BO": "Irpa Irpa",
+            "104210BO": "Ivirgarzama",
+            "104211BO": "Mizque",
+            "104212BO": "Punata",
+            "104213BO": "Shinahota",
+            "104214BO": "Sipe Sipe",
+            "104215BO": "Tarata",
+            "104216BO": "Ucurena"
+        }
+    },
+    "105BO": {
+        "name": "Oruro",
+        "sub": {
+            "105201BO": "Caracollo",
+            "105202BO": "Challapata",
+            "105203BO": "Eucaliptus",
+            "105204BO": "Huanuni",
+            "105205BO": "Machacamarca",
+            "105206BO": "Oruro",
+            "105207BO": "Poopo",
+            "105208BO": "Santiago de Huari",
+            "105209BO": "Totoral"
+        }
+    },
+    "106BO": {
+        "name": "Pando",
+        "sub": {
+            "106201BO": "Cobija"
+        }
+    },
+    "107BO": {
+        "name": "Potosi",
+        "sub": {
+            "107201BO": "Atocha",
+            "107202BO": "Betanzos",
+            "107203BO": "Colquechaca",
+            "107204BO": "Llallagua",
+            "107205BO": "Potosi",
+            "107206BO": "Santa Barbara",
+            "107207BO": "Tupiza",
+            "107208BO": "Uncia",
+            "107209BO": "Uyuni",
+            "107210BO": "Villazon"
+        }
+    },
+    "108BO": {
+        "name": "Santa Cruz",
+        "sub": {
+            "108201BO": "Atocha",
+            "108202BO": "Betanzos",
+            "108203BO": "Colquechaca",
+            "108204BO": "Llallagua",
+            "108205BO": "Potosi",
+            "108206BO": "Santa Barbara",
+            "108207BO": "Tupiza",
+            "108208BO": "Uncia",
+            "108209BO": "Uyuni",
+            "108210BO": "Villazon"
+        }
+    },
+    "109BO": {
+        "name": "Tarija",
+        "sub": {
+            "109201BO": "Bermejo",
+            "109202BO": "Entre Rios",
+            "109203BO": "San Lorenzo",
+            "109204BO": "Tarija",
+            "109205BO": "Villamontes",
+            "109206BO": "Yacuiba"
+        }
+    }
+}

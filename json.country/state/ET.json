@@ -1,0 +1,261 @@
+{
+    "101ET": {
+        "name": "Addis Abeba",
+        "sub": {
+            "101201ET": "Antsla",
+            "101202ET": "Haanja",
+            "101203ET": "Jarvere",
+            "101204ET": "Kaapa",
+            "101205ET": "Kirumpaa",
+            "101206ET": "Kobela",
+            "101207ET": "Kollino",
+            "101208ET": "Kose",
+            "101209ET": "Kraavi",
+            "101210ET": "Krabi",
+            "101211ET": "Kulaoru",
+            "101212ET": "Kuldre",
+            "101213ET": "Kuutsi",
+            "101214ET": "Lasva",
+            "101215ET": "Loosu",
+            "101216ET": "Lusti",
+            "101217ET": "Meegomae",
+            "101218ET": "Meremae",
+            "101219ET": "Misso",
+            "101220ET": "Moniste",
+            "101221ET": "Navi",
+            "101222ET": "Nursi",
+            "101223ET": "Obinitsa",
+            "101224ET": "Osula",
+            "101225ET": "Otsa",
+            "101226ET": "Parksepa",
+            "101227ET": "Puiga",
+            "101228ET": "Raiste",
+            "101229ET": "Rimmi",
+            "101230ET": "Rouge",
+            "101231ET": "Ruusmae",
+            "101232ET": "Saru",
+            "101233ET": "Somerpalu",
+            "101234ET": "Sulbi",
+            "101235ET": "Taberlaane",
+            "101236ET": "Tagakula",
+            "101237ET": "Tsolgo",
+            "101238ET": "Tsooru",
+            "101239ET": "Urvaste",
+            "101240ET": "Uue-Antsla",
+            "101241ET": "Vaabina",
+            "101242ET": "Vagula",
+            "101243ET": "Vaimela",
+            "101244ET": "Vana-Antsla",
+            "101245ET": "Vana-Roosa",
+            "101246ET": "Vana-Vastseliina",
+            "101247ET": "Varstu",
+            "101248ET": "Vastseliina",
+            "101249ET": "Verijarve",
+            "101250ET": "Viitina",
+            "101251ET": "Viitka",
+            "101252ET": "Visela",
+            "101253ET": "Voru",
+            "101254ET": "Vorumoisa"
+        }
+    },
+    "102ET": {
+        "name": "Afar",
+        "sub": {
+            "102201ET": "Asayita",
+            "102202ET": "Awash",
+            "102203ET": "Dubti",
+            "102204ET": "Gewane"
+        }
+    },
+    "103ET": {
+        "name": "Amhara",
+        "sub": {
+            "103201ET": "Addi Ark\\'ay",
+            "103202ET": "Addis Zemen",
+            "103203ET": "Addis \\'Alem",
+            "103204ET": "Adet",
+            "103205ET": "Bahir Dar",
+            "103206ET": "Bati",
+            "103207ET": "Bichena",
+            "103208ET": "Bure",
+            "103209ET": "Chagni",
+            "103210ET": "Dabat",
+            "103211ET": "Dangla",
+            "103212ET": "Debark",
+            "103213ET": "Debre Birhan",
+            "103214ET": "Debre Mark\\'os",
+            "103215ET": "Debre Sina",
+            "103216ET": "Debre Tabor",
+            "103217ET": "Debre Werk",
+            "103218ET": "Dejen",
+            "103219ET": "Dese",
+            "103220ET": "Finote Selam",
+            "103221ET": "Gondar",
+            "103222ET": "Kembolcha",
+            "103223ET": "Kemise",
+            "103224ET": "K\\'obo",
+            "103225ET": "Lalibela",
+            "103226ET": "Mott\\'a",
+            "103227ET": "Nefas Mewcha",
+            "103228ET": "Sek\\'ot\\'a",
+            "103229ET": "Shewa Robit",
+            "103230ET": "Weldiya",
+            "103231ET": "Were Ilu",
+            "103232ET": "Werota"
+        }
+    },
+    "104ET": {
+        "name": "Benishangul",
+        "sub": {
+            "104201ET": "Asosa"
+        }
+    },
+    "105ET": {
+        "name": "Diredawa",
+        "sub": {
+            "105201ET": "Dire Dawa"
+        }
+    },
+    "106ET": {
+        "name": "Gambella",
+        "sub": {
+            "106201ET": "Gambela"
+        }
+    },
+    "107ET": {
+        "name": "Harar",
+        "sub": {
+            "107201ET": "Harer"
+        }
+    },
+    "108ET": {
+        "name": "Jigjiga",
+        "sub": {
+            "108201ET": "Jigjiga"
+        }
+    },
+    "109ET": {
+        "name": "Mekele",
+        "sub": {
+            "109201ET": "Jigjiga"
+        }
+    },
+    "110ET": {
+        "name": "Oromia",
+        "sub": {
+            "110201ET": "Abomsa",
+            "110202ET": "Agaro",
+            "110203ET": "Asasa",
+            "110204ET": "Asbe Teferi",
+            "110205ET": "Assela",
+            "110206ET": "Bako",
+            "110207ET": "Bedele",
+            "110208ET": "Bedesa",
+            "110209ET": "Burayu",
+            "110210ET": "Debre Zeyit",
+            "110211ET": "Deder",
+            "110212ET": "Dembi Dolo",
+            "110213ET": "Dodola",
+            "110214ET": "Fiche",
+            "110215ET": "Gebre Guracha",
+            "110216ET": "Gedo",
+            "110217ET": "Gelemso",
+            "110218ET": "Gimbi",
+            "110219ET": "Ginch\\'i",
+            "110220ET": "Ginir",
+            "110221ET": "Giyon",
+            "110222ET": "Goba",
+            "110223ET": "Gore",
+            "110224ET": "Guder",
+            "110225ET": "Hagere Hiywet",
+            "110226ET": "Hagere Maryam",
+            "110227ET": "Hirna",
+            "110228ET": "Holeta Genet",
+            "110229ET": "Huruta",
+            "110230ET": "Jimma",
+            "110231ET": "Kibre Mengist",
+            "110232ET": "Kofele",
+            "110233ET": "Mega",
+            "110234ET": "Mek\\'i",
+            "110235ET": "Mendi",
+            "110236ET": "Metehara",
+            "110237ET": "Metu",
+            "110238ET": "Mojo",
+            "110239ET": "Moyale",
+            "110240ET": "Nazret",
+            "110241ET": "Nedjo",
+            "110242ET": "Negele",
+            "110243ET": "Nek\\'emte",
+            "110244ET": "Robe",
+            "110245ET": "Sebeta",
+            "110246ET": "Sendafa",
+            "110247ET": "Shakiso",
+            "110248ET": "Shambu",
+            "110249ET": "Shashemenne",
+            "110250ET": "Sheh Hussen",
+            "110251ET": "Sire",
+            "110252ET": "Tulu Bolo",
+            "110253ET": "Welench\\'iti",
+            "110254ET": "Welk\\'it\\'e",
+            "110255ET": "Wonji",
+            "110256ET": "Yabelo",
+            "110257ET": "Ziway",
+            "110258ET": "\\'Alem Maya"
+        }
+    },
+    "111ET": {
+        "name": "Somali",
+        "sub": {
+            "111201ET": "Bircot",
+            "111202ET": "Degeh Bur",
+            "111203ET": "Dollo Odo",
+            "111204ET": "Imi",
+            "111205ET": "Jijiga",
+            "111206ET": "Werder"
+        }
+    },
+    "112ET": {
+        "name": "Southern",
+        "sub": {
+            "112201ET": "Alaba Kulito",
+            "112202ET": "Arba Minch",
+            "112203ET": "Areka",
+            "112204ET": "Awassa",
+            "112205ET": "Bako",
+            "112206ET": "Boditi",
+            "112207ET": "Bonga",
+            "112208ET": "Butajira",
+            "112209ET": "Ch\\'ench\\'a",
+            "112210ET": "Dilla",
+            "112211ET": "Gidole",
+            "112212ET": "Hossa\\'ina",
+            "112213ET": "Jinka",
+            "112214ET": "Leku",
+            "112215ET": "Mizan Teferi",
+            "112216ET": "Sawla",
+            "112217ET": "Soddo",
+            "112218ET": "Teppi",
+            "112219ET": "Wendo",
+            "112220ET": "Yirga Alem",
+            "112221ET": "Yirga Ch\\'efe"
+        }
+    },
+    "113ET": {
+        "name": "Tigray",
+        "sub": {
+            "113201ET": "Abiy Adi",
+            "113202ET": "Addigrat",
+            "113203ET": "Adwa",
+            "113204ET": "Aksum",
+            "113205ET": "Alamat\\'a",
+            "113206ET": "Endasilasie",
+            "113207ET": "Hagere Selam",
+            "113208ET": "Himora",
+            "113209ET": "Korem",
+            "113210ET": "Maych\\'ew",
+            "113211ET": "Mekele",
+            "113212ET": "Mek\\'ele",
+            "113213ET": "Wik\\'ro"
+        }
+    }
+}

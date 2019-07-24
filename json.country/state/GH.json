@@ -1,0 +1,142 @@
+{
+    "101GH": {
+        "name": "Ashanti",
+        "sub": {
+            "101201GH": "Agogo",
+            "101202GH": "Bekwai",
+            "101203GH": "Konongo",
+            "101204GH": "Kumasi",
+            "101205GH": "Mampong",
+            "101206GH": "Mankranso",
+            "101207GH": "Obuasi",
+            "101208GH": "Ofinso",
+            "101209GH": "Tafo"
+        }
+    },
+    "102GH": {
+        "name": "Brong-Ahafo",
+        "sub": {
+            "102201GH": "Bechem",
+            "102202GH": "Berekum",
+            "102203GH": "Duayaw Nkwanta",
+            "102204GH": "Kintampo",
+            "102205GH": "Sunyani",
+            "102206GH": "Techiman",
+            "102207GH": "Wenchi"
+        }
+    },
+    "103GH": {
+        "name": "Central",
+        "sub": {
+            "103201GH": "Apam",
+            "103202GH": "Cape Coast",
+            "103203GH": "Dunkwa",
+            "103204GH": "Elmina",
+            "103205GH": "Foso",
+            "103206GH": "Komenda",
+            "103207GH": "Mauri",
+            "103208GH": "Mumford",
+            "103209GH": "Nyakrom",
+            "103210GH": "Okitsiu",
+            "103211GH": "Saltpond",
+            "103212GH": "Swedru",
+            "103213GH": "Winneba"
+        }
+    },
+    "104GH": {
+        "name": "Eastern",
+        "sub": {
+            "104201GH": "Aburi",
+            "104202GH": "Ada",
+            "104203GH": "Akim Swedru",
+            "104204GH": "Akropong",
+            "104205GH": "Asamankese",
+            "104206GH": "Begoro",
+            "104207GH": "Kade",
+            "104208GH": "Kibi",
+            "104209GH": "Koforidua",
+            "104210GH": "Mpraeso",
+            "104211GH": "Nkawkaw",
+            "104212GH": "Nsawam",
+            "104213GH": "Oda",
+            "104214GH": "Somanya",
+            "104215GH": "Suhum"
+        }
+    },
+    "105GH": {
+        "name": "Greater Accra",
+        "sub": {
+            "105201GH": "Aburi",
+            "105202GH": "Ada",
+            "105203GH": "Akim Swedru",
+            "105204GH": "Akropong",
+            "105205GH": "Asamankese",
+            "105206GH": "Begoro",
+            "105207GH": "Kade",
+            "105208GH": "Kibi",
+            "105209GH": "Koforidua",
+            "105210GH": "Mpraeso",
+            "105211GH": "Nkawkaw",
+            "105212GH": "Nsawam",
+            "105213GH": "Oda",
+            "105214GH": "Somanya",
+            "105215GH": "Suhum"
+        }
+    },
+    "106GH": {
+        "name": "Northern",
+        "sub": {
+            "106201GH": "Kpandae",
+            "106202GH": "Salaga",
+            "106203GH": "Savelugu",
+            "106204GH": "Tamale",
+            "106205GH": "Yendi"
+        }
+    },
+    "107GH": {
+        "name": "Upper East",
+        "sub": {
+            "107201GH": "Kpandae",
+            "107202GH": "Salaga",
+            "107203GH": "Savelugu",
+            "107204GH": "Tamale",
+            "107205GH": "Yendi"
+        }
+    },
+    "108GH": {
+        "name": "Upper West",
+        "sub": {
+            "108201GH": "Kpandae",
+            "108202GH": "Salaga",
+            "108203GH": "Savelugu",
+            "108204GH": "Tamale",
+            "108205GH": "Yendi"
+        }
+    },
+    "109GH": {
+        "name": "Volta",
+        "sub": {
+            "109201GH": "Aflao",
+            "109202GH": "Anloga",
+            "109203GH": "Ho",
+            "109204GH": "Hohoe",
+            "109205GH": "Keta",
+            "109206GH": "Kete-Krachi",
+            "109207GH": "Kpandu"
+        }
+    },
+    "110GH": {
+        "name": "Western",
+        "sub": {
+            "110201GH": "Aboso",
+            "110202GH": "Anomabu",
+            "110203GH": "Axim",
+            "110204GH": "Bibiani",
+            "110205GH": "Prestea",
+            "110206GH": "Sekondi",
+            "110207GH": "Shama",
+            "110208GH": "Takoradi",
+            "110209GH": "Tarkwa"
+        }
+    }
+}

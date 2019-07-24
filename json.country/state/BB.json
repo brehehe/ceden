@@ -1,0 +1,79 @@
+{
+    "101BB": {
+        "name": "Christ Church",
+        "sub": {
+            "101201BB": "Pirganj",
+            "101202BB": "Thakurgaon"
+        }
+    },
+    "102BB": {
+        "name": "Saint Andrew",
+        "sub": {
+            "102201BB": "Pirganj",
+            "102202BB": "Thakurgaon"
+        }
+    },
+    "103BB": {
+        "name": "Saint George",
+        "sub": {
+            "103201BB": "Pirganj",
+            "103202BB": "Thakurgaon"
+        }
+    },
+    "104BB": {
+        "name": "Saint James",
+        "sub": {
+            "104201BB": "Pirganj",
+            "104202BB": "Thakurgaon"
+        }
+    },
+    "105BB": {
+        "name": "Saint John",
+        "sub": {
+            "105201BB": "Pirganj",
+            "105202BB": "Thakurgaon"
+        }
+    },
+    "106BB": {
+        "name": "Saint Joseph",
+        "sub": {
+            "106201BB": "Pirganj",
+            "106202BB": "Thakurgaon"
+        }
+    },
+    "107BB": {
+        "name": "Saint Lucy",
+        "sub": {
+            "107201BB": "Pirganj",
+            "107202BB": "Thakurgaon"
+        }
+    },
+    "108BB": {
+        "name": "Saint Michael",
+        "sub": {
+            "108201BB": "Pirganj",
+            "108202BB": "Thakurgaon"
+        }
+    },
+    "109BB": {
+        "name": "Saint Peter",
+        "sub": {
+            "109201BB": "Pirganj",
+            "109202BB": "Thakurgaon"
+        }
+    },
+    "110BB": {
+        "name": "Saint Philip",
+        "sub": {
+            "110201BB": "Pirganj",
+            "110202BB": "Thakurgaon"
+        }
+    },
+    "111BB": {
+        "name": "Saint Thomas",
+        "sub": {
+            "111201BB": "Pirganj",
+            "111202BB": "Thakurgaon"
+        }
+    }
+}

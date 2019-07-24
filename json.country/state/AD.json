@@ -1,0 +1,58 @@
+{
+    "101AD": {
+        "name": "Andorra la Vella",
+        "sub": {
+            "101201AD": "Aoloau",
+            "101202AD": "Faleniu",
+            "101203AD": "Futiga",
+            "101204AD": "Ili\\'ili",
+            "101205AD": "Leone",
+            "101206AD": "Malaeimi",
+            "101207AD": "Malaeloa-Aitulagi",
+            "101208AD": "Malaeloa-Ituau",
+            "101209AD": "Mapusagafou",
+            "101210AD": "Mesepa",
+            "101211AD": "Pava\\'ia\\'i",
+            "101212AD": "Tafuna",
+            "101213AD": "Taputimu",
+            "101214AD": "Vailoatai",
+            "101215AD": "Vaitogi"
+        }
+    },
+    "102AD": {
+        "name": "Canillo",
+        "sub": {
+            "102201AD": "Canillo"
+        }
+    },
+    "103AD": {
+        "name": "Encamp",
+        "sub": {
+            "103201AD": "Encamp"
+        }
+    },
+    "104AD": {
+        "name": "La Massana",
+        "sub": {
+            "104201AD": "Encamp"
+        }
+    },
+    "105AD": {
+        "name": "Les Escaldes",
+        "sub": {
+            "105201AD": "Encamp"
+        }
+    },
+    "106AD": {
+        "name": "Ordino",
+        "sub": {
+            "106201AD": "Ordino"
+        }
+    },
+    "107AD": {
+        "name": "Sant Julia de Loria",
+        "sub": {
+            "107201AD": "Ordino"
+        }
+    }
+}

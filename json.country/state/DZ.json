@@ -1,0 +1,680 @@
+{
+    "101DZ": {
+        "name": "Adrar",
+        "sub": {
+            "101201DZ": "Adrar",
+            "101202DZ": "Awlaf",
+            "101203DZ": "Rijan",
+            "101204DZ": "Timimun"
+        }
+    },
+    "102DZ": {
+        "name": "al-Aghwat",
+        "sub": {
+            "102201DZ": "Aflu",
+            "102202DZ": "al-Aghwat",
+            "102203DZ": "Hassi al-Raml"
+        }
+    },
+    "103DZ": {
+        "name": "al-Bayadh",
+        "sub": {
+            "103201DZ": "al-Abyad Sidi Shaykh",
+            "103202DZ": "al-Bayadh",
+            "103203DZ": "Brizyanah"
+        }
+    },
+    "104DZ": {
+        "name": "al-Jaza\\'ir",
+        "sub": {
+            "104201DZ": "al-Jaza\\'ir",
+            "104202DZ": "Bab Azwar",
+            "104203DZ": "Baraki",
+            "104204DZ": "Bir Murad Rais",
+            "104205DZ": "Birkhadam",
+            "104206DZ": "Burj-al-Kiffan",
+            "104207DZ": "Dar-al-Bayda"
+        }
+    },
+    "105DZ": {
+        "name": "al-Wad",
+        "sub": {
+            "105201DZ": "al-Mighair",
+            "105202DZ": "al-Wad",
+            "105203DZ": "Bayadha",
+            "105204DZ": "Dabilah",
+            "105205DZ": "Hassan \\'Abd-al-Karim",
+            "105206DZ": "Hassi Halifa",
+            "105207DZ": "Jama\\'a",
+            "105208DZ": "Maqran",
+            "105209DZ": "Qamar",
+            "105210DZ": "Raqiba",
+            "105211DZ": "Rubbah",
+            "105212DZ": "Sidi Amran"
+        }
+    },
+    "106DZ": {
+        "name": "Algiers",
+        "sub": {
+            "106201DZ": "Hydra",
+            "106202DZ": "Kouba"
+        }
+    },
+    "107DZ": {
+        "name": "Annabah",
+        "sub": {
+            "107201DZ": "al-Buni",
+            "107202DZ": "al-Hajar",
+            "107203DZ": "Annabah",
+            "107204DZ": "Birrahhal",
+            "107205DZ": "Saraydih",
+            "107206DZ": "Sidi Amar"
+        }
+    },
+    "108DZ": {
+        "name": "ash-Shalif",
+        "sub": {
+            "108201DZ": "Abu al-Hassan",
+            "108202DZ": "ash-Shalif",
+            "108203DZ": "ash-Shattiyah",
+            "108204DZ": "Bani Hawa",
+            "108205DZ": "Bu Qadir",
+            "108206DZ": "Sidi Ukaskah",
+            "108207DZ": "Tanas",
+            "108208DZ": "Wadi al-Fiddah",
+            "108209DZ": "Wadi Sali",
+            "108210DZ": "\\'Ayn Maran"
+        }
+    },
+    "109DZ": {
+        "name": "at-Tarif",
+        "sub": {
+            "109201DZ": "al-Qal\\'ah",
+            "109202DZ": "at-Tarif",
+            "109203DZ": "Ban Mahdi",
+            "109204DZ": "Bani Amar",
+            "109205DZ": "Basbas",
+            "109206DZ": "Dariyan",
+            "109207DZ": "Saba\\'ita Muk"
+        }
+    },
+    "110DZ": {
+        "name": "Bashshar",
+        "sub": {
+            "110201DZ": "Bani Wanif",
+            "110202DZ": "Bashshar",
+            "110203DZ": "Qanadsan",
+            "110204DZ": "Taghit",
+            "110205DZ": "\\'Abadlah"
+        }
+    },
+    "111DZ": {
+        "name": "Batnah",
+        "sub": {
+            "111201DZ": "Barikah",
+            "111202DZ": "Batnah",
+            "111203DZ": "Marwanah",
+            "111204DZ": "Naghaus",
+            "111205DZ": "Ra\\'s-al-\\'Ayun",
+            "111206DZ": "Tazult",
+            "111207DZ": "\\'Aris",
+            "111208DZ": "\\'Ayn Tutah"
+        }
+    },
+    "112DZ": {
+        "name": "Bijayah",
+        "sub": {
+            "112201DZ": "Akbu",
+            "112202DZ": "al-Qasr",
+            "112203DZ": "Amizur",
+            "112204DZ": "Barbasha",
+            "112205DZ": "Bijayah",
+            "112206DZ": "Farrawn",
+            "112207DZ": "Ighram",
+            "112208DZ": "Sadduk",
+            "112209DZ": "Shamini",
+            "112210DZ": "Sidi \\'Aysh",
+            "112211DZ": "Taskaryut",
+            "112212DZ": "Tazmalt",
+            "112213DZ": "Timazrit",
+            "112214DZ": "Uz-al-Laqin",
+            "112215DZ": "\\'Ayt Rizin"
+        }
+    },
+    "113DZ": {
+        "name": "Biskrah",
+        "sub": {
+            "113201DZ": "Awlad Jallal",
+            "113202DZ": "Biskrah",
+            "113203DZ": "Sidi Khalid",
+            "113204DZ": "Sidi Ukbah",
+            "113205DZ": "Tulja",
+            "113206DZ": "Um\\'ash",
+            "113207DZ": "Zaribat-al-Wad"
+        }
+    },
+    "114DZ": {
+        "name": "Blidah",
+        "sub": {
+            "114201DZ": "al-Arba\\'a",
+            "114202DZ": "al-\\'Afrun",
+            "114203DZ": "Awlad Salam",
+            "114204DZ": "Awlad Yaysh",
+            "114205DZ": "Bani Khalil",
+            "114206DZ": "Bani Marad",
+            "114207DZ": "Bani Tamu",
+            "114208DZ": "Blidah",
+            "114209DZ": "Bu Arfa",
+            "114210DZ": "Bufarik",
+            "114211DZ": "Buinan",
+            "114212DZ": "Buqara",
+            "114213DZ": "Maftah",
+            "114214DZ": "Muzayah",
+            "114215DZ": "Shabli",
+            "114216DZ": "Shari\\'ah",
+            "114217DZ": "Shiffa",
+            "114218DZ": "Sidi Mussa",
+            "114219DZ": "Suma",
+            "114220DZ": "Wadi al-Allagh"
+        }
+    },
+    "115DZ": {
+        "name": "Buirah",
+        "sub": {
+            "115201DZ": "Aghbalu",
+            "115202DZ": "Bi\\'r Ghabalu",
+            "115203DZ": "Buirah",
+            "115204DZ": "Lakhdariyah",
+            "115205DZ": "Shurfa",
+            "115206DZ": "Sur-al-Ghuzlan",
+            "115207DZ": "\\'Ayn Bissim"
+        }
+    },
+    "116DZ": {
+        "name": "Bumardas",
+        "sub": {
+            "116201DZ": "al-Arba\\'a Tash",
+            "116202DZ": "ar-Ruwibah",
+            "116203DZ": "Awlad Haddaj",
+            "116204DZ": "Awlad Mussa",
+            "116205DZ": "Bani Amran",
+            "116206DZ": "Budwawu",
+            "116207DZ": "Budwawu al-Bahri",
+            "116208DZ": "Bumardas",
+            "116209DZ": "Burj Minayal",
+            "116210DZ": "Dalis",
+            "116211DZ": "Hammadi",
+            "116212DZ": "Issar",
+            "116213DZ": "Khamis-al-Khashnah",
+            "116214DZ": "Nasiriyah",
+            "116215DZ": "Raghayah",
+            "116216DZ": "Sa\\'abat",
+            "116217DZ": "Tinyah",
+            "116218DZ": "\\'Ayn Tayah"
+        }
+    },
+    "117DZ": {
+        "name": "Burj Bu Arririj",
+        "sub": {
+            "117201DZ": "al-Arba\\'a Tash",
+            "117202DZ": "ar-Ruwibah",
+            "117203DZ": "Awlad Haddaj",
+            "117204DZ": "Awlad Mussa",
+            "117205DZ": "Bani Amran",
+            "117206DZ": "Budwawu",
+            "117207DZ": "Budwawu al-Bahri",
+            "117208DZ": "Bumardas",
+            "117209DZ": "Burj Minayal",
+            "117210DZ": "Dalis",
+            "117211DZ": "Hammadi",
+            "117212DZ": "Issar",
+            "117213DZ": "Khamis-al-Khashnah",
+            "117214DZ": "Nasiriyah",
+            "117215DZ": "Raghayah",
+            "117216DZ": "Sa\\'abat",
+            "117217DZ": "Tinyah",
+            "117218DZ": "\\'Ayn Tayah"
+        }
+    },
+    "118DZ": {
+        "name": "Ghalizan",
+        "sub": {
+            "118201DZ": "Ammi Mussa",
+            "118202DZ": "Ghalizan",
+            "118203DZ": "Jidiwiyah",
+            "118204DZ": "Mazunah",
+            "118205DZ": "Sidi Muhammad Ban \\'Ali",
+            "118206DZ": "Wadi Rahiyu",
+            "118207DZ": "Zammurah"
+        }
+    },
+    "119DZ": {
+        "name": "Ghardayah",
+        "sub": {
+            "119201DZ": "al-Ghuli\\'ah",
+            "119202DZ": "al-Qararah",
+            "119203DZ": "Biryan",
+            "119204DZ": "Bu Nura",
+            "119205DZ": "Ghardaia",
+            "119206DZ": "Ghardayah",
+            "119207DZ": "Matlili"
+        }
+    },
+    "120DZ": {
+        "name": "Ilizi",
+        "sub": {
+            "120201DZ": "Ilizi"
+        }
+    },
+    "121DZ": {
+        "name": "Jijili",
+        "sub": {
+            "121201DZ": "al-Miliyah",
+            "121202DZ": "Amir \\'Abd-al-Qadar",
+            "121203DZ": "Jijili",
+            "121204DZ": "Shifka",
+            "121205DZ": "Tahar"
+        }
+    },
+    "122DZ": {
+        "name": "Jilfah",
+        "sub": {
+            "122201DZ": "al-Idrisiyah",
+            "122202DZ": "Birin",
+            "122203DZ": "Dar Shiyukh",
+            "122204DZ": "Hassi Bahbah",
+            "122205DZ": "Jilfah",
+            "122206DZ": "Mis\\'ad",
+            "122207DZ": "Sharif",
+            "122208DZ": "\\'Ayn Wissarah",
+            "122209DZ": "\\'Ayn-al-Ibil"
+        }
+    },
+    "123DZ": {
+        "name": "Khanshalah",
+        "sub": {
+            "123201DZ": "al-Mahmal",
+            "123202DZ": "Khanshalah",
+            "123203DZ": "Sharshar",
+            "123204DZ": "Tawziyanat"
+        }
+    },
+    "124DZ": {
+        "name": "Masilah",
+        "sub": {
+            "124201DZ": "Bu Sa\\'adah",
+            "124202DZ": "Hammam Dhala\\'a",
+            "124203DZ": "Maghra",
+            "124204DZ": "Masilah",
+            "124205DZ": "Ma\\'adid",
+            "124206DZ": "Sidi \\'Aysa",
+            "124207DZ": "Wanugha",
+            "124208DZ": "\\'Ayn-al-Hajal",
+            "124209DZ": "\\'Ayn-al-Milh"
+        }
+    },
+    "125DZ": {
+        "name": "Midyah",
+        "sub": {
+            "125201DZ": "Birwaghiyah",
+            "125202DZ": "Midyah",
+            "125203DZ": "Qasr-al-Bukhari",
+            "125204DZ": "Shillalah",
+            "125205DZ": "Tablat",
+            "125206DZ": "\\'Ayn Bu Sif"
+        }
+    },
+    "126DZ": {
+        "name": "Milah",
+        "sub": {
+            "126201DZ": "Farjiwah",
+            "126202DZ": "Milah",
+            "126203DZ": "Qararam Quqa",
+            "126204DZ": "Ruwashad",
+            "126205DZ": "Salghum-al-\\'Ayd",
+            "126206DZ": "Sidi Maruf",
+            "126207DZ": "Sidi Marwan",
+            "126208DZ": "Tajananah",
+            "126209DZ": "Talighmah",
+            "126210DZ": "Wadi Athmaniyah"
+        }
+    },
+    "127DZ": {
+        "name": "Muaskar",
+        "sub": {
+            "127201DZ": "Bu Khanifiyah",
+            "127202DZ": "Muaskar",
+            "127203DZ": "Muhammadiyah",
+            "127204DZ": "Siq",
+            "127205DZ": "Tighinnif",
+            "127206DZ": "Wadi al-Abtal",
+            "127207DZ": "Zahana"
+        }
+    },
+    "128DZ": {
+        "name": "Mustaghanam",
+        "sub": {
+            "128201DZ": "Hassi Mamash",
+            "128202DZ": "Mazaghran",
+            "128203DZ": "Mustaghanam",
+            "128204DZ": "Sidi Ali",
+            "128205DZ": "\\'Ayn Tadalas"
+        }
+    },
+    "129DZ": {
+        "name": "Naama",
+        "sub": {
+            "129201DZ": "Mishriyah",
+            "129202DZ": "Naama",
+            "129203DZ": "\\'Ayn Safra"
+        }
+    },
+    "130DZ": {
+        "name": "Oran",
+        "sub": {
+            "130201DZ": "Oran"
+        }
+    },
+    "131DZ": {
+        "name": "Ouargla",
+        "sub": {
+            "131201DZ": "Ouargla"
+        }
+    },
+    "132DZ": {
+        "name": "Qalmah",
+        "sub": {
+            "132201DZ": "Bumahra Ahmad",
+            "132202DZ": "Hamman Awlad \\'Ali",
+            "132203DZ": "Qalmah",
+            "132204DZ": "Wadi Zinati",
+            "132205DZ": "\\'Ayn Bardah"
+        }
+    },
+    "133DZ": {
+        "name": "Qustantinah",
+        "sub": {
+            "133201DZ": "al-Khurub",
+            "133202DZ": "Didush Murad",
+            "133203DZ": "Hamma Bu Ziyan",
+            "133204DZ": "Qustantinah",
+            "133205DZ": "Zighut Yusuf",
+            "133206DZ": "\\'Ayn Abid",
+            "133207DZ": "\\'Ayn Samara"
+        }
+    },
+    "134DZ": {
+        "name": "Sakikdah",
+        "sub": {
+            "134201DZ": "al-Harush",
+            "134202DZ": "al-Qull",
+            "134203DZ": "Amjaz Adshish",
+            "134204DZ": "Fil Fila",
+            "134205DZ": "Karkira",
+            "134206DZ": "Ramadan Jamal",
+            "134207DZ": "Sakikdah",
+            "134208DZ": "Shataybih",
+            "134209DZ": "Tamalus",
+            "134210DZ": "\\'Azzabah"
+        }
+    },
+    "135DZ": {
+        "name": "Satif",
+        "sub": {
+            "135201DZ": "al-\\'Ulmah",
+            "135202DZ": "Bouira",
+            "135203DZ": "Buq\\'ah",
+            "135204DZ": "Salah Bay",
+            "135205DZ": "Satif",
+            "135206DZ": "Setif",
+            "135207DZ": "Ziyama Mansuriyah",
+            "135208DZ": "\\'Ayn Arnat",
+            "135209DZ": "\\'Ayn Taqrut",
+            "135210DZ": "\\'Ayn Wilman",
+            "135211DZ": "\\'Ayn \\'Azl",
+            "135212DZ": "\\'Ayn-al-Khabira"
+        }
+    },
+    "136DZ": {
+        "name": "Sayda\\'",
+        "sub": {
+            "136201DZ": "Sayda\\'",
+            "136202DZ": "\\'Ayn-al-Hajar"
+        }
+    },
+    "137DZ": {
+        "name": "Sidi ban-al-\\'Abbas",
+        "sub": {
+            "137201DZ": "Sayda\\'",
+            "137202DZ": "\\'Ayn-al-Hajar"
+        }
+    },
+    "138DZ": {
+        "name": "Suq Ahras",
+        "sub": {
+            "138201DZ": "Sayda\\'",
+            "138202DZ": "\\'Ayn-al-Hajar"
+        }
+    },
+    "139DZ": {
+        "name": "Tamanghasat",
+        "sub": {
+            "139201DZ": "Tamanghasat",
+            "139202DZ": "\\'Ayn Qazzan",
+            "139203DZ": "\\'Ayn Salah"
+        }
+    },
+    "140DZ": {
+        "name": "Tibazah",
+        "sub": {
+            "140201DZ": "al-Qull\\'ah",
+            "140202DZ": "Bu Isma\\'il",
+            "140203DZ": "Bu Midfar\\'ah",
+            "140204DZ": "Damus",
+            "140205DZ": "Duwirah",
+            "140206DZ": "Hajut",
+            "140207DZ": "Hammam Righa",
+            "140208DZ": "Sawlah",
+            "140209DZ": "Shiragha",
+            "140210DZ": "Shirshall",
+            "140211DZ": "Sidi Farj",
+            "140212DZ": "Stawali",
+            "140213DZ": "Tibazah",
+            "140214DZ": "Ziralda",
+            "140215DZ": "\\'Ayn Binyan"
+        }
+    },
+    "141DZ": {
+        "name": "Tibissah",
+        "sub": {
+            "141201DZ": "al-\\'Awaynat",
+            "141202DZ": "Bi\\'r-al-\\'Itir",
+            "141203DZ": "Hammamat",
+            "141204DZ": "Mursut",
+            "141205DZ": "Shariyah",
+            "141206DZ": "Tibissah",
+            "141207DZ": "Winzah"
+        }
+    },
+    "142DZ": {
+        "name": "Tilimsan",
+        "sub": {
+            "142201DZ": "al-Mansurah",
+            "142202DZ": "Awlad Mimun",
+            "142203DZ": "Bani Mastar",
+            "142204DZ": "Bani Sikran",
+            "142205DZ": "Ghazawat",
+            "142206DZ": "Hannayah",
+            "142207DZ": "Maghniyah",
+            "142208DZ": "Nidruma",
+            "142209DZ": "Ramsh",
+            "142210DZ": "Sabra",
+            "142211DZ": "Shatwan",
+            "142212DZ": "Sibdu",
+            "142213DZ": "Sidi \\'Abdallah",
+            "142214DZ": "Tilimsan"
+        }
+    },
+    "143DZ": {
+        "name": "Tinduf",
+        "sub": {
+            "143201DZ": "Tinduf"
+        }
+    },
+    "144DZ": {
+        "name": "Tisamsilt",
+        "sub": {
+            "144201DZ": "Thaniyat-al-Had",
+            "144202DZ": "Tisamsilt"
+        }
+    },
+    "145DZ": {
+        "name": "Tiyarat",
+        "sub": {
+            "145201DZ": "Firindah",
+            "145202DZ": "Mahdiyah",
+            "145203DZ": "Mashra\\'a Asfa",
+            "145204DZ": "Qasr Shillalah",
+            "145205DZ": "Rahuyah",
+            "145206DZ": "Sughar",
+            "145207DZ": "Takhamarat",
+            "145208DZ": "Tiyarat",
+            "145209DZ": "\\'Ayn Dhahab"
+        }
+    },
+    "146DZ": {
+        "name": "Tizi Wazu",
+        "sub": {
+            "146201DZ": "Firindah",
+            "146202DZ": "Mahdiyah",
+            "146203DZ": "Mashra\\'a Asfa",
+            "146204DZ": "Qasr Shillalah",
+            "146205DZ": "Rahuyah",
+            "146206DZ": "Sughar",
+            "146207DZ": "Takhamarat",
+            "146208DZ": "Tiyarat",
+            "146209DZ": "\\'Ayn Dhahab"
+        }
+    },
+    "147DZ": {
+        "name": "Umm-al-Bawaghi",
+        "sub": {
+            "147201DZ": "Bi\\'r Shuhada",
+            "147202DZ": "Miskyanah",
+            "147203DZ": "Shamurah",
+            "147204DZ": "Umm-al-Bawaghi",
+            "147205DZ": "\\'Ayn Bayda",
+            "147206DZ": "\\'Ayn Fakrun",
+            "147207DZ": "\\'Ayn Kirshah",
+            "147208DZ": "\\'Ayn Malilah"
+        }
+    },
+    "148DZ": {
+        "name": "Wahran",
+        "sub": {
+            "148201DZ": "al-Ansur",
+            "148202DZ": "Arzu",
+            "148203DZ": "as-Saniyah",
+            "148204DZ": "Bi\\'r-al-Jir",
+            "148205DZ": "Butlilis",
+            "148206DZ": "Hassi Bu Nif",
+            "148207DZ": "Mars-al-Kabir",
+            "148208DZ": "Qadayal",
+            "148209DZ": "Sidi ash-Shami",
+            "148210DZ": "Wadi Thalatha",
+            "148211DZ": "Wahran",
+            "148212DZ": "\\'Ayn Biya",
+            "148213DZ": "\\'Ayn-at-Turk"
+        }
+    },
+    "149DZ": {
+        "name": "Warqla",
+        "sub": {
+            "149201DZ": "al-Hajirah",
+            "149202DZ": "Hassi Mas\\'ud",
+            "149203DZ": "Nazla",
+            "149204DZ": "Ruwisiyat",
+            "149205DZ": "Tabisbast",
+            "149206DZ": "Tamalhat",
+            "149207DZ": "Tamasin",
+            "149208DZ": "Tayabat-al-Janubiyah",
+            "149209DZ": "Tughghurt",
+            "149210DZ": "Warqla"
+        }
+    },
+    "150DZ": {
+        "name": "Wilaya d Alger",
+        "sub": {
+            "150201DZ": "al-Hajirah",
+            "150202DZ": "Hassi Mas\\'ud",
+            "150203DZ": "Nazla",
+            "150204DZ": "Ruwisiyat",
+            "150205DZ": "Tabisbast",
+            "150206DZ": "Tamalhat",
+            "150207DZ": "Tamasin",
+            "150208DZ": "Tayabat-al-Janubiyah",
+            "150209DZ": "Tughghurt",
+            "150210DZ": "Warqla"
+        }
+    },
+    "151DZ": {
+        "name": "Wilaya de Bejaia",
+        "sub": {
+            "151201DZ": "al-Hajirah",
+            "151202DZ": "Hassi Mas\\'ud",
+            "151203DZ": "Nazla",
+            "151204DZ": "Ruwisiyat",
+            "151205DZ": "Tabisbast",
+            "151206DZ": "Tamalhat",
+            "151207DZ": "Tamasin",
+            "151208DZ": "Tayabat-al-Janubiyah",
+            "151209DZ": "Tughghurt",
+            "151210DZ": "Warqla"
+        }
+    },
+    "152DZ": {
+        "name": "Wilaya de Constantine",
+        "sub": {
+            "152201DZ": "al-Hajirah",
+            "152202DZ": "Hassi Mas\\'ud",
+            "152203DZ": "Nazla",
+            "152204DZ": "Ruwisiyat",
+            "152205DZ": "Tabisbast",
+            "152206DZ": "Tamalhat",
+            "152207DZ": "Tamasin",
+            "152208DZ": "Tayabat-al-Janubiyah",
+            "152209DZ": "Tughghurt",
+            "152210DZ": "Warqla"
+        }
+    },
+    "153DZ": {
+        "name": "\\'Ayn Daflah",
+        "sub": {
+            "153201DZ": "al-Hajirah",
+            "153202DZ": "Hassi Mas\\'ud",
+            "153203DZ": "Nazla",
+            "153204DZ": "Ruwisiyat",
+            "153205DZ": "Tabisbast",
+            "153206DZ": "Tamalhat",
+            "153207DZ": "Tamasin",
+            "153208DZ": "Tayabat-al-Janubiyah",
+            "153209DZ": "Tughghurt",
+            "153210DZ": "Warqla"
+        }
+    },
+    "154DZ": {
+        "name": "\\'Ayn Tamushanat",
+        "sub": {
+            "154201DZ": "al-Hajirah",
+            "154202DZ": "Hassi Mas\\'ud",
+            "154203DZ": "Nazla",
+            "154204DZ": "Ruwisiyat",
+            "154205DZ": "Tabisbast",
+            "154206DZ": "Tamalhat",
+            "154207DZ": "Tamasin",
+            "154208DZ": "Tayabat-al-Janubiyah",
+            "154209DZ": "Tughghurt",
+            "154210DZ": "Warqla"
+        }
+    }
+}

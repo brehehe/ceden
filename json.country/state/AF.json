@@ -1,0 +1,274 @@
+{
+    "101AF": {
+        "name": "Badakhshan",
+        "sub": {
+            "101201AF": "Eshkashem",
+            "101202AF": "Fayzabad",
+            "101203AF": "Jurm",
+            "101204AF": "Khandud",
+            "101205AF": "Qal\\'eh-ye Panjeh"
+        }
+    },
+    "102AF": {
+        "name": "Badgis",
+        "sub": {
+            "102201AF": "Bala Morghab",
+            "102202AF": "Qal\\'eh-ye Naw"
+        }
+    },
+    "103AF": {
+        "name": "Baglan",
+        "sub": {
+            "103201AF": "Andarab",
+            "103202AF": "Baghlan",
+            "103203AF": "Dahaneh-ye Ghawri",
+            "103204AF": "Nahrin",
+            "103205AF": "Pol-e Khumri"
+        }
+    },
+    "104AF": {
+        "name": "Balkh",
+        "sub": {
+            "104201AF": "Balkh",
+            "104202AF": "Dawlatabad",
+            "104203AF": "Mazar-e Sharif",
+            "104204AF": "Qarchi Gak",
+            "104205AF": "Shulgara",
+            "104206AF": "Tash Gozar"
+        }
+    },
+    "105AF": {
+        "name": "Bamiyan",
+        "sub": {
+            "105201AF": "Bamiyan",
+            "105202AF": "Panjab",
+            "105203AF": "Qil Qal\\'eh"
+        }
+    },
+    "106AF": {
+        "name": "Farah",
+        "sub": {
+            "106201AF": "Anar Darreh",
+            "106202AF": "Farah",
+            "106203AF": "Shindand"
+        }
+    },
+    "107AF": {
+        "name": "Faryab",
+        "sub": {
+            "107201AF": "Andkhvoy",
+            "107202AF": "Darzi Ab",
+            "107203AF": "Dawlatabad",
+            "107204AF": "Maymanah"
+        }
+    },
+    "108AF": {
+        "name": "Gawr",
+        "sub": {
+            "108201AF": "Chaghcharan",
+            "108202AF": "Shahrak",
+            "108203AF": "Taywarah"
+        }
+    },
+    "109AF": {
+        "name": "Gazni",
+        "sub": {
+            "109201AF": "Ghazni"
+        }
+    },
+    "110AF": {
+        "name": "Herat",
+        "sub": {
+            "110201AF": "Awbeh",
+            "110202AF": "Eslam Qal\\'eh",
+            "110203AF": "Ghurian",
+            "110204AF": "Herat",
+            "110205AF": "Karukh",
+            "110206AF": "Kuhestan",
+            "110207AF": "Kushk",
+            "110208AF": "Qarabagh",
+            "110209AF": "Tawraghudi",
+            "110210AF": "Tir Pol",
+            "110211AF": "Zendejan"
+        }
+    },
+    "111AF": {
+        "name": "Hilmand",
+        "sub": {
+            "111201AF": "Baghran",
+            "111202AF": "Darwishan",
+            "111203AF": "Deh Shu",
+            "111204AF": "Gereshk",
+            "111205AF": "Lashkar Gah",
+            "111206AF": "Sangin"
+        }
+    },
+    "112AF": {
+        "name": "Jawzjan",
+        "sub": {
+            "112201AF": "Aqchah",
+            "112202AF": "Qarqin",
+            "112203AF": "Sang-e Charak",
+            "112204AF": "Shibarghan"
+        }
+    },
+    "113AF": {
+        "name": "Kabul",
+        "sub": {
+            "113201AF": "Baghrami",
+            "113202AF": "Kabul",
+            "113203AF": "Mir Bachchekut",
+            "113204AF": "Paghman",
+            "113205AF": "Qarabagh",
+            "113206AF": "Sarawbi"
+        }
+    },
+    "114AF": {
+        "name": "Kapisa",
+        "sub": {
+            "114201AF": "Mahmud-e Raqi",
+            "114202AF": "Taghab"
+        }
+    },
+    "115AF": {
+        "name": "Khawst",
+        "sub": {
+            "115201AF": "Khawst"
+        }
+    },
+    "116AF": {
+        "name": "Kunar",
+        "sub": {
+            "116201AF": "Asadabad",
+            "116202AF": "Asmar"
+        }
+    },
+    "117AF": {
+        "name": "Lagman",
+        "sub": {
+            "117201AF": "Mehtar Lam"
+        }
+    },
+    "118AF": {
+        "name": "Lawghar",
+        "sub": {
+            "118201AF": "Azraw",
+            "118202AF": "Baraki Barak",
+            "118203AF": "Pol-e Alam"
+        }
+    },
+    "119AF": {
+        "name": "Nangarhar",
+        "sub": {
+            "119201AF": "Achin",
+            "119202AF": "Batsawul",
+            "119203AF": "Hugyani",
+            "119204AF": "Jalalabad",
+            "119205AF": "Nader Shah Kawt"
+        }
+    },
+    "120AF": {
+        "name": "Nimruz",
+        "sub": {
+            "120201AF": "Chahar Burjak",
+            "120202AF": "Chakhansur",
+            "120203AF": "Khash",
+            "120204AF": "Mirabad",
+            "120205AF": "Rudbar",
+            "120206AF": "Zaranj"
+        }
+    },
+    "121AF": {
+        "name": "Nuristan",
+        "sub": {
+            "121201AF": "Nuristan"
+        }
+    },
+    "122AF": {
+        "name": "Paktika",
+        "sub": {
+            "122201AF": "Orgun",
+            "122202AF": "Zareh Sharan",
+            "122203AF": "Zarghun Shahr"
+        }
+    },
+    "123AF": {
+        "name": "Paktiya",
+        "sub": {
+            "123201AF": "Ghardez",
+            "123202AF": "\\'Ali Khayl"
+        }
+    },
+    "124AF": {
+        "name": "Parwan",
+        "sub": {
+            "124201AF": "Charikar",
+            "124202AF": "Jabal-os-Saraj"
+        }
+    },
+    "125AF": {
+        "name": "Qandahar",
+        "sub": {
+            "125201AF": "Qandahar"
+        }
+    },
+    "126AF": {
+        "name": "Qunduz",
+        "sub": {
+            "126201AF": "Dasht-e Archa",
+            "126202AF": "Emam Saheb",
+            "126203AF": "Hazart Imam",
+            "126204AF": "Khanabad",
+            "126205AF": "Qal\\'eh-ye Zal",
+            "126206AF": "Qunduz"
+        }
+    },
+    "127AF": {
+        "name": "Samangan",
+        "sub": {
+            "127201AF": "Aybak",
+            "127202AF": "Kholm"
+        }
+    },
+    "128AF": {
+        "name": "Sar-e Pul",
+        "sub": {
+            "128201AF": "Aybak",
+            "128202AF": "Kholm"
+        }
+    },
+    "129AF": {
+        "name": "Takhar",
+        "sub": {
+            "129201AF": "Chah Ab",
+            "129202AF": "Eshkamesh",
+            "129203AF": "Farkhar",
+            "129204AF": "Khwajeh Ghar",
+            "129205AF": "Rostaq",
+            "129206AF": "Taloqan",
+            "129207AF": "Yangi Qal\\'eh"
+        }
+    },
+    "130AF": {
+        "name": "Uruzgan",
+        "sub": {
+            "130201AF": "Deh Rawud",
+            "130202AF": "Gaz Ab",
+            "130203AF": "Tarin Kawt",
+            "130204AF": "Uruzgan"
+        }
+    },
+    "131AF": {
+        "name": "Wardag",
+        "sub": {
+            "131201AF": "Gardan Diwal",
+            "131202AF": "Maydanshahr"
+        }
+    },
+    "132AF": {
+        "name": "Zabul",
+        "sub": {
+            "132201AF": "Qalat-e Ghilzay"
+        }
+    }
+}

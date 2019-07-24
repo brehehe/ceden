@@ -1,0 +1,82 @@
+{
+    "101GA": {
+        "name": "Estuaire",
+        "sub": {
+            "101201GA": "Cocobeach",
+            "101202GA": "Kango",
+            "101203GA": "Libreville",
+            "101204GA": "Nkan",
+            "101205GA": "Ntoum"
+        }
+    },
+    "102GA": {
+        "name": "Haut-Ogooue",
+        "sub": {
+            "102201GA": "Lekoni",
+            "102202GA": "Masuku",
+            "102203GA": "Moanda",
+            "102204GA": "Mounana",
+            "102205GA": "Okandja"
+        }
+    },
+    "103GA": {
+        "name": "Moyen-Ogooue",
+        "sub": {
+            "103201GA": "Lambarene",
+            "103202GA": "Ndjole"
+        }
+    },
+    "104GA": {
+        "name": "Ngounie",
+        "sub": {
+            "104201GA": "Fougamou",
+            "104202GA": "Mbigou",
+            "104203GA": "Mimongo",
+            "104204GA": "Mouila",
+            "104205GA": "Ndende"
+        }
+    },
+    "105GA": {
+        "name": "Nyanga",
+        "sub": {
+            "105201GA": "Mayumba",
+            "105202GA": "Tchibanga",
+            "105203GA": "Tsogni"
+        }
+    },
+    "106GA": {
+        "name": "Ogooue-Ivindo",
+        "sub": {
+            "106201GA": "Booue",
+            "106202GA": "Makokou",
+            "106203GA": "Mekambo"
+        }
+    },
+    "107GA": {
+        "name": "Ogooue-Lolo",
+        "sub": {
+            "107201GA": "Koulamoutou",
+            "107202GA": "Lastoursville"
+        }
+    },
+    "108GA": {
+        "name": "Ogooue-Maritime",
+        "sub": {
+            "108201GA": "Gamba",
+            "108202GA": "Omboue",
+            "108203GA": "Port-Gentil",
+            "108204GA": "Sette Cama"
+        }
+    },
+    "109GA": {
+        "name": "Woleu-Ntem",
+        "sub": {
+            "109201GA": "Bitam",
+            "109202GA": "Lalara",
+            "109203GA": "Medouneu",
+            "109204GA": "Minvoul",
+            "109205GA": "Mitzic",
+            "109206GA": "Oyem"
+        }
+    }
+}

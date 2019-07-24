@@ -1,0 +1,247 @@
+{
+    "101BF": {
+        "name": "Bale",
+        "sub": {
+            "101201BF": "Boromo"
+        }
+    },
+    "102BF": {
+        "name": "Bam",
+        "sub": {
+            "102201BF": "Kongoussi"
+        }
+    },
+    "103BF": {
+        "name": "Bazega",
+        "sub": {
+            "103201BF": "Kombissiri"
+        }
+    },
+    "104BF": {
+        "name": "Bougouriba",
+        "sub": {
+            "104201BF": "Diebougou",
+            "104202BF": "Pa"
+        }
+    },
+    "105BF": {
+        "name": "Boulgou",
+        "sub": {
+            "105201BF": "Garango",
+            "105202BF": "Tenkodogo"
+        }
+    },
+    "106BF": {
+        "name": "Boulkiemde",
+        "sub": {
+            "106201BF": "Koudougou"
+        }
+    },
+    "107BF": {
+        "name": "Comoe",
+        "sub": {
+            "107201BF": "Banfora"
+        }
+    },
+    "108BF": {
+        "name": "Ganzourgou",
+        "sub": {
+            "108201BF": "Zorgo"
+        }
+    },
+    "109BF": {
+        "name": "Gnagna",
+        "sub": {
+            "109201BF": "Bogande"
+        }
+    },
+    "110BF": {
+        "name": "Gourma",
+        "sub": {
+            "110201BF": "Fada N\\'gourma"
+        }
+    },
+    "111BF": {
+        "name": "Houet",
+        "sub": {
+            "111201BF": "Bekuy",
+            "111202BF": "Bobo Dioulasso"
+        }
+    },
+    "112BF": {
+        "name": "Ioba",
+        "sub": {
+            "112201BF": "Dano"
+        }
+    },
+    "113BF": {
+        "name": "Kadiogo",
+        "sub": {
+            "113201BF": "Ouagadougou"
+        }
+    },
+    "114BF": {
+        "name": "Kenedougou",
+        "sub": {
+            "114201BF": "Koalla",
+            "114202BF": "Koloko",
+            "114203BF": "Orodara"
+        }
+    },
+    "115BF": {
+        "name": "Komandjari",
+        "sub": {
+            "115201BF": "Gayeri"
+        }
+    },
+    "116BF": {
+        "name": "Kompienga",
+        "sub": {
+            "116201BF": "Pama"
+        }
+    },
+    "117BF": {
+        "name": "Kossi",
+        "sub": {
+            "117201BF": "Nouna"
+        }
+    },
+    "118BF": {
+        "name": "Kouritenga",
+        "sub": {
+            "118201BF": "Koupela"
+        }
+    },
+    "119BF": {
+        "name": "Kourweogo",
+        "sub": {
+            "119201BF": "Bousse"
+        }
+    },
+    "120BF": {
+        "name": "Leraba",
+        "sub": {
+            "120201BF": "Sindou"
+        }
+    },
+    "121BF": {
+        "name": "Mouhoun",
+        "sub": {
+            "121201BF": "Dedougou"
+        }
+    },
+    "122BF": {
+        "name": "Nahouri",
+        "sub": {
+            "122201BF": "Po"
+        }
+    },
+    "123BF": {
+        "name": "Namentenga",
+        "sub": {
+            "123201BF": "Boulsa"
+        }
+    },
+    "124BF": {
+        "name": "Noumbiel",
+        "sub": {
+            "124201BF": "Batie"
+        }
+    },
+    "125BF": {
+        "name": "Oubritenga",
+        "sub": {
+            "125201BF": "Ziniare"
+        }
+    },
+    "126BF": {
+        "name": "Oudalan",
+        "sub": {
+            "126201BF": "Gorom-Gorom"
+        }
+    },
+    "127BF": {
+        "name": "Passore",
+        "sub": {
+            "127201BF": "Yako"
+        }
+    },
+    "128BF": {
+        "name": "Poni",
+        "sub": {
+            "128201BF": "Gaoua",
+            "128202BF": "Kampti",
+            "128203BF": "Loropeni"
+        }
+    },
+    "129BF": {
+        "name": "Sanguie",
+        "sub": {
+            "129201BF": "Reo"
+        }
+    },
+    "130BF": {
+        "name": "Sanmatenga",
+        "sub": {
+            "130201BF": "Kaya"
+        }
+    },
+    "131BF": {
+        "name": "Seno",
+        "sub": {
+            "131201BF": "Dori"
+        }
+    },
+    "132BF": {
+        "name": "Sissili",
+        "sub": {
+            "132201BF": "Gao",
+            "132202BF": "Leo"
+        }
+    },
+    "133BF": {
+        "name": "Soum",
+        "sub": {
+            "133201BF": "Aribinda",
+            "133202BF": "Djibo"
+        }
+    },
+    "134BF": {
+        "name": "Sourou",
+        "sub": {
+            "134201BF": "Louta",
+            "134202BF": "Tougan"
+        }
+    },
+    "135BF": {
+        "name": "Tapoa",
+        "sub": {
+            "135201BF": "Diapaga",
+            "135202BF": "Kantchari"
+        }
+    },
+    "136BF": {
+        "name": "Tuy",
+        "sub": {
+            "136201BF": "Hounde"
+        }
+    },
+    "137BF": {
+        "name": "Yatenga",
+        "sub": {
+            "137201BF": "Ouahigouya"
+        }
+    },
+    "138BF": {
+        "name": "Zondoma",
+        "sub": {
+            "138201BF": "Gourcy"
+        }
+    },
+    "139BF": {
+        "name": "Zoundweogo",
+        "sub": {
+            "139201BF": "Manga"
+        }
+    }
+}

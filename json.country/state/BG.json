@@ -1,0 +1,396 @@
+{
+    "101BG": {
+        "name": "Blagoevgrad",
+        "sub": {
+            "101201BG": "Bansko",
+            "101202BG": "Belica",
+            "101203BG": "Blagoevgrad",
+            "101204BG": "Goce Delchev",
+            "101205BG": "Hadzhidimovo",
+            "101206BG": "Jakoruda",
+            "101207BG": "Kresna",
+            "101208BG": "Melnik",
+            "101209BG": "Petrich",
+            "101210BG": "Razlog",
+            "101211BG": "Sandanski",
+            "101212BG": "Simitli"
+        }
+    },
+    "102BG": {
+        "name": "Burgas",
+        "sub": {
+            "102201BG": "Ahtopol",
+            "102202BG": "Ajtos",
+            "102203BG": "Balgarovo",
+            "102204BG": "Bourgas",
+            "102205BG": "Burgas",
+            "102206BG": "Carevo",
+            "102207BG": "Kableshkovo",
+            "102208BG": "Kameno",
+            "102209BG": "Karnobat",
+            "102210BG": "Malko Tarnovo",
+            "102211BG": "Nesebar",
+            "102212BG": "Obzor",
+            "102213BG": "Pomorie",
+            "102214BG": "Primorsko",
+            "102215BG": "Sozopol",
+            "102216BG": "Sredec",
+            "102217BG": "Sungurlare",
+            "102218BG": "Tvardica"
+        }
+    },
+    "103BG": {
+        "name": "Dobrich",
+        "sub": {
+            "103201BG": "Balchik",
+            "103202BG": "Dobrich",
+            "103203BG": "General-Toshevo",
+            "103204BG": "Kavarna",
+            "103205BG": "Loznica",
+            "103206BG": "Shabla",
+            "103207BG": "Tervel"
+        }
+    },
+    "104BG": {
+        "name": "Gabrovo",
+        "sub": {
+            "104201BG": "Drjanovo",
+            "104202BG": "Gabrovo",
+            "104203BG": "Plachkovci",
+            "104204BG": "Sevlievo",
+            "104205BG": "Trjavna"
+        }
+    },
+    "105BG": {
+        "name": "Haskovo",
+        "sub": {
+            "105201BG": "Dimitrovgrad",
+            "105202BG": "Harmanli",
+            "105203BG": "Haskovo",
+            "105204BG": "Ivajlovgrad",
+            "105205BG": "Ljubimec",
+            "105206BG": "Madzharovo",
+            "105207BG": "Merichleri",
+            "105208BG": "Simeonovgrad",
+            "105209BG": "Svilengrad"
+        }
+    },
+    "106BG": {
+        "name": "Jambol",
+        "sub": {
+            "106201BG": "Boljarovo",
+            "106202BG": "Elhovo",
+            "106203BG": "Jambol",
+            "106204BG": "Straldzha",
+            "106205BG": "Topolovgrad"
+        }
+    },
+    "107BG": {
+        "name": "Kardzhali",
+        "sub": {
+            "107201BG": "Ardino",
+            "107202BG": "Dzhebel",
+            "107203BG": "Kardzhali",
+            "107204BG": "Krumovgrad",
+            "107205BG": "Momchilgrad"
+        }
+    },
+    "108BG": {
+        "name": "Kjustendil",
+        "sub": {
+            "108201BG": "Boboshevo",
+            "108202BG": "Bobovdol",
+            "108203BG": "Dupnica",
+            "108204BG": "Kjustendil",
+            "108205BG": "Kocherinovo",
+            "108206BG": "Rila",
+            "108207BG": "Sapareva Banja",
+            "108208BG": "Zemen"
+        }
+    },
+    "109BG": {
+        "name": "Lovech",
+        "sub": {
+            "109201BG": "Aprilci",
+            "109202BG": "Jablanica",
+            "109203BG": "Letnica",
+            "109204BG": "Lovech",
+            "109205BG": "Lukovit",
+            "109206BG": "Sopot",
+            "109207BG": "Teteven",
+            "109208BG": "Trojan",
+            "109209BG": "Ugarchin"
+        }
+    },
+    "110BG": {
+        "name": "Montana",
+        "sub": {
+            "110201BG": "Berkovica",
+            "110202BG": "Bojchinovci",
+            "110203BG": "Brusarci",
+            "110204BG": "Chiprovci",
+            "110205BG": "Lom",
+            "110206BG": "Montana",
+            "110207BG": "Valchedram",
+            "110208BG": "Varshec"
+        }
+    },
+    "111BG": {
+        "name": "Oblast Sofiya-Grad",
+        "sub": {
+            "111201BG": "Berkovica",
+            "111202BG": "Bojchinovci",
+            "111203BG": "Brusarci",
+            "111204BG": "Chiprovci",
+            "111205BG": "Lom",
+            "111206BG": "Montana",
+            "111207BG": "Valchedram",
+            "111208BG": "Varshec"
+        }
+    },
+    "112BG": {
+        "name": "Pazardzhik",
+        "sub": {
+            "112201BG": "Batak",
+            "112202BG": "Belovo",
+            "112203BG": "Bracigovo",
+            "112204BG": "Koprivshtica",
+            "112205BG": "Panagjurishte",
+            "112206BG": "Pazardzhik",
+            "112207BG": "Peshtera",
+            "112208BG": "Rakitovo",
+            "112209BG": "Septemvri",
+            "112210BG": "Strelcha",
+            "112211BG": "Velingrad"
+        }
+    },
+    "113BG": {
+        "name": "Pernik",
+        "sub": {
+            "113201BG": "Bankja",
+            "113202BG": "Batanovci",
+            "113203BG": "Breznik",
+            "113204BG": "Pernik",
+            "113205BG": "Radomir",
+            "113206BG": "Tran"
+        }
+    },
+    "114BG": {
+        "name": "Pleven",
+        "sub": {
+            "114201BG": "Belene",
+            "114202BG": "Cherven Brjag",
+            "114203BG": "Dolna Mitropolija",
+            "114204BG": "Dolni Dabnik",
+            "114205BG": "Guljanci",
+            "114206BG": "Levski",
+            "114207BG": "Nikopol",
+            "114208BG": "Pleven",
+            "114209BG": "Pordim",
+            "114210BG": "Slavjanovo",
+            "114211BG": "Trashtenik",
+            "114212BG": "Varbica"
+        }
+    },
+    "115BG": {
+        "name": "Plovdiv",
+        "sub": {
+            "115201BG": "Asenovgrad",
+            "115202BG": "Brezovo",
+            "115203BG": "Car Kalojan",
+            "115204BG": "Hisarja",
+            "115205BG": "Kalofer",
+            "115206BG": "Karlovo",
+            "115207BG": "Klisura",
+            "115208BG": "Krichim",
+            "115209BG": "Parvomaj",
+            "115210BG": "Perushtica",
+            "115211BG": "Plovdiv",
+            "115212BG": "Rakovski",
+            "115213BG": "Sadovo",
+            "115214BG": "Saedinenie",
+            "115215BG": "Stambolijski"
+        }
+    },
+    "116BG": {
+        "name": "Razgrad",
+        "sub": {
+            "116201BG": "Isperih",
+            "116202BG": "Kubrat",
+            "116203BG": "Razgrad",
+            "116204BG": "Senovo",
+            "116205BG": "Zavet"
+        }
+    },
+    "117BG": {
+        "name": "Ruse",
+        "sub": {
+            "117201BG": "Bjala",
+            "117202BG": "Borovo",
+            "117203BG": "Dve Mogili",
+            "117204BG": "Ruse",
+            "117205BG": "Russe",
+            "117206BG": "Vetovo"
+        }
+    },
+    "118BG": {
+        "name": "Shumen",
+        "sub": {
+            "118201BG": "Kaolinovo",
+            "118202BG": "Kaspichan",
+            "118203BG": "Novi Pazar",
+            "118204BG": "Pliska",
+            "118205BG": "Shumen",
+            "118206BG": "Smjadovo",
+            "118207BG": "Veliki Preslav"
+        }
+    },
+    "119BG": {
+        "name": "Silistra",
+        "sub": {
+            "119201BG": "Alfatar",
+            "119202BG": "Dulovo",
+            "119203BG": "Glavinica",
+            "119204BG": "Silistra",
+            "119205BG": "Tutrakan"
+        }
+    },
+    "120BG": {
+        "name": "Sliven",
+        "sub": {
+            "120201BG": "Kermen",
+            "120202BG": "Kotel",
+            "120203BG": "Nova Zagora",
+            "120204BG": "Shivachevo",
+            "120205BG": "Sliven"
+        }
+    },
+    "121BG": {
+        "name": "Smoljan",
+        "sub": {
+            "121201BG": "Chepelare",
+            "121202BG": "Devin",
+            "121203BG": "Dospat",
+            "121204BG": "Laki",
+            "121205BG": "Madan",
+            "121206BG": "Nedelino",
+            "121207BG": "Rudozem",
+            "121208BG": "Smoljan",
+            "121209BG": "Zlatograd"
+        }
+    },
+    "122BG": {
+        "name": "Sofija grad",
+        "sub": {
+            "122201BG": "Chepelare",
+            "122202BG": "Devin",
+            "122203BG": "Dospat",
+            "122204BG": "Laki",
+            "122205BG": "Madan",
+            "122206BG": "Nedelino",
+            "122207BG": "Rudozem",
+            "122208BG": "Smoljan",
+            "122209BG": "Zlatograd"
+        }
+    },
+    "123BG": {
+        "name": "Sofijska oblast",
+        "sub": {
+            "123201BG": "Chepelare",
+            "123202BG": "Devin",
+            "123203BG": "Dospat",
+            "123204BG": "Laki",
+            "123205BG": "Madan",
+            "123206BG": "Nedelino",
+            "123207BG": "Rudozem",
+            "123208BG": "Smoljan",
+            "123209BG": "Zlatograd"
+        }
+    },
+    "124BG": {
+        "name": "Stara Zagora",
+        "sub": {
+            "124201BG": "Chepelare",
+            "124202BG": "Devin",
+            "124203BG": "Dospat",
+            "124204BG": "Laki",
+            "124205BG": "Madan",
+            "124206BG": "Nedelino",
+            "124207BG": "Rudozem",
+            "124208BG": "Smoljan",
+            "124209BG": "Zlatograd"
+        }
+    },
+    "125BG": {
+        "name": "Targovishte",
+        "sub": {
+            "125201BG": "Antonovo",
+            "125202BG": "Omurtag",
+            "125203BG": "Opaka",
+            "125204BG": "Popovo",
+            "125205BG": "Targovishte"
+        }
+    },
+    "126BG": {
+        "name": "Varna",
+        "sub": {
+            "126201BG": "Beloslav",
+            "126202BG": "Bjala",
+            "126203BG": "Dalgopol",
+            "126204BG": "Devnja",
+            "126205BG": "Iskar",
+            "126206BG": "Provadija",
+            "126207BG": "Suvorovo",
+            "126208BG": "Valchi Dol",
+            "126209BG": "Varna"
+        }
+    },
+    "127BG": {
+        "name": "Veliko Tarnovo",
+        "sub": {
+            "127201BG": "Beloslav",
+            "127202BG": "Bjala",
+            "127203BG": "Dalgopol",
+            "127204BG": "Devnja",
+            "127205BG": "Iskar",
+            "127206BG": "Provadija",
+            "127207BG": "Suvorovo",
+            "127208BG": "Valchi Dol",
+            "127209BG": "Varna"
+        }
+    },
+    "128BG": {
+        "name": "Vidin",
+        "sub": {
+            "128201BG": "Belogradchik",
+            "128202BG": "Bregovo",
+            "128203BG": "Dimovo",
+            "128204BG": "Dolni Chiflik",
+            "128205BG": "Dunavci",
+            "128206BG": "Gramada",
+            "128207BG": "Kula",
+            "128208BG": "Vidin"
+        }
+    },
+    "129BG": {
+        "name": "Vraca",
+        "sub": {
+            "129201BG": "Bjala Slatina",
+            "129202BG": "Knezha",
+            "129203BG": "Kojnare",
+            "129204BG": "Kozloduj",
+            "129205BG": "Krivodol",
+            "129206BG": "Mezdra",
+            "129207BG": "Mizija",
+            "129208BG": "Orjahovo",
+            "129209BG": "Roman",
+            "129210BG": "Vraca"
+        }
+    },
+    "130BG": {
+        "name": "Yablaniza",
+        "sub": {
+            "130201BG": "Yablaniza"
+        }
+    }
+}

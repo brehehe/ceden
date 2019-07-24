@@ -1,0 +1,14 @@
+{
+    "101BM": {
+        "name": "Hamilton",
+        "sub": {
+            "101201BM": "Hamilton"
+        }
+    },
+    "102BM": {
+        "name": "Saint George",
+        "sub": {
+            "102201BM": "Hamilton"
+        }
+    }
+}

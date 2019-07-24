@@ -1,0 +1,287 @@
+{
+    "101CU": {
+        "name": "Camaguey",
+        "sub": {
+            "101201CU": "Camaguey",
+            "101202CU": "Caney",
+            "101203CU": "Carlos Manuel de Cespedes",
+            "101204CU": "Esmeralda",
+            "101205CU": "Florida",
+            "101206CU": "Guaimaro",
+            "101207CU": "Minas",
+            "101208CU": "Nuevitas",
+            "101209CU": "Santa Cruz del Sur",
+            "101210CU": "Sibanicu",
+            "101211CU": "Vertientes"
+        }
+    },
+    "102CU": {
+        "name": "Ciego de Avila",
+        "sub": {
+            "102201CU": "Camaguey",
+            "102202CU": "Caney",
+            "102203CU": "Carlos Manuel de Cespedes",
+            "102204CU": "Esmeralda",
+            "102205CU": "Florida",
+            "102206CU": "Guaimaro",
+            "102207CU": "Minas",
+            "102208CU": "Nuevitas",
+            "102209CU": "Santa Cruz del Sur",
+            "102210CU": "Sibanicu",
+            "102211CU": "Vertientes"
+        }
+    },
+    "103CU": {
+        "name": "Cienfuegos",
+        "sub": {
+            "103201CU": "Cienfuegos",
+            "103202CU": "Cruces",
+            "103203CU": "Cumanayagua",
+            "103204CU": "Palmira",
+            "103205CU": "Rodas"
+        }
+    },
+    "104CU": {
+        "name": "Ciudad de la Habana",
+        "sub": {
+            "104201CU": "Cienfuegos",
+            "104202CU": "Cruces",
+            "104203CU": "Cumanayagua",
+            "104204CU": "Palmira",
+            "104205CU": "Rodas"
+        }
+    },
+    "105CU": {
+        "name": "Granma",
+        "sub": {
+            "105201CU": "Bayamo",
+            "105202CU": "Campechuela",
+            "105203CU": "Guisa",
+            "105204CU": "Jiguani",
+            "105205CU": "Manzanillo",
+            "105206CU": "Media Luna",
+            "105207CU": "Niquero",
+            "105208CU": "Pilon",
+            "105209CU": "Rio Cauto",
+            "105210CU": "Yara"
+        }
+    },
+    "106CU": {
+        "name": "Guantanamo",
+        "sub": {
+            "106201CU": "Baracoa",
+            "106202CU": "Guantanamo",
+            "106203CU": "Yateras"
+        }
+    },
+    "107CU": {
+        "name": "Habana",
+        "sub": {
+            "107201CU": "Havana"
+        }
+    },
+    "108CU": {
+        "name": "Holguin",
+        "sub": {
+            "108201CU": "Antilla",
+            "108202CU": "Baguanos",
+            "108203CU": "Banes",
+            "108204CU": "Cacocum",
+            "108205CU": "Cauto Cristo",
+            "108206CU": "Cueto",
+            "108207CU": "Gibara",
+            "108208CU": "Holguin",
+            "108209CU": "Jobabo",
+            "108210CU": "Moa",
+            "108211CU": "Sagua de Tanamo"
+        }
+    },
+    "109CU": {
+        "name": "Isla de la Juventud",
+        "sub": {
+            "109201CU": "Antilla",
+            "109202CU": "Baguanos",
+            "109203CU": "Banes",
+            "109204CU": "Cacocum",
+            "109205CU": "Cauto Cristo",
+            "109206CU": "Cueto",
+            "109207CU": "Gibara",
+            "109208CU": "Holguin",
+            "109209CU": "Jobabo",
+            "109210CU": "Moa",
+            "109211CU": "Sagua de Tanamo"
+        }
+    },
+    "110CU": {
+        "name": "La Habana",
+        "sub": {
+            "110201CU": "Antilla",
+            "110202CU": "Baguanos",
+            "110203CU": "Banes",
+            "110204CU": "Cacocum",
+            "110205CU": "Cauto Cristo",
+            "110206CU": "Cueto",
+            "110207CU": "Gibara",
+            "110208CU": "Holguin",
+            "110209CU": "Jobabo",
+            "110210CU": "Moa",
+            "110211CU": "Sagua de Tanamo"
+        }
+    },
+    "111CU": {
+        "name": "Las Tunas",
+        "sub": {
+            "111201CU": "Antilla",
+            "111202CU": "Baguanos",
+            "111203CU": "Banes",
+            "111204CU": "Cacocum",
+            "111205CU": "Cauto Cristo",
+            "111206CU": "Cueto",
+            "111207CU": "Gibara",
+            "111208CU": "Holguin",
+            "111209CU": "Jobabo",
+            "111210CU": "Moa",
+            "111211CU": "Sagua de Tanamo"
+        }
+    },
+    "112CU": {
+        "name": "Matanzas",
+        "sub": {
+            "112201CU": "Abreus",
+            "112202CU": "Agramonte",
+            "112203CU": "Aguacate",
+            "112204CU": "Aguada de Pasajeros",
+            "112205CU": "Alacranes",
+            "112206CU": "Bolondron",
+            "112207CU": "Calimete",
+            "112208CU": "Cardenas",
+            "112209CU": "Carlos Rojas",
+            "112210CU": "Colon",
+            "112211CU": "Corralillo",
+            "112212CU": "Jaguey Grande",
+            "112213CU": "Jovellanos",
+            "112214CU": "Juan Gualberto Gomez",
+            "112215CU": "Los Arabos",
+            "112216CU": "Manguito",
+            "112217CU": "Marti",
+            "112218CU": "Matanzas",
+            "112219CU": "Maximo Gomez",
+            "112220CU": "Pedro Betancourt",
+            "112221CU": "Perico",
+            "112222CU": "Union de Reyes",
+            "112223CU": "Varadero"
+        }
+    },
+    "113CU": {
+        "name": "Pinar del Rio",
+        "sub": {
+            "113201CU": "Abreus",
+            "113202CU": "Agramonte",
+            "113203CU": "Aguacate",
+            "113204CU": "Aguada de Pasajeros",
+            "113205CU": "Alacranes",
+            "113206CU": "Bolondron",
+            "113207CU": "Calimete",
+            "113208CU": "Cardenas",
+            "113209CU": "Carlos Rojas",
+            "113210CU": "Colon",
+            "113211CU": "Corralillo",
+            "113212CU": "Jaguey Grande",
+            "113213CU": "Jovellanos",
+            "113214CU": "Juan Gualberto Gomez",
+            "113215CU": "Los Arabos",
+            "113216CU": "Manguito",
+            "113217CU": "Marti",
+            "113218CU": "Matanzas",
+            "113219CU": "Maximo Gomez",
+            "113220CU": "Pedro Betancourt",
+            "113221CU": "Perico",
+            "113222CU": "Union de Reyes",
+            "113223CU": "Varadero"
+        }
+    },
+    "114CU": {
+        "name": "Sancti Spiritus",
+        "sub": {
+            "114201CU": "Abreus",
+            "114202CU": "Agramonte",
+            "114203CU": "Aguacate",
+            "114204CU": "Aguada de Pasajeros",
+            "114205CU": "Alacranes",
+            "114206CU": "Bolondron",
+            "114207CU": "Calimete",
+            "114208CU": "Cardenas",
+            "114209CU": "Carlos Rojas",
+            "114210CU": "Colon",
+            "114211CU": "Corralillo",
+            "114212CU": "Jaguey Grande",
+            "114213CU": "Jovellanos",
+            "114214CU": "Juan Gualberto Gomez",
+            "114215CU": "Los Arabos",
+            "114216CU": "Manguito",
+            "114217CU": "Marti",
+            "114218CU": "Matanzas",
+            "114219CU": "Maximo Gomez",
+            "114220CU": "Pedro Betancourt",
+            "114221CU": "Perico",
+            "114222CU": "Union de Reyes",
+            "114223CU": "Varadero"
+        }
+    },
+    "115CU": {
+        "name": "Santiago de Cuba",
+        "sub": {
+            "115201CU": "Abreus",
+            "115202CU": "Agramonte",
+            "115203CU": "Aguacate",
+            "115204CU": "Aguada de Pasajeros",
+            "115205CU": "Alacranes",
+            "115206CU": "Bolondron",
+            "115207CU": "Calimete",
+            "115208CU": "Cardenas",
+            "115209CU": "Carlos Rojas",
+            "115210CU": "Colon",
+            "115211CU": "Corralillo",
+            "115212CU": "Jaguey Grande",
+            "115213CU": "Jovellanos",
+            "115214CU": "Juan Gualberto Gomez",
+            "115215CU": "Los Arabos",
+            "115216CU": "Manguito",
+            "115217CU": "Marti",
+            "115218CU": "Matanzas",
+            "115219CU": "Maximo Gomez",
+            "115220CU": "Pedro Betancourt",
+            "115221CU": "Perico",
+            "115222CU": "Union de Reyes",
+            "115223CU": "Varadero"
+        }
+    },
+    "116CU": {
+        "name": "Villa Clara",
+        "sub": {
+            "116201CU": "Abreus",
+            "116202CU": "Agramonte",
+            "116203CU": "Aguacate",
+            "116204CU": "Aguada de Pasajeros",
+            "116205CU": "Alacranes",
+            "116206CU": "Bolondron",
+            "116207CU": "Calimete",
+            "116208CU": "Cardenas",
+            "116209CU": "Carlos Rojas",
+            "116210CU": "Colon",
+            "116211CU": "Corralillo",
+            "116212CU": "Jaguey Grande",
+            "116213CU": "Jovellanos",
+            "116214CU": "Juan Gualberto Gomez",
+            "116215CU": "Los Arabos",
+            "116216CU": "Manguito",
+            "116217CU": "Marti",
+            "116218CU": "Matanzas",
+            "116219CU": "Maximo Gomez",
+            "116220CU": "Pedro Betancourt",
+            "116221CU": "Perico",
+            "116222CU": "Union de Reyes",
+            "116223CU": "Varadero"
+        }
+    }
+}

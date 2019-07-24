@@ -1,0 +1,323 @@
+{
+    "101FI": {
+        "name": "Ahvenanmaa",
+        "sub": {
+            "101201FI": "Maarianhamina"
+        }
+    },
+    "102FI": {
+        "name": "Etela-Karjala",
+        "sub": {
+            "102201FI": "Imatra",
+            "102202FI": "Joutseno",
+            "102203FI": "Lappeenranta"
+        }
+    },
+    "103FI": {
+        "name": "Etela-Pohjanmaa",
+        "sub": {
+            "103201FI": "Hyllykallio",
+            "103202FI": "Ilmajoki",
+            "103203FI": "Kauhajoki",
+            "103204FI": "Kurikka",
+            "103205FI": "Lapua",
+            "103206FI": "Seinajoki"
+        }
+    },
+    "104FI": {
+        "name": "Etela-Savo",
+        "sub": {
+            "104201FI": "Mikkeli",
+            "104202FI": "Savonlinna"
+        }
+    },
+    "105FI": {
+        "name": "Etela-Suomen Laani",
+        "sub": {
+            "105201FI": "Mikkeli",
+            "105202FI": "Savonlinna"
+        }
+    },
+    "106FI": {
+        "name": "Ita-Suomen Laani",
+        "sub": {
+            "106201FI": "Mikkeli",
+            "106202FI": "Savonlinna"
+        }
+    },
+    "107FI": {
+        "name": "Ita-Uusimaa",
+        "sub": {
+            "107201FI": "Loviisa",
+            "107202FI": "Orimattila",
+            "107203FI": "Porvoo"
+        }
+    },
+    "108FI": {
+        "name": "Kainuu",
+        "sub": {
+            "108201FI": "Kajaani"
+        }
+    },
+    "109FI": {
+        "name": "Kanta-Hame",
+        "sub": {
+            "109201FI": "Forssa",
+            "109202FI": "Hameenlinna",
+            "109203FI": "Janakkala",
+            "109204FI": "Riihimaki"
+        }
+    },
+    "110FI": {
+        "name": "Keski-Pohjanmaa",
+        "sub": {
+            "110201FI": "Kokkola"
+        }
+    },
+    "111FI": {
+        "name": "Keski-Suomi",
+        "sub": {
+            "111201FI": "Aanekoski",
+            "111202FI": "Jamsa",
+            "111203FI": "Jyvaskyla",
+            "111204FI": "Keuruu",
+            "111205FI": "Laukaa",
+            "111206FI": "Lieto"
+        }
+    },
+    "112FI": {
+        "name": "Kymenlaakso",
+        "sub": {
+            "112201FI": "Anjalankoski",
+            "112202FI": "Hamina",
+            "112203FI": "Kotka",
+            "112204FI": "Kouvola",
+            "112205FI": "Kuusankoski",
+            "112206FI": "Valkeala",
+            "112207FI": "Vehkalahti"
+        }
+    },
+    "113FI": {
+        "name": "Lansi-Suomen Laani",
+        "sub": {
+            "113201FI": "Anjalankoski",
+            "113202FI": "Hamina",
+            "113203FI": "Kotka",
+            "113204FI": "Kouvola",
+            "113205FI": "Kuusankoski",
+            "113206FI": "Valkeala",
+            "113207FI": "Vehkalahti"
+        }
+    },
+    "114FI": {
+        "name": "Lappi",
+        "sub": {
+            "114201FI": "Kemi",
+            "114202FI": "Kemijarvi",
+            "114203FI": "Rovaniemi",
+            "114204FI": "Sonka",
+            "114205FI": "Tornio"
+        }
+    },
+    "115FI": {
+        "name": "Northern Savonia",
+        "sub": {
+            "115201FI": "Kemi",
+            "115202FI": "Kemijarvi",
+            "115203FI": "Rovaniemi",
+            "115204FI": "Sonka",
+            "115205FI": "Tornio"
+        }
+    },
+    "116FI": {
+        "name": "Ostrobothnia",
+        "sub": {
+            "116201FI": "Jakobstad",
+            "116202FI": "Oulunsalo"
+        }
+    },
+    "117FI": {
+        "name": "Oulun Laani",
+        "sub": {
+            "117201FI": "Jakobstad",
+            "117202FI": "Oulunsalo"
+        }
+    },
+    "118FI": {
+        "name": "Paijat-Hame",
+        "sub": {
+            "118201FI": "Heinola",
+            "118202FI": "Hollola",
+            "118203FI": "Lahti",
+            "118204FI": "Nastola"
+        }
+    },
+    "119FI": {
+        "name": "Pirkanmaa",
+        "sub": {
+            "119201FI": "Kangasala",
+            "119202FI": "Lempaala",
+            "119203FI": "Nokia",
+            "119204FI": "Pirkkala",
+            "119205FI": "Sastamala",
+            "119206FI": "Tampere",
+            "119207FI": "Valkeakoski",
+            "119208FI": "Ylojarvi"
+        }
+    },
+    "120FI": {
+        "name": "Pohjanmaa",
+        "sub": {
+            "120201FI": "Kristiinankaupunki",
+            "120202FI": "Mustasaari",
+            "120203FI": "Pietarsaari",
+            "120204FI": "Uusikarlepyy",
+            "120205FI": "Vaasa"
+        }
+    },
+    "121FI": {
+        "name": "Pohjois-Karjala",
+        "sub": {
+            "121201FI": "Joensuu",
+            "121202FI": "Lieksa"
+        }
+    },
+    "122FI": {
+        "name": "Pohjois-Pohjanmaa",
+        "sub": {
+            "122201FI": "Haukipudas",
+            "122202FI": "Kempele",
+            "122203FI": "Kuusamo",
+            "122204FI": "Muhos",
+            "122205FI": "Nivala",
+            "122206FI": "Oulainen",
+            "122207FI": "Oulu",
+            "122208FI": "Raahe",
+            "122209FI": "Ylivieska"
+        }
+    },
+    "123FI": {
+        "name": "Pohjois-Savo",
+        "sub": {
+            "123201FI": "Iisalmi",
+            "123202FI": "Kuopio",
+            "123203FI": "Sillinjarvi",
+            "123204FI": "Varkaus"
+        }
+    },
+    "124FI": {
+        "name": "Saarijarvi",
+        "sub": {
+            "124201FI": "Saarijarvi"
+        }
+    },
+    "125FI": {
+        "name": "Satakunta",
+        "sub": {
+            "125201FI": "Eura",
+            "125202FI": "Eurajoki",
+            "125203FI": "Harjavalta",
+            "125204FI": "Huittinen",
+            "125205FI": "Kankaanpaa",
+            "125206FI": "Kokemaki",
+            "125207FI": "Lappi",
+            "125208FI": "Nakkila",
+            "125209FI": "Noormarkku",
+            "125210FI": "Pori",
+            "125211FI": "Rauma",
+            "125212FI": "Sakyla",
+            "125213FI": "Ulvila",
+            "125214FI": "Vammala"
+        }
+    },
+    "126FI": {
+        "name": "Southern Savonia",
+        "sub": {
+            "126201FI": "Eura",
+            "126202FI": "Eurajoki",
+            "126203FI": "Harjavalta",
+            "126204FI": "Huittinen",
+            "126205FI": "Kankaanpaa",
+            "126206FI": "Kokemaki",
+            "126207FI": "Lappi",
+            "126208FI": "Nakkila",
+            "126209FI": "Noormarkku",
+            "126210FI": "Pori",
+            "126211FI": "Rauma",
+            "126212FI": "Sakyla",
+            "126213FI": "Ulvila",
+            "126214FI": "Vammala"
+        }
+    },
+    "127FI": {
+        "name": "Tavastia Proper",
+        "sub": {
+            "127201FI": "Eura",
+            "127202FI": "Eurajoki",
+            "127203FI": "Harjavalta",
+            "127204FI": "Huittinen",
+            "127205FI": "Kankaanpaa",
+            "127206FI": "Kokemaki",
+            "127207FI": "Lappi",
+            "127208FI": "Nakkila",
+            "127209FI": "Noormarkku",
+            "127210FI": "Pori",
+            "127211FI": "Rauma",
+            "127212FI": "Sakyla",
+            "127213FI": "Ulvila",
+            "127214FI": "Vammala"
+        }
+    },
+    "128FI": {
+        "name": "Uleaborgs Lan",
+        "sub": {
+            "128201FI": "Eura",
+            "128202FI": "Eurajoki",
+            "128203FI": "Harjavalta",
+            "128204FI": "Huittinen",
+            "128205FI": "Kankaanpaa",
+            "128206FI": "Kokemaki",
+            "128207FI": "Lappi",
+            "128208FI": "Nakkila",
+            "128209FI": "Noormarkku",
+            "128210FI": "Pori",
+            "128211FI": "Rauma",
+            "128212FI": "Sakyla",
+            "128213FI": "Ulvila",
+            "128214FI": "Vammala"
+        }
+    },
+    "129FI": {
+        "name": "Uusimaa",
+        "sub": {
+            "129201FI": "Espoo",
+            "129202FI": "Hanko",
+            "129203FI": "Helsinki",
+            "129204FI": "Hyvinkaa",
+            "129205FI": "Jarvenpaa",
+            "129206FI": "Kauniainen",
+            "129207FI": "Kerava",
+            "129208FI": "Kirkkonummi",
+            "129209FI": "Lohja",
+            "129210FI": "Mantsala",
+            "129211FI": "Nurmijarvi",
+            "129212FI": "Sipoo",
+            "129213FI": "Tammisaari",
+            "129214FI": "Tuusula",
+            "129215FI": "Vantaa",
+            "129216FI": "Vihti"
+        }
+    },
+    "130FI": {
+        "name": "Varsinais-Suomi",
+        "sub": {
+            "130201FI": "Kaarina",
+            "130202FI": "Naantali",
+            "130203FI": "Parainen",
+            "130204FI": "Raisio",
+            "130205FI": "Salo",
+            "130206FI": "Turku",
+            "130207FI": "Uusikaupunki"
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "101BJ": {
+        "name": "Alibori",
+        "sub": {
+            "101201BJ": "Kandi",
+            "101202BJ": "Malanville"
+        }
+    },
+    "102BJ": {
+        "name": "Atacora",
+        "sub": {
+            "102201BJ": "Batia",
+            "102202BJ": "Boukombe",
+            "102203BJ": "Kouande",
+            "102204BJ": "Natitingou"
+        }
+    },
+    "103BJ": {
+        "name": "Atlantique",
+        "sub": {
+            "103201BJ": "Allada",
+            "103202BJ": "Cotonou",
+            "103203BJ": "Ouidah",
+            "103204BJ": "Tanguiete"
+        }
+    },
+    "104BJ": {
+        "name": "Borgou",
+        "sub": {
+            "104201BJ": "Bembereke",
+            "104202BJ": "Nikki",
+            "104203BJ": "Parakou",
+            "104204BJ": "Tchaourou"
+        }
+    },
+    "105BJ": {
+        "name": "Collines",
+        "sub": {
+            "105201BJ": "Dassa",
+            "105202BJ": "Savalou",
+            "105203BJ": "Save"
+        }
+    },
+    "106BJ": {
+        "name": "Couffo",
+        "sub": {
+            "106201BJ": "Aplahoue",
+            "106202BJ": "Dogbo"
+        }
+    },
+    "107BJ": {
+        "name": "Donga",
+        "sub": {
+            "107201BJ": "Djougou"
+        }
+    },
+    "108BJ": {
+        "name": "Littoral",
+        "sub": {
+            "108201BJ": "Cotonou"
+        }
+    },
+    "109BJ": {
+        "name": "Mono",
+        "sub": {
+            "109201BJ": "Athieme",
+            "109202BJ": "Come",
+            "109203BJ": "Grand Popo",
+            "109204BJ": "Lokossa"
+        }
+    },
+    "110BJ": {
+        "name": "Oueme",
+        "sub": {
+            "110201BJ": "Adjohoun",
+            "110202BJ": "Porto Novo"
+        }
+    },
+    "111BJ": {
+        "name": "Plateau",
+        "sub": {
+            "111201BJ": "Ketou",
+            "111202BJ": "Pobe",
+            "111203BJ": "Sakete"
+        }
+    },
+    "112BJ": {
+        "name": "Zou",
+        "sub": {
+            "112201BJ": "Abomey",
+            "112202BJ": "Bohicon",
+            "112203BJ": "Cove",
+            "112204BJ": "Zagnanado"
+        }
+    }
+}

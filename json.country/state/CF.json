@@ -1,0 +1,128 @@
+{
+    "101CF": {
+        "name": "Bamingui-Bangoran",
+        "sub": {
+            "101201CF": "Ndele"
+        }
+    },
+    "102CF": {
+        "name": "Bangui",
+        "sub": {
+            "102201CF": "Bangui"
+        }
+    },
+    "103CF": {
+        "name": "Basse-Kotto",
+        "sub": {
+            "103201CF": "Alindao",
+            "103202CF": "Kembe",
+            "103203CF": "Mobaye"
+        }
+    },
+    "104CF": {
+        "name": "Haut-Mbomou",
+        "sub": {
+            "104201CF": "Obo",
+            "104202CF": "Zemio"
+        }
+    },
+    "105CF": {
+        "name": "Haute-Kotto",
+        "sub": {
+            "105201CF": "Bria",
+            "105202CF": "Ouadda"
+        }
+    },
+    "106CF": {
+        "name": "Kemo",
+        "sub": {
+            "106201CF": "Dekoa",
+            "106202CF": "Sibut"
+        }
+    },
+    "107CF": {
+        "name": "Lobaye",
+        "sub": {
+            "107201CF": "Boda",
+            "107202CF": "Mbaiki",
+            "107203CF": "Mongoumba"
+        }
+    },
+    "108CF": {
+        "name": "Mambere-Kadei",
+        "sub": {
+            "108201CF": "Berberati",
+            "108202CF": "Carnot",
+            "108203CF": "Gamboula"
+        }
+    },
+    "109CF": {
+        "name": "Mbomou",
+        "sub": {
+            "109201CF": "Bangassou",
+            "109202CF": "Gambo",
+            "109203CF": "Ouango",
+            "109204CF": "Rafai"
+        }
+    },
+    "110CF": {
+        "name": "Nana-Gribizi",
+        "sub": {
+            "110201CF": "Kaga-Bandoro"
+        }
+    },
+    "111CF": {
+        "name": "Nana-Mambere",
+        "sub": {
+            "111201CF": "Baboua",
+            "111202CF": "Baoro",
+            "111203CF": "Bouar"
+        }
+    },
+    "112CF": {
+        "name": "Ombella Mpoko",
+        "sub": {
+            "112201CF": "Baboua",
+            "112202CF": "Baoro",
+            "112203CF": "Bouar"
+        }
+    },
+    "113CF": {
+        "name": "Ouaka",
+        "sub": {
+            "113201CF": "Bambari",
+            "113202CF": "Grimari",
+            "113203CF": "Ippy",
+            "113204CF": "Kouango"
+        }
+    },
+    "114CF": {
+        "name": "Ouham",
+        "sub": {
+            "114201CF": "Batangafo",
+            "114202CF": "Bossangoa",
+            "114203CF": "Bouca",
+            "114204CF": "Kabo"
+        }
+    },
+    "115CF": {
+        "name": "Ouham-Pende",
+        "sub": {
+            "115201CF": "Bocaranga",
+            "115202CF": "Bozoum",
+            "115203CF": "Paoua"
+        }
+    },
+    "116CF": {
+        "name": "Sangha-Mbaere",
+        "sub": {
+            "116201CF": "Nola"
+        }
+    },
+    "117CF": {
+        "name": "Vakaga",
+        "sub": {
+            "117201CF": "Birao"
+        }
+    }
+}

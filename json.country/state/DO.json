@@ -1,0 +1,212 @@
+{
+    "101DO": {
+        "name": "Azua",
+        "sub": {
+            "101201DO": "Azua",
+            "101202DO": "Sabana Yegua"
+        }
+    },
+    "102DO": {
+        "name": "Bahoruco",
+        "sub": {
+            "102201DO": "Neyba",
+            "102202DO": "Tamayo"
+        }
+    },
+    "103DO": {
+        "name": "Barahona",
+        "sub": {
+            "103201DO": "Barahona",
+            "103202DO": "Cabral",
+            "103203DO": "El Penon"
+        }
+    },
+    "104DO": {
+        "name": "Dajabon",
+        "sub": {
+            "104201DO": "Dajabon"
+        }
+    },
+    "105DO": {
+        "name": "Distrito Nacional",
+        "sub": {
+            "105201DO": "Dajabon"
+        }
+    },
+    "106DO": {
+        "name": "Duarte",
+        "sub": {
+            "106201DO": "Las Guaranas",
+            "106202DO": "Pimentel",
+            "106203DO": "San Francisco de Macoris"
+        }
+    },
+    "107DO": {
+        "name": "El Seybo",
+        "sub": {
+            "107201DO": "Las Guaranas",
+            "107202DO": "Pimentel",
+            "107203DO": "San Francisco de Macoris"
+        }
+    },
+    "108DO": {
+        "name": "Elias Pina",
+        "sub": {
+            "108201DO": "Las Guaranas",
+            "108202DO": "Pimentel",
+            "108203DO": "San Francisco de Macoris"
+        }
+    },
+    "109DO": {
+        "name": "Espaillat",
+        "sub": {
+            "109201DO": "Moca"
+        }
+    },
+    "110DO": {
+        "name": "Hato Mayor",
+        "sub": {
+            "110201DO": "Moca"
+        }
+    },
+    "111DO": {
+        "name": "Independencia",
+        "sub": {
+            "111201DO": "Duverge",
+            "111202DO": "Jimani"
+        }
+    },
+    "112DO": {
+        "name": "La Altagracia",
+        "sub": {
+            "112201DO": "Duverge",
+            "112202DO": "Jimani"
+        }
+    },
+    "113DO": {
+        "name": "La Romana",
+        "sub": {
+            "113201DO": "Duverge",
+            "113202DO": "Jimani"
+        }
+    },
+    "114DO": {
+        "name": "La Vega",
+        "sub": {
+            "114201DO": "Duverge",
+            "114202DO": "Jimani"
+        }
+    },
+    "115DO": {
+        "name": "Maria Trinidad Sanchez",
+        "sub": {
+            "115201DO": "Duverge",
+            "115202DO": "Jimani"
+        }
+    },
+    "116DO": {
+        "name": "Monsenor Nouel",
+        "sub": {
+            "116201DO": "Duverge",
+            "116202DO": "Jimani"
+        }
+    },
+    "117DO": {
+        "name": "Monte Cristi",
+        "sub": {
+            "117201DO": "Duverge",
+            "117202DO": "Jimani"
+        }
+    },
+    "118DO": {
+        "name": "Monte Plata",
+        "sub": {
+            "118201DO": "Duverge",
+            "118202DO": "Jimani"
+        }
+    },
+    "119DO": {
+        "name": "Pedernales",
+        "sub": {
+            "119201DO": "Pedernales"
+        }
+    },
+    "120DO": {
+        "name": "Peravia",
+        "sub": {
+            "120201DO": "Bani",
+            "120202DO": "Ocoa"
+        }
+    },
+    "121DO": {
+        "name": "Puerto Plata",
+        "sub": {
+            "121201DO": "Bani",
+            "121202DO": "Ocoa"
+        }
+    },
+    "122DO": {
+        "name": "Salcedo",
+        "sub": {
+            "122201DO": "Salcedo"
+        }
+    },
+    "123DO": {
+        "name": "Samana",
+        "sub": {
+            "123201DO": "Samana",
+            "123202DO": "Sanchez"
+        }
+    },
+    "124DO": {
+        "name": "San Cristobal",
+        "sub": {
+            "124201DO": "Samana",
+            "124202DO": "Sanchez"
+        }
+    },
+    "125DO": {
+        "name": "San Juan",
+        "sub": {
+            "125201DO": "Samana",
+            "125202DO": "Sanchez"
+        }
+    },
+    "126DO": {
+        "name": "San Pedro de Macoris",
+        "sub": {
+            "126201DO": "Samana",
+            "126202DO": "Sanchez"
+        }
+    },
+    "127DO": {
+        "name": "Sanchez Ramirez",
+        "sub": {
+            "127201DO": "Samana",
+            "127202DO": "Sanchez"
+        }
+    },
+    "128DO": {
+        "name": "Santiago",
+        "sub": {
+            "128201DO": "Santiago",
+            "128202DO": "Tamboril",
+            "128203DO": "Villa Bisono"
+        }
+    },
+    "129DO": {
+        "name": "Santiago Rodriguez",
+        "sub": {
+            "129201DO": "Santiago",
+            "129202DO": "Tamboril",
+            "129203DO": "Villa Bisono"
+        }
+    },
+    "130DO": {
+        "name": "Valverde",
+        "sub": {
+            "130201DO": "Esperanza",
+            "130202DO": "Mao"
+        }
+    }
+}

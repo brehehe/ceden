@@ -1,0 +1,32 @@
+{
+    "101DJ": {
+        "name": "Dikhil",
+        "sub": {
+            "101201DJ": "Dikhil"
+        }
+    },
+    "102DJ": {
+        "name": "Jibuti",
+        "sub": {
+            "102201DJ": "Jibuti"
+        }
+    },
+    "103DJ": {
+        "name": "Tajurah",
+        "sub": {
+            "103201DJ": "Tajurah"
+        }
+    },
+    "104DJ": {
+        "name": "Ubuk",
+        "sub": {
+            "104201DJ": "Ubuk"
+        }
+    },
+    "105DJ": {
+        "name": "\\'Ali Sabih",
+        "sub": {
+            "105201DJ": "Ubuk"
+        }
+    }
+}

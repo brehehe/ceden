@@ -1,0 +1,440 @@
+{
+    "101CZ": {
+        "name": "Central Bohemian",
+        "sub": {
+            "101201CZ": "Paphos"
+        }
+    },
+    "102CZ": {
+        "name": "Frycovice",
+        "sub": {
+            "102201CZ": "Frycovice"
+        }
+    },
+    "103CZ": {
+        "name": "Jihocesky Kraj",
+        "sub": {
+            "103201CZ": "Frycovice"
+        }
+    },
+    "104CZ": {
+        "name": "Jihochesky",
+        "sub": {
+            "104201CZ": "Bechyne",
+            "104202CZ": "Blatna",
+            "104203CZ": "Cheske Budejovice",
+            "104204CZ": "Chesky Krumlov",
+            "104205CZ": "Dachice",
+            "104206CZ": "Jindrichuv Hradec",
+            "104207CZ": "Kaplice",
+            "104208CZ": "Milevsko",
+            "104209CZ": "Pisek",
+            "104210CZ": "Prachatice",
+            "104211CZ": "Protivin",
+            "104212CZ": "Sezimovo Usti",
+            "104213CZ": "Sobeslav",
+            "104214CZ": "Strakonice",
+            "104215CZ": "Tabor",
+            "104216CZ": "Trebon",
+            "104217CZ": "Tyn nad Vltavou",
+            "104218CZ": "Veseli nad Luzhnici",
+            "104219CZ": "Vimperk",
+            "104220CZ": "Vodnany"
+        }
+    },
+    "105CZ": {
+        "name": "Jihomoravsky",
+        "sub": {
+            "105201CZ": "Adamov",
+            "105202CZ": "Blansko",
+            "105203CZ": "Boskovice",
+            "105204CZ": "Breclav",
+            "105205CZ": "Brno",
+            "105206CZ": "Buchovice",
+            "105207CZ": "Dubnany",
+            "105208CZ": "Hodonin",
+            "105209CZ": "Hrusky",
+            "105210CZ": "Hustopeche",
+            "105211CZ": "Ivanchice",
+            "105212CZ": "Kurim",
+            "105213CZ": "Kyjov",
+            "105214CZ": "Letovice",
+            "105215CZ": "Mikulov",
+            "105216CZ": "Moravsky Krumlov",
+            "105217CZ": "Namesht\\' nad Oslavou",
+            "105218CZ": "Rosice",
+            "105219CZ": "Shlapanice",
+            "105220CZ": "Slavkov u Brna",
+            "105221CZ": "Tishnov",
+            "105222CZ": "Vyshkov",
+            "105223CZ": "Znojmo"
+        }
+    },
+    "106CZ": {
+        "name": "Karlovarsky",
+        "sub": {
+            "106201CZ": "Ash",
+            "106202CZ": "Bozicany",
+            "106203CZ": "Cheb",
+            "106204CZ": "Chodov",
+            "106205CZ": "Frantishkovy Lazne",
+            "106206CZ": "Horni Slavkov",
+            "106207CZ": "Karlovy Vary",
+            "106208CZ": "Kraslice",
+            "106209CZ": "Kynshperk nad Ohri",
+            "106210CZ": "Marianske Lazne",
+            "106211CZ": "Nejdek",
+            "106212CZ": "Ostrov",
+            "106213CZ": "Sokolov"
+        }
+    },
+    "107CZ": {
+        "name": "Klecany",
+        "sub": {
+            "107201CZ": "Klecany"
+        }
+    },
+    "108CZ": {
+        "name": "Kralovehradecky",
+        "sub": {
+            "108201CZ": "Broumov",
+            "108202CZ": "Cherveny Kostelec",
+            "108203CZ": "Cheska Skalice",
+            "108204CZ": "Chlumec nad Cidlinou",
+            "108205CZ": "Dobrushka",
+            "108206CZ": "Dvur Kralove",
+            "108207CZ": "Habartov",
+            "108208CZ": "Holice",
+            "108209CZ": "Horice",
+            "108210CZ": "Hostinne",
+            "108211CZ": "Hradec Kralove",
+            "108212CZ": "Hronov",
+            "108213CZ": "Jaromer",
+            "108214CZ": "Jichin",
+            "108215CZ": "Kostelec nad Orlici",
+            "108216CZ": "Nachod",
+            "108217CZ": "Nova Paka",
+            "108218CZ": "Nove Mesto nad Metuji",
+            "108219CZ": "Novy Bydzhov",
+            "108220CZ": "Rychnov nad Knezhnou",
+            "108221CZ": "Trebechovice pod Orebem",
+            "108222CZ": "Trutnov",
+            "108223CZ": "Tynishte nad Orlici",
+            "108224CZ": "Upice",
+            "108225CZ": "Vrchlabi"
+        }
+    },
+    "109CZ": {
+        "name": "Liberecky",
+        "sub": {
+            "109201CZ": "Ceska Lipa",
+            "109202CZ": "Cheska Kamenice",
+            "109203CZ": "Cheska Lipa",
+            "109204CZ": "Chrastava",
+            "109205CZ": "Doksy",
+            "109206CZ": "Frydlant",
+            "109207CZ": "Hradek",
+            "109208CZ": "Jablonec",
+            "109209CZ": "Jilemnice",
+            "109210CZ": "Liberec",
+            "109211CZ": "Lomnice nad Popelkou",
+            "109212CZ": "Mimon",
+            "109213CZ": "Novy Bor",
+            "109214CZ": "Semily",
+            "109215CZ": "Tanvald",
+            "109216CZ": "Turnov",
+            "109217CZ": "Zhelezny Brod"
+        }
+    },
+    "110CZ": {
+        "name": "Lipov",
+        "sub": {
+            "110201CZ": "Lipov"
+        }
+    },
+    "111CZ": {
+        "name": "Moravskoslezsky",
+        "sub": {
+            "111201CZ": "Bilovec",
+            "111202CZ": "Bohumin",
+            "111203CZ": "Bruntal",
+            "111204CZ": "Chesky Teshin",
+            "111205CZ": "Frenshtat",
+            "111206CZ": "Frydek-Mistek",
+            "111207CZ": "Frydlant nad Ostravici",
+            "111208CZ": "Fulnek",
+            "111209CZ": "Havirov",
+            "111210CZ": "Hluchin",
+            "111211CZ": "Hradec nad Moravice",
+            "111212CZ": "Jablunkov",
+            "111213CZ": "Karvina",
+            "111214CZ": "Koprivnice",
+            "111215CZ": "Kravare",
+            "111216CZ": "Krnov",
+            "111217CZ": "Novy Jichin",
+            "111218CZ": "Odry",
+            "111219CZ": "Opava",
+            "111220CZ": "Orlova",
+            "111221CZ": "Ostrava",
+            "111222CZ": "Petrvald",
+            "111223CZ": "Pribor",
+            "111224CZ": "Rychvald",
+            "111225CZ": "Rymarov",
+            "111226CZ": "Shenov",
+            "111227CZ": "Studenka",
+            "111228CZ": "Trinec",
+            "111229CZ": "Vitkov",
+            "111230CZ": "Vratimov",
+            "111231CZ": "Vrbno pod Pradedem"
+        }
+    },
+    "112CZ": {
+        "name": "Olomoucky",
+        "sub": {
+            "112201CZ": "Hranice",
+            "112202CZ": "Jesenik",
+            "112203CZ": "Kojetin",
+            "112204CZ": "Lipnik nad Becvou",
+            "112205CZ": "Litovel",
+            "112206CZ": "Mohelnice",
+            "112207CZ": "Olomouc",
+            "112208CZ": "Prerov",
+            "112209CZ": "Prostejov",
+            "112210CZ": "Shternberk",
+            "112211CZ": "Shumperk",
+            "112212CZ": "Unichov",
+            "112213CZ": "Zabreh"
+        }
+    },
+    "113CZ": {
+        "name": "Olomoucky Kraj",
+        "sub": {
+            "113201CZ": "Hranice",
+            "113202CZ": "Jesenik",
+            "113203CZ": "Kojetin",
+            "113204CZ": "Lipnik nad Becvou",
+            "113205CZ": "Litovel",
+            "113206CZ": "Mohelnice",
+            "113207CZ": "Olomouc",
+            "113208CZ": "Prerov",
+            "113209CZ": "Prostejov",
+            "113210CZ": "Shternberk",
+            "113211CZ": "Shumperk",
+            "113212CZ": "Unichov",
+            "113213CZ": "Zabreh"
+        }
+    },
+    "114CZ": {
+        "name": "Pardubicky",
+        "sub": {
+            "114201CZ": "Cheska Trebova",
+            "114202CZ": "Chocen",
+            "114203CZ": "Chrudim",
+            "114204CZ": "Chvaletice",
+            "114205CZ": "Hermanuv Mestec",
+            "114206CZ": "Hlinsko",
+            "114207CZ": "Lanshkroun",
+            "114208CZ": "Letohrad",
+            "114209CZ": "Litomyshl",
+            "114210CZ": "Moravska Trebova",
+            "114211CZ": "Pardubice",
+            "114212CZ": "Polichka",
+            "114213CZ": "Policka",
+            "114214CZ": "Prelouch",
+            "114215CZ": "Skutech",
+            "114216CZ": "Svitavy",
+            "114217CZ": "Usti nad Orlici",
+            "114218CZ": "Vysoke Myto",
+            "114219CZ": "Zhamberk"
+        }
+    },
+    "115CZ": {
+        "name": "Plzensky",
+        "sub": {
+            "115201CZ": "Dobrany",
+            "115202CZ": "Domazhlice",
+            "115203CZ": "Horazhd\\'ovice",
+            "115204CZ": "Horshovky Tyn",
+            "115205CZ": "Kdyne",
+            "115206CZ": "Klatovy",
+            "115207CZ": "Nyrany",
+            "115208CZ": "Nyrsko",
+            "115209CZ": "Plana",
+            "115210CZ": "Plzen",
+            "115211CZ": "Preshtice",
+            "115212CZ": "Radnice",
+            "115213CZ": "Rokycany",
+            "115214CZ": "Stribro",
+            "115215CZ": "Sushice",
+            "115216CZ": "Tachov"
+        }
+    },
+    "116CZ": {
+        "name": "Praha",
+        "sub": {
+            "116201CZ": "Prague",
+            "116202CZ": "Praha"
+        }
+    },
+    "117CZ": {
+        "name": "Rajhrad",
+        "sub": {
+            "117201CZ": "Rajhrad"
+        }
+    },
+    "118CZ": {
+        "name": "Smirice",
+        "sub": {
+            "118201CZ": "Smirice"
+        }
+    },
+    "119CZ": {
+        "name": "South Moravian",
+        "sub": {
+            "119201CZ": "Smirice"
+        }
+    },
+    "120CZ": {
+        "name": "Straz nad Nisou",
+        "sub": {
+            "120201CZ": "Smirice"
+        }
+    },
+    "121CZ": {
+        "name": "Stredochesky",
+        "sub": {
+            "121201CZ": "Benatky nad Jizerou",
+            "121202CZ": "Beneshov",
+            "121203CZ": "Beroun",
+            "121204CZ": "Brandys nad Labem-Stara Bolesl",
+            "121205CZ": "Chaslav",
+            "121206CZ": "Chavaletice",
+            "121207CZ": "Chelakovice",
+            "121208CZ": "Chesky Brod",
+            "121209CZ": "Dobrish",
+            "121210CZ": "Horovice",
+            "121211CZ": "Kladno",
+            "121212CZ": "Kolin",
+            "121213CZ": "Kralupy nad Vltavou",
+            "121214CZ": "Kutna Hora",
+            "121215CZ": "Lysa nad Labem",
+            "121216CZ": "Melnik",
+            "121217CZ": "Mlada Boleslav",
+            "121218CZ": "Mnichovo Hradishte",
+            "121219CZ": "Neratovice",
+            "121220CZ": "Nove Strasheci",
+            "121221CZ": "Nymburk",
+            "121222CZ": "Podebrady",
+            "121223CZ": "Pribram",
+            "121224CZ": "Rakovnik",
+            "121225CZ": "Richany",
+            "121226CZ": "Rousinov",
+            "121227CZ": "Roztoky",
+            "121228CZ": "Sedlcany",
+            "121229CZ": "Slany",
+            "121230CZ": "Stochov",
+            "121231CZ": "Vlashim",
+            "121232CZ": "Zruch nad Sazavou"
+        }
+    },
+    "122CZ": {
+        "name": "Unicov",
+        "sub": {
+            "122201CZ": "Unicov"
+        }
+    },
+    "123CZ": {
+        "name": "Ustecky",
+        "sub": {
+            "123201CZ": "Bilina",
+            "123202CZ": "Chomutov",
+            "123203CZ": "Dechin",
+            "123204CZ": "Dubi",
+            "123205CZ": "Duchcov",
+            "123206CZ": "Jilove",
+            "123207CZ": "Jirkov",
+            "123208CZ": "Kadan",
+            "123209CZ": "Klasterec nad Ohri",
+            "123210CZ": "Krupka",
+            "123211CZ": "Litomerice",
+            "123212CZ": "Litvinov",
+            "123213CZ": "Louny",
+            "123214CZ": "Lovosice",
+            "123215CZ": "Mezibori",
+            "123216CZ": "Most",
+            "123217CZ": "Osek",
+            "123218CZ": "Podborany",
+            "123219CZ": "Roudnice",
+            "123220CZ": "Rumburk",
+            "123221CZ": "Shluknov",
+            "123222CZ": "Shteti",
+            "123223CZ": "Teplice",
+            "123224CZ": "Usti",
+            "123225CZ": "Varnsdorf",
+            "123226CZ": "Zatec"
+        }
+    },
+    "124CZ": {
+        "name": "Valletta",
+        "sub": {
+            "124201CZ": "Valletta"
+        }
+    },
+    "125CZ": {
+        "name": "Velesin",
+        "sub": {
+            "125201CZ": "Velesin"
+        }
+    },
+    "126CZ": {
+        "name": "Vysochina",
+        "sub": {
+            "126201CZ": "Bystrice nad Pernshtejnem",
+            "126202CZ": "Chotebor",
+            "126203CZ": "Havlichkuv Brod",
+            "126204CZ": "Humpolec",
+            "126205CZ": "Jihlava",
+            "126206CZ": "Ledech",
+            "126207CZ": "Moravske Budejovice",
+            "126208CZ": "Nove Mesto na Morave",
+            "126209CZ": "Okrisky",
+            "126210CZ": "Pacov",
+            "126211CZ": "Pelhrimov",
+            "126212CZ": "Polna",
+            "126213CZ": "Svetla nad Sazavou",
+            "126214CZ": "Telch",
+            "126215CZ": "Trebich",
+            "126216CZ": "Tresht\\'",
+            "126217CZ": "Velke Mezirichi",
+            "126218CZ": "Zhd\\'ar"
+        }
+    },
+    "127CZ": {
+        "name": "Zlinsky",
+        "sub": {
+            "127201CZ": "Brumov",
+            "127202CZ": "Bystrice pod Hostynem",
+            "127203CZ": "Chropyne",
+            "127204CZ": "Holeshov",
+            "127205CZ": "Hulin",
+            "127206CZ": "Kromerizh",
+            "127207CZ": "Kunovice",
+            "127208CZ": "Napajedla",
+            "127209CZ": "Otrokovice",
+            "127210CZ": "Rozhnov",
+            "127211CZ": "Roznov pod Radhostem",
+            "127212CZ": "Slavicin",
+            "127213CZ": "Slusovice",
+            "127214CZ": "Stare Mesto",
+            "127215CZ": "Strazhnice",
+            "127216CZ": "Uherske Hradishte",
+            "127217CZ": "Uhersky Brod",
+            "127218CZ": "Valashske Klobouky",
+            "127219CZ": "Valashske Mezirichi",
+            "127220CZ": "Veseli nad Moravou",
+            "127221CZ": "Vsetin",
+            "127222CZ": "Zborovice",
+            "127223CZ": "Zlin"
+        }
+    }
+}

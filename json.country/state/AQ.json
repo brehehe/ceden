@@ -1,0 +1,58 @@
+{
+    "101AQ": {
+        "name": "Sector claimed by Argentina\/Ch",
+        "sub": {
+            "101201AQ": "M\\'banza-Kongo",
+            "101202AQ": "N\\'zeto",
+            "101203AQ": "Soyo"
+        }
+    },
+    "102AQ": {
+        "name": "Sector claimed by Argentina\/UK",
+        "sub": {
+            "102201AQ": "M\\'banza-Kongo",
+            "102202AQ": "N\\'zeto",
+            "102203AQ": "Soyo"
+        }
+    },
+    "103AQ": {
+        "name": "Sector claimed by Australia",
+        "sub": {
+            "103201AQ": "M\\'banza-Kongo",
+            "103202AQ": "N\\'zeto",
+            "103203AQ": "Soyo"
+        }
+    },
+    "104AQ": {
+        "name": "Sector claimed by France",
+        "sub": {
+            "104201AQ": "M\\'banza-Kongo",
+            "104202AQ": "N\\'zeto",
+            "104203AQ": "Soyo"
+        }
+    },
+    "105AQ": {
+        "name": "Sector claimed by New Zealand",
+        "sub": {
+            "105201AQ": "M\\'banza-Kongo",
+            "105202AQ": "N\\'zeto",
+            "105203AQ": "Soyo"
+        }
+    },
+    "106AQ": {
+        "name": "Sector claimed by Norway",
+        "sub": {
+            "106201AQ": "M\\'banza-Kongo",
+            "106202AQ": "N\\'zeto",
+            "106203AQ": "Soyo"
+        }
+    },
+    "107AQ": {
+        "name": "Unclaimed Sector",
+        "sub": {
+            "107201AQ": "M\\'banza-Kongo",
+            "107202AQ": "N\\'zeto",
+            "107203AQ": "Soyo"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "101GW": {
+        "name": "Bafata",
+        "sub": {
+            "101201GW": "Bafata"
+        }
+    },
+    "102GW": {
+        "name": "Bissau",
+        "sub": {
+            "102201GW": "Bissau"
+        }
+    },
+    "103GW": {
+        "name": "Bolama",
+        "sub": {
+            "103201GW": "Bolama",
+            "103202GW": "Bubaque"
+        }
+    },
+    "104GW": {
+        "name": "Cacheu",
+        "sub": {
+            "104201GW": "Cacheu",
+            "104202GW": "Canchungo"
+        }
+    },
+    "105GW": {
+        "name": "Gabu",
+        "sub": {
+            "105201GW": "Gabu"
+        }
+    },
+    "106GW": {
+        "name": "Oio",
+        "sub": {
+            "106201GW": "Bissora",
+            "106202GW": "Farim",
+            "106203GW": "Mansoa"
+        }
+    },
+    "107GW": {
+        "name": "Quinara",
+        "sub": {
+            "107201GW": "Buba",
+            "107202GW": "Fulacunda",
+            "107203GW": "Quebo"
+        }
+    },
+    "108GW": {
+        "name": "Tombali",
+        "sub": {
+            "108201GW": "Catio"
+        }
+    }
+}

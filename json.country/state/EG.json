@@ -1,0 +1,455 @@
+{
+    "101EG": {
+        "name": "ad-Daqahliyah",
+        "sub": {
+            "101201EG": "Aja",
+            "101202EG": "al-Jamaliyah",
+            "101203EG": "al-Mansurah",
+            "101204EG": "al-Manzilah",
+            "101205EG": "al-Matariyah",
+            "101206EG": "al-Ma\\'sarah",
+            "101207EG": "as-Sinbillawayn",
+            "101208EG": "Bahut",
+            "101209EG": "Bilqas",
+            "101210EG": "Dikirnis",
+            "101211EG": "Minyat-an-Nasr",
+            "101212EG": "Mit Gamr",
+            "101213EG": "Shirbin",
+            "101214EG": "Talkha"
+        }
+    },
+    "102EG": {
+        "name": "al-Bahr-al-Ahmar",
+        "sub": {
+            "102201EG": "al-Ghardaqah",
+            "102202EG": "al-Qusayr",
+            "102203EG": "Ras Gharib",
+            "102204EG": "Safaja"
+        }
+    },
+    "103EG": {
+        "name": "al-Buhayrah",
+        "sub": {
+            "103201EG": "Abu al-Matamir",
+            "103202EG": "Abu Hummus",
+            "103203EG": "ad-Dilinjat",
+            "103204EG": "al-Kawm-al-Akhdar",
+            "103205EG": "al-Mahmudiyah",
+            "103206EG": "ar-Rahmaniyah",
+            "103207EG": "Buturis",
+            "103208EG": "Damanhur",
+            "103209EG": "Edfina",
+            "103210EG": "Hawsh \\'Isa",
+            "103211EG": "Idku",
+            "103212EG": "Ityay-al-Barud",
+            "103213EG": "Kafr Salim",
+            "103214EG": "Kafr-ad-Dawwar",
+            "103215EG": "Kawm Hamada",
+            "103216EG": "Nubaria",
+            "103217EG": "Rashid",
+            "103218EG": "Shubra Khit",
+            "103219EG": "Zawiyat Sidi Gazi"
+        }
+    },
+    "104EG": {
+        "name": "al-Fayyum",
+        "sub": {
+            "104201EG": "al-Fayyum",
+            "104202EG": "Fidimin",
+            "104203EG": "Ibshaway",
+            "104204EG": "Itsa",
+            "104205EG": "Qasr Qarun",
+            "104206EG": "Sanhur",
+            "104207EG": "Sinnuris",
+            "104208EG": "Tamiyah"
+        }
+    },
+    "105EG": {
+        "name": "al-Gharbiyah",
+        "sub": {
+            "105201EG": "Abyar",
+            "105202EG": "ad-Daljamun",
+            "105203EG": "al-Mahallah al-Kubra",
+            "105204EG": "as-Santah",
+            "105205EG": "Basyun",
+            "105206EG": "Kafr-az-Zayyat",
+            "105207EG": "Mahallat Marhum",
+            "105208EG": "Nisf Thani Bashbish",
+            "105209EG": "Qutur",
+            "105210EG": "Samannud",
+            "105211EG": "Tanta",
+            "105212EG": "Zifta"
+        }
+    },
+    "106EG": {
+        "name": "al-Iskandariyah",
+        "sub": {
+            "106201EG": "Agamy",
+            "106202EG": "al-Iskandariyah",
+            "106203EG": "al-Maks"
+        }
+    },
+    "107EG": {
+        "name": "al-Ismailiyah",
+        "sub": {
+            "107201EG": "al-Ismailiyah",
+            "107202EG": "Fa\\'id",
+            "107203EG": "Sarabiyum"
+        }
+    },
+    "108EG": {
+        "name": "al-Jizah",
+        "sub": {
+            "108201EG": "al-Badrashayn",
+            "108202EG": "al-Hawamidiyah",
+            "108203EG": "al-Jizah",
+            "108204EG": "al-Mansuriyah",
+            "108205EG": "al-Wahat-al-Bahriyah",
+            "108206EG": "al-\\'Ayyat",
+            "108207EG": "as-Saff",
+            "108208EG": "Atfih",
+            "108209EG": "Awsim",
+            "108210EG": "Giza",
+            "108211EG": "Madinat Sittah Uktubar",
+            "108212EG": "Nahya",
+            "108213EG": "Saqqarah"
+        }
+    },
+    "109EG": {
+        "name": "al-Minufiyah",
+        "sub": {
+            "109201EG": "al-Bajur",
+            "109202EG": "al-Batanun",
+            "109203EG": "ash-Shuhada",
+            "109204EG": "Ashmun",
+            "109205EG": "Birkat-as-Sab\\'",
+            "109206EG": "Milij",
+            "109207EG": "Minuf",
+            "109208EG": "Quwaysina",
+            "109209EG": "Shibin-al-Kawm",
+            "109210EG": "Sirs-al-Layyanah",
+            "109211EG": "Tala"
+        }
+    },
+    "110EG": {
+        "name": "al-Minya",
+        "sub": {
+            "110201EG": "Abu Qurqas",
+            "110202EG": "al-Anayim",
+            "110203EG": "al-Fikriyah",
+            "110204EG": "al-Minya",
+            "110205EG": "ar-Rawdah",
+            "110206EG": "Bani Mazar",
+            "110207EG": "Dayr Mawas",
+            "110208EG": "Magagah",
+            "110209EG": "Mallawi",
+            "110210EG": "Matay",
+            "110211EG": "Samalut",
+            "110212EG": "Tallah",
+            "110213EG": "Tandah"
+        }
+    },
+    "111EG": {
+        "name": "al-Qahira",
+        "sub": {
+            "111201EG": "al-Qahira",
+            "111202EG": "Badr City",
+            "111203EG": "Heliopolis"
+        }
+    },
+    "112EG": {
+        "name": "al-Qalyubiyah",
+        "sub": {
+            "112201EG": "Abu Za\\'bal",
+            "112202EG": "al-Khankah",
+            "112203EG": "al-Qanatir-al-Khayriyah",
+            "112204EG": "Banha",
+            "112205EG": "Qalyub",
+            "112206EG": "Shubra al-Khaymah",
+            "112207EG": "Sibin-al-Qanatir",
+            "112208EG": "Tukh"
+        }
+    },
+    "113EG": {
+        "name": "al-Uqsur",
+        "sub": {
+            "113201EG": "al-Uqsur"
+        }
+    },
+    "114EG": {
+        "name": "al-Wadi al-Jadid",
+        "sub": {
+            "114201EG": "al-Uqsur"
+        }
+    },
+    "115EG": {
+        "name": "as-Suways",
+        "sub": {
+            "115201EG": "as-Suways"
+        }
+    },
+    "116EG": {
+        "name": "ash-Sharqiyah",
+        "sub": {
+            "116201EG": "Abu Hammad",
+            "116202EG": "Abu Kabir",
+            "116203EG": "al-Ashir mir-Ramadan",
+            "116204EG": "al-Husayniyah",
+            "116205EG": "al-Ibrahimiyah",
+            "116206EG": "al-Qanayat",
+            "116207EG": "al-Qassasin",
+            "116208EG": "al-Qurayn",
+            "116209EG": "as-Salihiyah",
+            "116210EG": "at-Tall-al-Kabir",
+            "116211EG": "az-Zaqaziq",
+            "116212EG": "Bilbays",
+            "116213EG": "Diyarb Najm",
+            "116214EG": "Faqus",
+            "116215EG": "Hihya",
+            "116216EG": "Kafr Saqr",
+            "116217EG": "Mashtul-as-Suq",
+            "116218EG": "Minyat-al-Qamh"
+        }
+    },
+    "117EG": {
+        "name": "Aswan",
+        "sub": {
+            "117201EG": "an-Nasir",
+            "117202EG": "Aswan",
+            "117203EG": "Daraw",
+            "117204EG": "Kawm Umbu"
+        }
+    },
+    "118EG": {
+        "name": "Asyut",
+        "sub": {
+            "118201EG": "Abnub",
+            "118202EG": "Abu Tij",
+            "118203EG": "al-Badari",
+            "118204EG": "al-Qusiyah",
+            "118205EG": "an-Nukhaylah",
+            "118206EG": "Asyut",
+            "118207EG": "Bani Muhammadiyat",
+            "118208EG": "Dayrut",
+            "118209EG": "Dayrut-ash-Sharif",
+            "118210EG": "Manfalut",
+            "118211EG": "Musha",
+            "118212EG": "Sahil Salim",
+            "118213EG": "Sanabu",
+            "118214EG": "Umm-al-Qusur"
+        }
+    },
+    "119EG": {
+        "name": "Bani Suwayf",
+        "sub": {
+            "119201EG": "Abnub",
+            "119202EG": "Abu Tij",
+            "119203EG": "al-Badari",
+            "119204EG": "al-Qusiyah",
+            "119205EG": "an-Nukhaylah",
+            "119206EG": "Asyut",
+            "119207EG": "Bani Muhammadiyat",
+            "119208EG": "Dayrut",
+            "119209EG": "Dayrut-ash-Sharif",
+            "119210EG": "Manfalut",
+            "119211EG": "Musha",
+            "119212EG": "Sahil Salim",
+            "119213EG": "Sanabu",
+            "119214EG": "Umm-al-Qusur"
+        }
+    },
+    "120EG": {
+        "name": "Bur Sa\\'id",
+        "sub": {
+            "120201EG": "Abnub",
+            "120202EG": "Abu Tij",
+            "120203EG": "al-Badari",
+            "120204EG": "al-Qusiyah",
+            "120205EG": "an-Nukhaylah",
+            "120206EG": "Asyut",
+            "120207EG": "Bani Muhammadiyat",
+            "120208EG": "Dayrut",
+            "120209EG": "Dayrut-ash-Sharif",
+            "120210EG": "Manfalut",
+            "120211EG": "Musha",
+            "120212EG": "Sahil Salim",
+            "120213EG": "Sanabu",
+            "120214EG": "Umm-al-Qusur"
+        }
+    },
+    "121EG": {
+        "name": "Cairo",
+        "sub": {
+            "121201EG": "6th of October City",
+            "121202EG": "Ataba",
+            "121203EG": "Cairo",
+            "121204EG": "Nasr",
+            "121205EG": "Nasr City",
+            "121206EG": "Obour City"
+        }
+    },
+    "122EG": {
+        "name": "Dumyat",
+        "sub": {
+            "122201EG": "az-Zarqa",
+            "122202EG": "Damietta",
+            "122203EG": "Dumyat",
+            "122204EG": "El-Zarka",
+            "122205EG": "Faraskur",
+            "122206EG": "Kafr Sa\\'d",
+            "122207EG": "Kafr-al-Battikh",
+            "122208EG": "\\'Izbat-al-Burj"
+        }
+    },
+    "123EG": {
+        "name": "Kafr-ash-Shaykh",
+        "sub": {
+            "123201EG": "al-Burj",
+            "123202EG": "al-Burullus",
+            "123203EG": "al-Haddadi",
+            "123204EG": "al-Hamul",
+            "123205EG": "Biyala",
+            "123206EG": "Disuq",
+            "123207EG": "Fuwah",
+            "123208EG": "Kafr-al-Jara\\'idah",
+            "123209EG": "Kafr-ash-Shaykh",
+            "123210EG": "Mutubis",
+            "123211EG": "Qallin",
+            "123212EG": "Sidi Salim"
+        }
+    },
+    "124EG": {
+        "name": "Matruh",
+        "sub": {
+            "124201EG": "ad-Da\\'ba",
+            "124202EG": "Marsa Matruh",
+            "124203EG": "Nasr",
+            "124204EG": "Sidi Barrani",
+            "124205EG": "Zawiyat Shammas"
+        }
+    },
+    "125EG": {
+        "name": "Muhafazat ad Daqahliyah",
+        "sub": {
+            "125201EG": "ad-Da\\'ba",
+            "125202EG": "Marsa Matruh",
+            "125203EG": "Nasr",
+            "125204EG": "Sidi Barrani",
+            "125205EG": "Zawiyat Shammas"
+        }
+    },
+    "126EG": {
+        "name": "Muhafazat al Fayyum",
+        "sub": {
+            "126201EG": "ad-Da\\'ba",
+            "126202EG": "Marsa Matruh",
+            "126203EG": "Nasr",
+            "126204EG": "Sidi Barrani",
+            "126205EG": "Zawiyat Shammas"
+        }
+    },
+    "127EG": {
+        "name": "Muhafazat al Gharbiyah",
+        "sub": {
+            "127201EG": "ad-Da\\'ba",
+            "127202EG": "Marsa Matruh",
+            "127203EG": "Nasr",
+            "127204EG": "Sidi Barrani",
+            "127205EG": "Zawiyat Shammas"
+        }
+    },
+    "128EG": {
+        "name": "Muhafazat al Iskandariyah",
+        "sub": {
+            "128201EG": "ad-Da\\'ba",
+            "128202EG": "Marsa Matruh",
+            "128203EG": "Nasr",
+            "128204EG": "Sidi Barrani",
+            "128205EG": "Zawiyat Shammas"
+        }
+    },
+    "129EG": {
+        "name": "Muhafazat al Qahirah",
+        "sub": {
+            "129201EG": "ad-Da\\'ba",
+            "129202EG": "Marsa Matruh",
+            "129203EG": "Nasr",
+            "129204EG": "Sidi Barrani",
+            "129205EG": "Zawiyat Shammas"
+        }
+    },
+    "130EG": {
+        "name": "Qina",
+        "sub": {
+            "130201EG": "ad-Dabbiyah",
+            "130202EG": "ad-Dayr",
+            "130203EG": "al-Ballas",
+            "130204EG": "al-Karnak",
+            "130205EG": "al-Waqf",
+            "130206EG": "ar-Radisiyat-al-Bahriyah",
+            "130207EG": "Armant",
+            "130208EG": "Asfun-al-Mata\\'inah",
+            "130209EG": "Dandarah",
+            "130210EG": "Dishna",
+            "130211EG": "Farshut",
+            "130212EG": "Hijazah",
+            "130213EG": "Hiw",
+            "130214EG": "Idfu",
+            "130215EG": "Isna",
+            "130216EG": "Kiman-al-Mata\\'inah",
+            "130217EG": "Naj\\' Hammadi",
+            "130218EG": "Naqadah",
+            "130219EG": "Qift",
+            "130220EG": "Qina",
+            "130221EG": "Qus"
+        }
+    },
+    "131EG": {
+        "name": "Sawhaj",
+        "sub": {
+            "131201EG": "Akhmim",
+            "131202EG": "al-Balyana",
+            "131203EG": "al-Manshah",
+            "131204EG": "al-Maragah",
+            "131205EG": "Awlad Tawq Sharq",
+            "131206EG": "Dar-as-Salam",
+            "131207EG": "Jirja",
+            "131208EG": "Juhaynah",
+            "131209EG": "Sawhaj",
+            "131210EG": "Tahta",
+            "131211EG": "Tima"
+        }
+    },
+    "132EG": {
+        "name": "Sina al-Janubiyah",
+        "sub": {
+            "132201EG": "Akhmim",
+            "132202EG": "al-Balyana",
+            "132203EG": "al-Manshah",
+            "132204EG": "al-Maragah",
+            "132205EG": "Awlad Tawq Sharq",
+            "132206EG": "Dar-as-Salam",
+            "132207EG": "Jirja",
+            "132208EG": "Juhaynah",
+            "132209EG": "Sawhaj",
+            "132210EG": "Tahta",
+            "132211EG": "Tima"
+        }
+    },
+    "133EG": {
+        "name": "Sina ash-Shamaliyah",
+        "sub": {
+            "133201EG": "Akhmim",
+            "133202EG": "al-Balyana",
+            "133203EG": "al-Manshah",
+            "133204EG": "al-Maragah",
+            "133205EG": "Awlad Tawq Sharq",
+            "133206EG": "Dar-as-Salam",
+            "133207EG": "Jirja",
+            "133208EG": "Juhaynah",
+            "133209EG": "Sawhaj",
+            "133210EG": "Tahta",
+            "133211EG": "Tima"
+        }
+    }
+}

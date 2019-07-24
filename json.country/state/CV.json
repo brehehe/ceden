@@ -1,0 +1,57 @@
+{
+    "101CV": {
+        "name": "Boavista",
+        "sub": {
+            "101201CV": "Sal Rei"
+        }
+    },
+    "102CV": {
+        "name": "Brava",
+        "sub": {
+            "102201CV": "Nova Sintra"
+        }
+    },
+    "103CV": {
+        "name": "Fogo",
+        "sub": {
+            "103201CV": "Mosteiros",
+            "103202CV": "Sao Filipe"
+        }
+    },
+    "104CV": {
+        "name": "Maio",
+        "sub": {
+            "104201CV": "Vila do Maio"
+        }
+    },
+    "105CV": {
+        "name": "Sal",
+        "sub": {
+            "105201CV": "Santa Maria"
+        }
+    },
+    "106CV": {
+        "name": "Santo Antao",
+        "sub": {
+            "106201CV": "Santa Maria"
+        }
+    },
+    "107CV": {
+        "name": "Sao Nicolau",
+        "sub": {
+            "107201CV": "Santa Maria"
+        }
+    },
+    "108CV": {
+        "name": "Sao Tiago",
+        "sub": {
+            "108201CV": "Santa Maria"
+        }
+    },
+    "109CV": {
+        "name": "Sao Vicente",
+        "sub": {
+            "109201CV": "Santa Maria"
+        }
+    }
+}

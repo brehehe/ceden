@@ -1,0 +1,38 @@
+{
+    "101FK": {
+        "name": "Falkland Islands",
+        "sub": {
+            "101201FK": "Abiy Adi",
+            "101202FK": "Addigrat",
+            "101203FK": "Adwa",
+            "101204FK": "Aksum",
+            "101205FK": "Alamat\\'a",
+            "101206FK": "Endasilasie",
+            "101207FK": "Hagere Selam",
+            "101208FK": "Himora",
+            "101209FK": "Korem",
+            "101210FK": "Maych\\'ew",
+            "101211FK": "Mekele",
+            "101212FK": "Mek\\'ele",
+            "101213FK": "Wik\\'ro"
+        }
+    },
+    "102FK": {
+        "name": "South Georgia",
+        "sub": {
+            "102201FK": "Abiy Adi",
+            "102202FK": "Addigrat",
+            "102203FK": "Adwa",
+            "102204FK": "Aksum",
+            "102205FK": "Alamat\\'a",
+            "102206FK": "Endasilasie",
+            "102207FK": "Hagere Selam",
+            "102208FK": "Himora",
+            "102209FK": "Korem",
+            "102210FK": "Maych\\'ew",
+            "102211FK": "Mekele",
+            "102212FK": "Mek\\'ele",
+            "102213FK": "Wik\\'ro"
+        }
+    }
+}

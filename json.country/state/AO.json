@@ -1,0 +1,127 @@
+{
+    "101AO": {
+        "name": "Bengo",
+        "sub": {
+            "101201AO": "Caxito"
+        }
+    },
+    "102AO": {
+        "name": "Benguela",
+        "sub": {
+            "102201AO": "Benguela",
+            "102202AO": "Lobito"
+        }
+    },
+    "103AO": {
+        "name": "Bie",
+        "sub": {
+            "103201AO": "Camacupa",
+            "103202AO": "Catabola",
+            "103203AO": "Catumbela",
+            "103204AO": "Chissamba",
+            "103205AO": "Kuito"
+        }
+    },
+    "104AO": {
+        "name": "Cabinda",
+        "sub": {
+            "104201AO": "Cabinda"
+        }
+    },
+    "105AO": {
+        "name": "Cunene",
+        "sub": {
+            "105201AO": "Ondjiva"
+        }
+    },
+    "106AO": {
+        "name": "Huambo",
+        "sub": {
+            "106201AO": "Caala",
+            "106202AO": "Catchiungo",
+            "106203AO": "Huambo",
+            "106204AO": "Longonjo"
+        }
+    },
+    "107AO": {
+        "name": "Huila",
+        "sub": {
+            "107201AO": "Caconda",
+            "107202AO": "Caluquembe",
+            "107203AO": "Lubango"
+        }
+    },
+    "108AO": {
+        "name": "Kuando-Kubango",
+        "sub": {
+            "108201AO": "Menongue"
+        }
+    },
+    "109AO": {
+        "name": "Kwanza Norte",
+        "sub": {
+            "109201AO": "Menongue"
+        }
+    },
+    "110AO": {
+        "name": "Kwanza Sul",
+        "sub": {
+            "110201AO": "Menongue"
+        }
+    },
+    "111AO": {
+        "name": "Luanda",
+        "sub": {
+            "111201AO": "Luanda"
+        }
+    },
+    "112AO": {
+        "name": "Lunda Norte",
+        "sub": {
+            "112201AO": "Luanda"
+        }
+    },
+    "113AO": {
+        "name": "Lunda Sul",
+        "sub": {
+            "113201AO": "Luanda"
+        }
+    },
+    "114AO": {
+        "name": "Malanje",
+        "sub": {
+            "114201AO": "Malanje"
+        }
+    },
+    "115AO": {
+        "name": "Moxico",
+        "sub": {
+            "115201AO": "Cazaje",
+            "115202AO": "Leua",
+            "115203AO": "Luau",
+            "115204AO": "Luena",
+            "115205AO": "Lumeje"
+        }
+    },
+    "116AO": {
+        "name": "Namibe",
+        "sub": {
+            "116201AO": "Namibe"
+        }
+    },
+    "117AO": {
+        "name": "Uige",
+        "sub": {
+            "117201AO": "Camabatela",
+            "117202AO": "Uige"
+        }
+    },
+    "118AO": {
+        "name": "Zaire",
+        "sub": {
+            "118201AO": "M\\'banza-Kongo",
+            "118202AO": "N\\'zeto",
+            "118203AO": "Soyo"
+        }
+    }
+}

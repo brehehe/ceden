@@ -1,0 +1,41 @@
+{
+    "101BZ": {
+        "name": "Belize",
+        "sub": {
+            "101201BZ": "Belize",
+            "101202BZ": "San Pedro"
+        }
+    },
+    "102BZ": {
+        "name": "Cayo",
+        "sub": {
+            "102201BZ": "Belmopan",
+            "102202BZ": "Benque Viejo",
+            "102203BZ": "San Ignacio"
+        }
+    },
+    "103BZ": {
+        "name": "Corozal",
+        "sub": {
+            "103201BZ": "Corozal"
+        }
+    },
+    "104BZ": {
+        "name": "Orange Walk",
+        "sub": {
+            "104201BZ": "Corozal"
+        }
+    },
+    "105BZ": {
+        "name": "Stann Creek",
+        "sub": {
+            "105201BZ": "Corozal"
+        }
+    },
+    "106BZ": {
+        "name": "Toledo",
+        "sub": {
+            "106201BZ": "Punta Gorda"
+        }
+    }
+}

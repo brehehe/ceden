@@ -1,0 +1,195 @@
+{
+    "101AR": {
+        "name": "Buenos Aires",
+        "sub": {
+            "101201AR": "Codrington"
+        }
+    },
+    "102AR": {
+        "name": "Catamarca",
+        "sub": {
+            "102201AR": "Catamarca"
+        }
+    },
+    "103AR": {
+        "name": "Chaco",
+        "sub": {
+            "103201AR": "Presidencia Roque Saenz Pena",
+            "103202AR": "Resistencia"
+        }
+    },
+    "104AR": {
+        "name": "Chubut",
+        "sub": {
+            "104201AR": "Comodoro Rivadavia",
+            "104202AR": "Puerto Madryn",
+            "104203AR": "Rawson",
+            "104204AR": "Trelew"
+        }
+    },
+    "105AR": {
+        "name": "Cordoba",
+        "sub": {
+            "105201AR": "Alta Gracia",
+            "105202AR": "Bell Ville",
+            "105203AR": "Cordoba",
+            "105204AR": "Rio Cuarto",
+            "105205AR": "Rio Tercero",
+            "105206AR": "San Francisco",
+            "105207AR": "Villa Carlos Paz",
+            "105208AR": "Villa Maria"
+        }
+    },
+    "106AR": {
+        "name": "Corrientes",
+        "sub": {
+            "106201AR": "Corrientes",
+            "106202AR": "Goya",
+            "106203AR": "Mercedes",
+            "106204AR": "San Lorenzo"
+        }
+    },
+    "107AR": {
+        "name": "Distrito Federal",
+        "sub": {
+            "107201AR": "Corrientes",
+            "107202AR": "Goya",
+            "107203AR": "Mercedes",
+            "107204AR": "San Lorenzo"
+        }
+    },
+    "108AR": {
+        "name": "Entre Rios",
+        "sub": {
+            "108201AR": "Corrientes",
+            "108202AR": "Goya",
+            "108203AR": "Mercedes",
+            "108204AR": "San Lorenzo"
+        }
+    },
+    "109AR": {
+        "name": "Formosa",
+        "sub": {
+            "109201AR": "Formosa"
+        }
+    },
+    "110AR": {
+        "name": "Jujuy",
+        "sub": {
+            "110201AR": "Jujuy",
+            "110202AR": "Libertador General San Martin",
+            "110203AR": "San Pedro"
+        }
+    },
+    "111AR": {
+        "name": "La Pampa",
+        "sub": {
+            "111201AR": "Jujuy",
+            "111202AR": "Libertador General San Martin",
+            "111203AR": "San Pedro"
+        }
+    },
+    "112AR": {
+        "name": "La Rioja",
+        "sub": {
+            "112201AR": "Jujuy",
+            "112202AR": "Libertador General San Martin",
+            "112203AR": "San Pedro"
+        }
+    },
+    "113AR": {
+        "name": "Mendoza",
+        "sub": {
+            "113201AR": "Godoy Cruz",
+            "113202AR": "Lujan",
+            "113203AR": "Mendoza",
+            "113204AR": "Rivadavia",
+            "113205AR": "San Martin",
+            "113206AR": "San Rafael"
+        }
+    },
+    "114AR": {
+        "name": "Misiones",
+        "sub": {
+            "114201AR": "Eldorado",
+            "114202AR": "Obera",
+            "114203AR": "Posadas"
+        }
+    },
+    "115AR": {
+        "name": "Neuquen",
+        "sub": {
+            "115201AR": "Cutral Co",
+            "115202AR": "Neuquen"
+        }
+    },
+    "116AR": {
+        "name": "Rio Negro",
+        "sub": {
+            "116201AR": "Cutral Co",
+            "116202AR": "Neuquen"
+        }
+    },
+    "117AR": {
+        "name": "Salta",
+        "sub": {
+            "117201AR": "Salta",
+            "117202AR": "San Ramon de la Nueva Oran",
+            "117203AR": "Tartagal"
+        }
+    },
+    "118AR": {
+        "name": "San Juan",
+        "sub": {
+            "118201AR": "Salta",
+            "118202AR": "San Ramon de la Nueva Oran",
+            "118203AR": "Tartagal"
+        }
+    },
+    "119AR": {
+        "name": "San Luis",
+        "sub": {
+            "119201AR": "Salta",
+            "119202AR": "San Ramon de la Nueva Oran",
+            "119203AR": "Tartagal"
+        }
+    },
+    "120AR": {
+        "name": "Santa Cruz",
+        "sub": {
+            "120201AR": "Salta",
+            "120202AR": "San Ramon de la Nueva Oran",
+            "120203AR": "Tartagal"
+        }
+    },
+    "121AR": {
+        "name": "Santa Fe",
+        "sub": {
+            "121201AR": "Salta",
+            "121202AR": "San Ramon de la Nueva Oran",
+            "121203AR": "Tartagal"
+        }
+    },
+    "122AR": {
+        "name": "Santiago del Estero",
+        "sub": {
+            "122201AR": "Salta",
+            "122202AR": "San Ramon de la Nueva Oran",
+            "122203AR": "Tartagal"
+        }
+    },
+    "123AR": {
+        "name": "Tierra del Fuego",
+        "sub": {
+            "123201AR": "Salta",
+            "123202AR": "San Ramon de la Nueva Oran",
+            "123203AR": "Tartagal"
+        }
+    },
+    "124AR": {
+        "name": "Tucuman",
+        "sub": {
+            "124201AR": "Tucuman"
+        }
+    }
+}

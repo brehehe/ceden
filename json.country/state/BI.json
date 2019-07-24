@@ -1,0 +1,92 @@
+{
+    "101BI": {
+        "name": "Bubanza",
+        "sub": {
+            "101201BI": "Bubanza"
+        }
+    },
+    "102BI": {
+        "name": "Bujumbura",
+        "sub": {
+            "102201BI": "Bujumbura"
+        }
+    },
+    "103BI": {
+        "name": "Bururi",
+        "sub": {
+            "103201BI": "Bururi"
+        }
+    },
+    "104BI": {
+        "name": "Cankuzo",
+        "sub": {
+            "104201BI": "Cankuzo"
+        }
+    },
+    "105BI": {
+        "name": "Cibitoke",
+        "sub": {
+            "105201BI": "Cibitoke"
+        }
+    },
+    "106BI": {
+        "name": "Gitega",
+        "sub": {
+            "106201BI": "Gitega"
+        }
+    },
+    "107BI": {
+        "name": "Karuzi",
+        "sub": {
+            "107201BI": "Karuzi"
+        }
+    },
+    "108BI": {
+        "name": "Kayanza",
+        "sub": {
+            "108201BI": "Kayanza"
+        }
+    },
+    "109BI": {
+        "name": "Kirundo",
+        "sub": {
+            "109201BI": "Kirundo"
+        }
+    },
+    "110BI": {
+        "name": "Makamba",
+        "sub": {
+            "110201BI": "Makamba"
+        }
+    },
+    "111BI": {
+        "name": "Muramvya",
+        "sub": {
+            "111201BI": "Muramvya"
+        }
+    },
+    "112BI": {
+        "name": "Muyinga",
+        "sub": {
+            "112201BI": "Muyinga"
+        }
+    },
+    "113BI": {
+        "name": "Ngozi",
+        "sub": {
+            "113201BI": "Ngozi"
+        }
+    },
+    "114BI": {
+        "name": "Rutana",
+        "sub": {
+            "114201BI": "Rutana"
+        }
+    },
+    "115BI": {
+        "name": "Ruyigi",
+        "sub": {
+            "115201BI": "Ruyigi"
+        }
+    }
+}

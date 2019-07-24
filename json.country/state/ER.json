@@ -1,0 +1,50 @@
+{
+    "101ER": {
+        "name": "Anseba",
+        "sub": {
+            "101201ER": "Keren"
+        }
+    },
+    "102ER": {
+        "name": "Debub",
+        "sub": {
+            "102201ER": "Addi Kwala",
+            "102202ER": "Addi Ugri"
+        }
+    },
+    "103ER": {
+        "name": "Debub-Keih-Bahri",
+        "sub": {
+            "103201ER": "Asseb",
+            "103202ER": "Beylul",
+            "103203ER": "Edd",
+            "103204ER": "Mersa Fatma"
+        }
+    },
+    "104ER": {
+        "name": "Gash-Barka",
+        "sub": {
+            "104201ER": "Ak\\'ordat",
+            "104202ER": "Barentu",
+            "104203ER": "Teseney"
+        }
+    },
+    "105ER": {
+        "name": "Maekel",
+        "sub": {
+            "105201ER": "Asmara",
+            "105202ER": "Ginda",
+            "105203ER": "Himbirti",
+            "105204ER": "Nefasit"
+        }
+    },
+    "106ER": {
+        "name": "Semien-Keih-Bahri",
+        "sub": {
+            "106201ER": "Addi K\\'eyih",
+            "106202ER": "Dek\\'emhare",
+            "106203ER": "Mitsiwa",
+            "106204ER": "Sen\\'afe"
+        }
+    }
+}

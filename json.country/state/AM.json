@@ -1,0 +1,96 @@
+{
+    "101AM": {
+        "name": "Aragatsotn",
+        "sub": {
+            "101201AM": "Ashtarak",
+            "101202AM": "Talin"
+        }
+    },
+    "102AM": {
+        "name": "Ararat",
+        "sub": {
+            "102201AM": "Ararat",
+            "102202AM": "Artashat"
+        }
+    },
+    "103AM": {
+        "name": "Armavir",
+        "sub": {
+            "103201AM": "Armavir",
+            "103202AM": "Vagharshapat"
+        }
+    },
+    "104AM": {
+        "name": "Gegharkunik",
+        "sub": {
+            "104201AM": "Gavar",
+            "104202AM": "Martuni",
+            "104203AM": "Sevan",
+            "104204AM": "Vardenis"
+        }
+    },
+    "105AM": {
+        "name": "Kotaik",
+        "sub": {
+            "105201AM": "Abovyan",
+            "105202AM": "Arzni",
+            "105203AM": "Charentsavan",
+            "105204AM": "Hrazdan"
+        }
+    },
+    "106AM": {
+        "name": "Lori",
+        "sub": {
+            "106201AM": "Akhtala",
+            "106202AM": "Alaverdi",
+            "106203AM": "Spitak",
+            "106204AM": "Stepanavan",
+            "106205AM": "Tashir",
+            "106206AM": "Vanadzor"
+        }
+    },
+    "107AM": {
+        "name": "Shirak",
+        "sub": {
+            "107201AM": "Artik",
+            "107202AM": "Gyumri"
+        }
+    },
+    "108AM": {
+        "name": "Stepanakert",
+        "sub": {
+            "108201AM": "Stepanakert"
+        }
+    },
+    "109AM": {
+        "name": "Syunik",
+        "sub": {
+            "109201AM": "Angeghakot",
+            "109202AM": "Goris",
+            "109203AM": "Kajaran",
+            "109204AM": "Kapan",
+            "109205AM": "Meghri",
+            "109206AM": "Sisian"
+        }
+    },
+    "110AM": {
+        "name": "Tavush",
+        "sub": {
+            "110201AM": "Dilijan",
+            "110202AM": "Ijevan"
+        }
+    },
+    "111AM": {
+        "name": "Vayots Dzor",
+        "sub": {
+            "111201AM": "Dilijan",
+            "111202AM": "Ijevan"
+        }
+    },
+    "112AM": {
+        "name": "Yerevan",
+        "sub": {
+            "112201AM": "Yerevan"
+        }
+    }
+}

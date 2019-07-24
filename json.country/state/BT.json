@@ -1,0 +1,115 @@
+{
+    "101BT": {
+        "name": "Bumthang",
+        "sub": {
+            "101201BT": "Jakar"
+        }
+    },
+    "102BT": {
+        "name": "Chhukha",
+        "sub": {
+            "102201BT": "Chhukha",
+            "102202BT": "Phuentsholing"
+        }
+    },
+    "103BT": {
+        "name": "Chirang",
+        "sub": {
+            "103201BT": "Damphu"
+        }
+    },
+    "104BT": {
+        "name": "Daga",
+        "sub": {
+            "104201BT": "Taga Dzong"
+        }
+    },
+    "105BT": {
+        "name": "Geylegphug",
+        "sub": {
+            "105201BT": "Geylegphug"
+        }
+    },
+    "106BT": {
+        "name": "Ha",
+        "sub": {
+            "106201BT": "Ha"
+        }
+    },
+    "107BT": {
+        "name": "Lhuntshi",
+        "sub": {
+            "107201BT": "Lhuntshi"
+        }
+    },
+    "108BT": {
+        "name": "Mongar",
+        "sub": {
+            "108201BT": "Mongar"
+        }
+    },
+    "109BT": {
+        "name": "Pemagatsel",
+        "sub": {
+            "109201BT": "Pemagatsel"
+        }
+    },
+    "110BT": {
+        "name": "Punakha",
+        "sub": {
+            "110201BT": "Gasa",
+            "110202BT": "Punakha"
+        }
+    },
+    "111BT": {
+        "name": "Rinpung",
+        "sub": {
+            "111201BT": "Paro"
+        }
+    },
+    "112BT": {
+        "name": "Samchi",
+        "sub": {
+            "112201BT": "Phuntsholing",
+            "112202BT": "Samchi"
+        }
+    },
+    "113BT": {
+        "name": "Samdrup Jongkhar",
+        "sub": {
+            "113201BT": "Phuntsholing",
+            "113202BT": "Samchi"
+        }
+    },
+    "114BT": {
+        "name": "Shemgang",
+        "sub": {
+            "114201BT": "Shemgang"
+        }
+    },
+    "115BT": {
+        "name": "Tashigang",
+        "sub": {
+            "115201BT": "Tashigang"
+        }
+    },
+    "116BT": {
+        "name": "Timphu",
+        "sub": {
+            "116201BT": "Thimphu",
+            "116202BT": "Timphu"
+        }
+    },
+    "117BT": {
+        "name": "Tongsa",
+        "sub": {
+            "117201BT": "Tongsa"
+        }
+    },
+    "118BT": {
+        "name": "Wangdiphodrang",
+        "sub": {
+            "118201BT": "Wangdiphodrang"
+        }
+    }
+}

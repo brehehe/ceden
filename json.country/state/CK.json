@@ -1,0 +1,68 @@
+{
+    "101CK": {
+        "name": "Aitutaki",
+        "sub": {
+            "101201CK": "Amuri"
+        }
+    },
+    "102CK": {
+        "name": "Atiu",
+        "sub": {
+            "102201CK": "Atiu"
+        }
+    },
+    "103CK": {
+        "name": "Mangaia",
+        "sub": {
+            "103201CK": "Mangaia"
+        }
+    },
+    "104CK": {
+        "name": "Manihiki",
+        "sub": {
+            "104201CK": "Tauhunu"
+        }
+    },
+    "105CK": {
+        "name": "Mauke",
+        "sub": {
+            "105201CK": "Mauke"
+        }
+    },
+    "106CK": {
+        "name": "Mitiaro",
+        "sub": {
+            "106201CK": "Mitiaro"
+        }
+    },
+    "107CK": {
+        "name": "Nassau",
+        "sub": {
+            "107201CK": "Nassau"
+        }
+    },
+    "108CK": {
+        "name": "Pukapuka",
+        "sub": {
+            "108201CK": "Roto"
+        }
+    },
+    "109CK": {
+        "name": "Rakahanga",
+        "sub": {
+            "109201CK": "Rakahanga"
+        }
+    },
+    "110CK": {
+        "name": "Rarotonga",
+        "sub": {
+            "110201CK": "Avarua"
+        }
+    },
+    "111CK": {
+        "name": "Tongareva",
+        "sub": {
+            "111201CK": "Omoka"
+        }
+    }
+}

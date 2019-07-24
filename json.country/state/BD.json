@@ -1,0 +1,493 @@
+{
+    "101BD": {
+        "name": "Bagar Hat",
+        "sub": {
+            "101201BD": "\\'Isa"
+        }
+    },
+    "102BD": {
+        "name": "Bandarban",
+        "sub": {
+            "102201BD": "Bandarban"
+        }
+    },
+    "103BD": {
+        "name": "Barguna",
+        "sub": {
+            "103201BD": "Barguna"
+        }
+    },
+    "104BD": {
+        "name": "Barisal",
+        "sub": {
+            "104201BD": "Barisal",
+            "104202BD": "Gaurnadi",
+            "104203BD": "Mehendiganj",
+            "104204BD": "Nalchiti"
+        }
+    },
+    "105BD": {
+        "name": "Bhola",
+        "sub": {
+            "105201BD": "Bhola",
+            "105202BD": "Burhanuddin",
+            "105203BD": "Char Fasson",
+            "105204BD": "Lalmohan"
+        }
+    },
+    "106BD": {
+        "name": "Bogora",
+        "sub": {
+            "106201BD": "Adamighi",
+            "106202BD": "Bogora",
+            "106203BD": "Sherpur"
+        }
+    },
+    "107BD": {
+        "name": "Brahman Bariya",
+        "sub": {
+            "107201BD": "Adamighi",
+            "107202BD": "Bogora",
+            "107203BD": "Sherpur"
+        }
+    },
+    "108BD": {
+        "name": "Chandpur",
+        "sub": {
+            "108201BD": "Chandpur",
+            "108202BD": "Hajiganj"
+        }
+    },
+    "109BD": {
+        "name": "Chattagam",
+        "sub": {
+            "109201BD": "Boalkhali",
+            "109202BD": "Chattagam",
+            "109203BD": "Fatikchhari",
+            "109204BD": "Lohagara",
+            "109205BD": "Patiya",
+            "109206BD": "Rangunia",
+            "109207BD": "Raozan",
+            "109208BD": "Sandip",
+            "109209BD": "Satkaniya"
+        }
+    },
+    "110BD": {
+        "name": "Chittagong Division",
+        "sub": {
+            "110201BD": "Boalkhali",
+            "110202BD": "Chattagam",
+            "110203BD": "Fatikchhari",
+            "110204BD": "Lohagara",
+            "110205BD": "Patiya",
+            "110206BD": "Rangunia",
+            "110207BD": "Raozan",
+            "110208BD": "Sandip",
+            "110209BD": "Satkaniya"
+        }
+    },
+    "111BD": {
+        "name": "Chuadanga",
+        "sub": {
+            "111201BD": "Alamdanga",
+            "111202BD": "Chuadanga",
+            "111203BD": "Damurhuda"
+        }
+    },
+    "112BD": {
+        "name": "Dhaka",
+        "sub": {
+            "112201BD": "Dhaka",
+            "112202BD": "Dhamrai",
+            "112203BD": "Dohar"
+        }
+    },
+    "113BD": {
+        "name": "Dinajpur",
+        "sub": {
+            "113201BD": "Bochanganj",
+            "113202BD": "Dinajpur",
+            "113203BD": "Fulbari",
+            "113204BD": "Parbatipur"
+        }
+    },
+    "114BD": {
+        "name": "Faridpur",
+        "sub": {
+            "114201BD": "Bhanga",
+            "114202BD": "Char Bhadrasan",
+            "114203BD": "Faridpur"
+        }
+    },
+    "115BD": {
+        "name": "Feni",
+        "sub": {
+            "115201BD": "Chhagalnaiya",
+            "115202BD": "Feni"
+        }
+    },
+    "116BD": {
+        "name": "Gaybanda",
+        "sub": {
+            "116201BD": "Gaybanda"
+        }
+    },
+    "117BD": {
+        "name": "Gazipur",
+        "sub": {
+            "117201BD": "Gazipur",
+            "117202BD": "Tungi"
+        }
+    },
+    "118BD": {
+        "name": "Gopalganj",
+        "sub": {
+            "118201BD": "Gopalganj",
+            "118202BD": "Tungi Para"
+        }
+    },
+    "119BD": {
+        "name": "Habiganj",
+        "sub": {
+            "119201BD": "Baniachang",
+            "119202BD": "Habiganj"
+        }
+    },
+    "120BD": {
+        "name": "Jaipur Hat",
+        "sub": {
+            "120201BD": "Baniachang",
+            "120202BD": "Habiganj"
+        }
+    },
+    "121BD": {
+        "name": "Jamalpur",
+        "sub": {
+            "121201BD": "Jamalpur",
+            "121202BD": "Sarishabari"
+        }
+    },
+    "122BD": {
+        "name": "Jessor",
+        "sub": {
+            "122201BD": "Abhaynagar",
+            "122202BD": "Jessor",
+            "122203BD": "Jhikargachha",
+            "122204BD": "Keshabpur"
+        }
+    },
+    "123BD": {
+        "name": "Jhalakati",
+        "sub": {
+            "123201BD": "Jhalakati"
+        }
+    },
+    "124BD": {
+        "name": "Jhanaydah",
+        "sub": {
+            "124201BD": "Jhanaydah",
+            "124202BD": "Kaliganj",
+            "124203BD": "Kotchandpur",
+            "124204BD": "Shailkupa"
+        }
+    },
+    "125BD": {
+        "name": "Khagrachhari",
+        "sub": {
+            "125201BD": "Khagrachari",
+            "125202BD": "Manikchhari",
+            "125203BD": "Ramgarh"
+        }
+    },
+    "126BD": {
+        "name": "Khulna",
+        "sub": {
+            "126201BD": "Khulna",
+            "126202BD": "Phultala"
+        }
+    },
+    "127BD": {
+        "name": "Kishorganj",
+        "sub": {
+            "127201BD": "Bajitpur",
+            "127202BD": "Bhairab Bazar",
+            "127203BD": "Itna",
+            "127204BD": "Kishorganj"
+        }
+    },
+    "128BD": {
+        "name": "Koks Bazar",
+        "sub": {
+            "128201BD": "Bajitpur",
+            "128202BD": "Bhairab Bazar",
+            "128203BD": "Itna",
+            "128204BD": "Kishorganj"
+        }
+    },
+    "129BD": {
+        "name": "Komilla",
+        "sub": {
+            "129201BD": "Komilla",
+            "129202BD": "Laksham"
+        }
+    },
+    "130BD": {
+        "name": "Kurigram",
+        "sub": {
+            "130201BD": "Chilmari",
+            "130202BD": "Kurigram",
+            "130203BD": "Nageshwari",
+            "130204BD": "Ulipur"
+        }
+    },
+    "131BD": {
+        "name": "Kushtiya",
+        "sub": {
+            "131201BD": "Bheramara",
+            "131202BD": "Kushtiya"
+        }
+    },
+    "132BD": {
+        "name": "Lakshmipur",
+        "sub": {
+            "132201BD": "Lakshmipur",
+            "132202BD": "Ramganj",
+            "132203BD": "Ramgati",
+            "132204BD": "Raypur"
+        }
+    },
+    "133BD": {
+        "name": "Lalmanir Hat",
+        "sub": {
+            "133201BD": "Lakshmipur",
+            "133202BD": "Ramganj",
+            "133203BD": "Ramgati",
+            "133204BD": "Raypur"
+        }
+    },
+    "134BD": {
+        "name": "Madaripur",
+        "sub": {
+            "134201BD": "Madaripur"
+        }
+    },
+    "135BD": {
+        "name": "Magura",
+        "sub": {
+            "135201BD": "Magura"
+        }
+    },
+    "136BD": {
+        "name": "Maimansingh",
+        "sub": {
+            "136201BD": "Bhaluka",
+            "136202BD": "Fulbaria",
+            "136203BD": "Gafargaon",
+            "136204BD": "Ishwarganj",
+            "136205BD": "Maimansingh",
+            "136206BD": "Muktagachha",
+            "136207BD": "Trishal"
+        }
+    },
+    "137BD": {
+        "name": "Manikganj",
+        "sub": {
+            "137201BD": "Manikganj"
+        }
+    },
+    "138BD": {
+        "name": "Maulvi Bazar",
+        "sub": {
+            "138201BD": "Manikganj"
+        }
+    },
+    "139BD": {
+        "name": "Meherpur",
+        "sub": {
+            "139201BD": "Meherpur"
+        }
+    },
+    "140BD": {
+        "name": "Munshiganj",
+        "sub": {
+            "140201BD": "Munshiganj"
+        }
+    },
+    "141BD": {
+        "name": "Naral",
+        "sub": {
+            "141201BD": "Kalia",
+            "141202BD": "Naral"
+        }
+    },
+    "142BD": {
+        "name": "Narayanganj",
+        "sub": {
+            "142201BD": "Narayanganj",
+            "142202BD": "Rupganj"
+        }
+    },
+    "143BD": {
+        "name": "Narsingdi",
+        "sub": {
+            "143201BD": "Narsingdi",
+            "143202BD": "Roypura"
+        }
+    },
+    "144BD": {
+        "name": "Nator",
+        "sub": {
+            "144201BD": "Gurudaspur",
+            "144202BD": "Nator"
+        }
+    },
+    "145BD": {
+        "name": "Naugaon",
+        "sub": {
+            "145201BD": "Naugaon"
+        }
+    },
+    "146BD": {
+        "name": "Nawabganj",
+        "sub": {
+            "146201BD": "Gomastapur",
+            "146202BD": "Nawabganj",
+            "146203BD": "Shibganj"
+        }
+    },
+    "147BD": {
+        "name": "Netrakona",
+        "sub": {
+            "147201BD": "Netrakona"
+        }
+    },
+    "148BD": {
+        "name": "Nilphamari",
+        "sub": {
+            "148201BD": "Domar",
+            "148202BD": "Nilphamari",
+            "148203BD": "Sa\\'idpur"
+        }
+    },
+    "149BD": {
+        "name": "Noakhali",
+        "sub": {
+            "149201BD": "Begamganj",
+            "149202BD": "Noakhali",
+            "149203BD": "Senbagh"
+        }
+    },
+    "150BD": {
+        "name": "Pabna",
+        "sub": {
+            "150201BD": "Bera",
+            "150202BD": "Bhangura",
+            "150203BD": "Ishurdi",
+            "150204BD": "Pabna"
+        }
+    },
+    "151BD": {
+        "name": "Panchagarh",
+        "sub": {
+            "151201BD": "Panchagarh"
+        }
+    },
+    "152BD": {
+        "name": "Patuakhali",
+        "sub": {
+            "152201BD": "Patuakhali"
+        }
+    },
+    "153BD": {
+        "name": "Pirojpur",
+        "sub": {
+            "153201BD": "Bhandaria",
+            "153202BD": "Mathbaria",
+            "153203BD": "Nesarabad",
+            "153204BD": "Pirojpur"
+        }
+    },
+    "154BD": {
+        "name": "Rajbari",
+        "sub": {
+            "154201BD": "Pangsha",
+            "154202BD": "Rajbari"
+        }
+    },
+    "155BD": {
+        "name": "Rajshahi",
+        "sub": {
+            "155201BD": "Rajshahi"
+        }
+    },
+    "156BD": {
+        "name": "Rangamati",
+        "sub": {
+            "156201BD": "Kaptai",
+            "156202BD": "Rangamati"
+        }
+    },
+    "157BD": {
+        "name": "Rangpur",
+        "sub": {
+            "157201BD": "Badarganj",
+            "157202BD": "Kaunia",
+            "157203BD": "Rangpur"
+        }
+    },
+    "158BD": {
+        "name": "Satkhira",
+        "sub": {
+            "158201BD": "Satkhira"
+        }
+    },
+    "159BD": {
+        "name": "Shariatpur",
+        "sub": {
+            "159201BD": "Palang"
+        }
+    },
+    "160BD": {
+        "name": "Sherpur",
+        "sub": {
+            "160201BD": "Nalitabari",
+            "160202BD": "Sherpur"
+        }
+    },
+    "161BD": {
+        "name": "Silhat",
+        "sub": {
+            "161201BD": "Silhat"
+        }
+    },
+    "162BD": {
+        "name": "Sirajganj",
+        "sub": {
+            "162201BD": "Shahjadpur",
+            "162202BD": "Sirajganj"
+        }
+    },
+    "163BD": {
+        "name": "Sunamganj",
+        "sub": {
+            "163201BD": "Chhatak",
+            "163202BD": "Sunamganj"
+        }
+    },
+    "164BD": {
+        "name": "Tangayal",
+        "sub": {
+            "164201BD": "Gopalpur",
+            "164202BD": "Mirzapur",
+            "164203BD": "Sakhipur",
+            "164204BD": "Tangayal"
+        }
+    },
+    "165BD": {
+        "name": "Thakurgaon",
+        "sub": {
+            "165201BD": "Pirganj",
+            "165202BD": "Thakurgaon"
+        }
+    }
+}

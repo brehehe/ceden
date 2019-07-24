@@ -1,0 +1,236 @@
+{
+    "101EC": {
+        "name": "Azuay",
+        "sub": {
+            "101201EC": "Cuenca",
+            "101202EC": "Gualaceo"
+        }
+    },
+    "102EC": {
+        "name": "Bolivar",
+        "sub": {
+            "102201EC": "Guaranda",
+            "102202EC": "San Miguel"
+        }
+    },
+    "103EC": {
+        "name": "Canar",
+        "sub": {
+            "103201EC": "Azogues",
+            "103202EC": "Canar",
+            "103203EC": "La Troncal"
+        }
+    },
+    "104EC": {
+        "name": "Carchi",
+        "sub": {
+            "104201EC": "El Angel",
+            "104202EC": "San Gabriel",
+            "104203EC": "Tulcan"
+        }
+    },
+    "105EC": {
+        "name": "Chimborazo",
+        "sub": {
+            "105201EC": "Alausi",
+            "105202EC": "Guano",
+            "105203EC": "Riobamba"
+        }
+    },
+    "106EC": {
+        "name": "Cotopaxi",
+        "sub": {
+            "106201EC": "La Mana",
+            "106202EC": "Latacunga",
+            "106203EC": "Pujili",
+            "106204EC": "San Miguel",
+            "106205EC": "Saquisili"
+        }
+    },
+    "107EC": {
+        "name": "El Oro",
+        "sub": {
+            "107201EC": "La Mana",
+            "107202EC": "Latacunga",
+            "107203EC": "Pujili",
+            "107204EC": "San Miguel",
+            "107205EC": "Saquisili"
+        }
+    },
+    "108EC": {
+        "name": "Esmeraldas",
+        "sub": {
+            "108201EC": "Esmeraldas",
+            "108202EC": "Muisne",
+            "108203EC": "Rosa Zarate",
+            "108204EC": "San Lorenzo",
+            "108205EC": "Valdez"
+        }
+    },
+    "109EC": {
+        "name": "Galapagos",
+        "sub": {
+            "109201EC": "Puerto Ayora",
+            "109202EC": "Puerto Baquerizo Moreno",
+            "109203EC": "San Cristobal"
+        }
+    },
+    "110EC": {
+        "name": "Guayas",
+        "sub": {
+            "110201EC": "Alfredo Baquerizo Moreno",
+            "110202EC": "Balao",
+            "110203EC": "Balzar",
+            "110204EC": "Colimes",
+            "110205EC": "Coronel Mariduena",
+            "110206EC": "Daule",
+            "110207EC": "El Salitre",
+            "110208EC": "El Triunfo",
+            "110209EC": "Eloy Alfaro",
+            "110210EC": "Guayaquil",
+            "110211EC": "La Libertad",
+            "110212EC": "Lomas de Sargentillo",
+            "110213EC": "Mapasingue",
+            "110214EC": "Milagro",
+            "110215EC": "Naranjal",
+            "110216EC": "Naranjito",
+            "110217EC": "Palestina",
+            "110218EC": "Pedro Carbo",
+            "110219EC": "Playas",
+            "110220EC": "Salinas",
+            "110221EC": "Samborondon",
+            "110222EC": "Santa Elena",
+            "110223EC": "Santa Lucia",
+            "110224EC": "Velasco Ibarra",
+            "110225EC": "Yaguachi"
+        }
+    },
+    "111EC": {
+        "name": "Imbabura",
+        "sub": {
+            "111201EC": "Atuntaqui",
+            "111202EC": "Cotacachi",
+            "111203EC": "Ibarra",
+            "111204EC": "Otavalo",
+            "111205EC": "Pimampiro"
+        }
+    },
+    "112EC": {
+        "name": "Loja",
+        "sub": {
+            "112201EC": "Alamor",
+            "112202EC": "Cariamanga",
+            "112203EC": "Catacocha",
+            "112204EC": "Catamayo",
+            "112205EC": "Celica",
+            "112206EC": "Loja",
+            "112207EC": "Macara"
+        }
+    },
+    "113EC": {
+        "name": "Los Rios",
+        "sub": {
+            "113201EC": "Alamor",
+            "113202EC": "Cariamanga",
+            "113203EC": "Catacocha",
+            "113204EC": "Catamayo",
+            "113205EC": "Celica",
+            "113206EC": "Loja",
+            "113207EC": "Macara"
+        }
+    },
+    "114EC": {
+        "name": "Manabi",
+        "sub": {
+            "114201EC": "Bahia de Caraquez",
+            "114202EC": "Calceta",
+            "114203EC": "Chone",
+            "114204EC": "El Carmen",
+            "114205EC": "Jipijapa",
+            "114206EC": "Junin",
+            "114207EC": "Manta",
+            "114208EC": "Montecristi",
+            "114209EC": "Pajan",
+            "114210EC": "Pedernales",
+            "114211EC": "Portoviejo",
+            "114212EC": "Rocafuerte",
+            "114213EC": "Santa Ana",
+            "114214EC": "Sucre",
+            "114215EC": "Tosagua"
+        }
+    },
+    "115EC": {
+        "name": "Morona Santiago",
+        "sub": {
+            "115201EC": "Bahia de Caraquez",
+            "115202EC": "Calceta",
+            "115203EC": "Chone",
+            "115204EC": "El Carmen",
+            "115205EC": "Jipijapa",
+            "115206EC": "Junin",
+            "115207EC": "Manta",
+            "115208EC": "Montecristi",
+            "115209EC": "Pajan",
+            "115210EC": "Pedernales",
+            "115211EC": "Portoviejo",
+            "115212EC": "Rocafuerte",
+            "115213EC": "Santa Ana",
+            "115214EC": "Sucre",
+            "115215EC": "Tosagua"
+        }
+    },
+    "116EC": {
+        "name": "Napo",
+        "sub": {
+            "116201EC": "Archidona",
+            "116202EC": "Tena"
+        }
+    },
+    "117EC": {
+        "name": "Orellana",
+        "sub": {
+            "117201EC": "Orellana"
+        }
+    },
+    "118EC": {
+        "name": "Pastaza",
+        "sub": {
+            "118201EC": "Puyo"
+        }
+    },
+    "119EC": {
+        "name": "Pichincha",
+        "sub": {
+            "119201EC": "Cayambe",
+            "119202EC": "Machachi",
+            "119203EC": "Quito",
+            "119204EC": "Sangolqui",
+            "119205EC": "Santo Domingo"
+        }
+    },
+    "120EC": {
+        "name": "Sucumbios",
+        "sub": {
+            "120201EC": "Nueva Loja",
+            "120202EC": "Shushufindi"
+        }
+    },
+    "121EC": {
+        "name": "Tungurahua",
+        "sub": {
+            "121201EC": "Ambato",
+            "121202EC": "Banos",
+            "121203EC": "Pelileo",
+            "121204EC": "Pillaro"
+        }
+    },
+    "122EC": {
+        "name": "Zamora Chinchipe",
+        "sub": {
+            "122201EC": "Ambato",
+            "122202EC": "Banos",
+            "122203EC": "Pelileo",
+            "122204EC": "Pillaro"
+        }
+    }
+}

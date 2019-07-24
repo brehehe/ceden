@@ -1,0 +1,62 @@
+{
+    "101GM": {
+        "name": "Banjul",
+        "sub": {
+            "101201GM": "Banjul"
+        }
+    },
+    "102GM": {
+        "name": "Basse",
+        "sub": {
+            "102201GM": "Basse",
+            "102202GM": "Gambissara",
+            "102203GM": "Sabi",
+            "102204GM": "Salikeni"
+        }
+    },
+    "103GM": {
+        "name": "Brikama",
+        "sub": {
+            "103201GM": "Brikama",
+            "103202GM": "Brufut",
+            "103203GM": "Gunjur",
+            "103204GM": "Sukuta"
+        }
+    },
+    "104GM": {
+        "name": "Janjanbureh",
+        "sub": {
+            "104201GM": "Bansang",
+            "104202GM": "Janjanbureh"
+        }
+    },
+    "105GM": {
+        "name": "Kanifing",
+        "sub": {
+            "105201GM": "Bakau",
+            "105202GM": "Serekunda"
+        }
+    },
+    "106GM": {
+        "name": "Kerewan",
+        "sub": {
+            "106201GM": "Barra",
+            "106202GM": "Essau",
+            "106203GM": "Farafenni",
+            "106204GM": "Kerewan",
+            "106205GM": "Lamin"
+        }
+    },
+    "107GM": {
+        "name": "Kuntaur",
+        "sub": {
+            "107201GM": "Kuntaur"
+        }
+    },
+    "108GM": {
+        "name": "Mansakonko",
+        "sub": {
+            "108201GM": "Mansakonko"
+        }
+    }
+}

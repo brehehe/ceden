@@ -1,0 +1,163 @@
+{
+    "101GT": {
+        "name": "Alta Verapaz",
+        "sub": {
+            "101201GT": "Yona"
+        }
+    },
+    "102GT": {
+        "name": "Baja Verapaz",
+        "sub": {
+            "102201GT": "Yona"
+        }
+    },
+    "103GT": {
+        "name": "Chimaltenango",
+        "sub": {
+            "103201GT": "Chimaltenango",
+            "103202GT": "Comalapa",
+            "103203GT": "Itzapa",
+            "103204GT": "Patzun"
+        }
+    },
+    "104GT": {
+        "name": "Chiquimula",
+        "sub": {
+            "104201GT": "Chiquimula",
+            "104202GT": "Esquipulas"
+        }
+    },
+    "105GT": {
+        "name": "El Progreso",
+        "sub": {
+            "105201GT": "Chiquimula",
+            "105202GT": "Esquipulas"
+        }
+    },
+    "106GT": {
+        "name": "Escuintla",
+        "sub": {
+            "106201GT": "Cotzumalguapa",
+            "106202GT": "Escuintla",
+            "106203GT": "Palin",
+            "106204GT": "San Jose",
+            "106205GT": "Tiquisate"
+        }
+    },
+    "107GT": {
+        "name": "Guatemala",
+        "sub": {
+            "107201GT": "Amatitlan",
+            "107202GT": "Chinautla",
+            "107203GT": "Guatemala",
+            "107204GT": "Mixco",
+            "107205GT": "Petapa",
+            "107206GT": "Villa Nueva"
+        }
+    },
+    "108GT": {
+        "name": "Huehuetenango",
+        "sub": {
+            "108201GT": "Huehuetenango"
+        }
+    },
+    "109GT": {
+        "name": "Izabal",
+        "sub": {
+            "109201GT": "Puerto Barrios"
+        }
+    },
+    "110GT": {
+        "name": "Jalapa",
+        "sub": {
+            "110201GT": "Jalapa"
+        }
+    },
+    "111GT": {
+        "name": "Jutiapa",
+        "sub": {
+            "111201GT": "Asuncion Mita",
+            "111202GT": "Jutiapa"
+        }
+    },
+    "112GT": {
+        "name": "Peten",
+        "sub": {
+            "112201GT": "Flores",
+            "112202GT": "San Benito"
+        }
+    },
+    "113GT": {
+        "name": "Quezaltenango",
+        "sub": {
+            "113201GT": "Quezaltenango"
+        }
+    },
+    "114GT": {
+        "name": "Quiche",
+        "sub": {
+            "114201GT": "Quiche"
+        }
+    },
+    "115GT": {
+        "name": "Retalhuleu",
+        "sub": {
+            "115201GT": "Retalhuleu"
+        }
+    },
+    "116GT": {
+        "name": "Sacatepequez",
+        "sub": {
+            "116201GT": "Antigua",
+            "116202GT": "Ciudad Vieja",
+            "116203GT": "Jocotenango",
+            "116204GT": "Santa Maria de Jesus",
+            "116205GT": "Sumpango"
+        }
+    },
+    "117GT": {
+        "name": "San Marcos",
+        "sub": {
+            "117201GT": "Antigua",
+            "117202GT": "Ciudad Vieja",
+            "117203GT": "Jocotenango",
+            "117204GT": "Santa Maria de Jesus",
+            "117205GT": "Sumpango"
+        }
+    },
+    "118GT": {
+        "name": "Santa Rosa",
+        "sub": {
+            "118201GT": "Antigua",
+            "118202GT": "Ciudad Vieja",
+            "118203GT": "Jocotenango",
+            "118204GT": "Santa Maria de Jesus",
+            "118205GT": "Sumpango"
+        }
+    },
+    "119GT": {
+        "name": "Solola",
+        "sub": {
+            "119201GT": "Atitlan",
+            "119202GT": "Solola"
+        }
+    },
+    "120GT": {
+        "name": "Suchitepequez",
+        "sub": {
+            "120201GT": "Mazatenango"
+        }
+    },
+    "121GT": {
+        "name": "Totonicapan",
+        "sub": {
+            "121201GT": "Totonicapan"
+        }
+    },
+    "122GT": {
+        "name": "Zacapa",
+        "sub": {
+            "122201GT": "Zacapa"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "101CG": {
+        "name": "Bouenza",
+        "sub": {
+            "101201CG": "Loudima",
+            "101202CG": "Madingou",
+            "101203CG": "Nkayi"
+        }
+    },
+    "102CG": {
+        "name": "Brazzaville",
+        "sub": {
+            "102201CG": "Brazzaville"
+        }
+    },
+    "103CG": {
+        "name": "Cuvette",
+        "sub": {
+            "103201CG": "Ewo",
+            "103202CG": "Kelle",
+            "103203CG": "Makoua",
+            "103204CG": "Mossaka",
+            "103205CG": "Owando"
+        }
+    },
+    "104CG": {
+        "name": "Kouilou",
+        "sub": {
+            "104201CG": "Loandjili",
+            "104202CG": "Ngamaba-Mfilou",
+            "104203CG": "Pointe Noire"
+        }
+    },
+    "105CG": {
+        "name": "Lekoumou",
+        "sub": {
+            "105201CG": "Sibiti",
+            "105202CG": "Zanaga"
+        }
+    },
+    "106CG": {
+        "name": "Likouala",
+        "sub": {
+            "106201CG": "Dongou",
+            "106202CG": "Epena",
+            "106203CG": "Impfondo"
+        }
+    },
+    "107CG": {
+        "name": "Niari",
+        "sub": {
+            "107201CG": "Kibangou",
+            "107202CG": "Loubomo",
+            "107203CG": "Matsanga",
+            "107204CG": "Mossendjo"
+        }
+    },
+    "108CG": {
+        "name": "Plateaux",
+        "sub": {
+            "108201CG": "Djambala",
+            "108202CG": "Gamboma"
+        }
+    },
+    "109CG": {
+        "name": "Pool",
+        "sub": {
+            "109201CG": "Boko",
+            "109202CG": "Kinkala",
+            "109203CG": "Mindouli"
+        }
+    },
+    "110CG": {
+        "name": "Sangha",
+        "sub": {
+            "110201CG": "Ikelemba",
+            "110202CG": "Ouesso",
+            "110203CG": "Sembe",
+            "110204CG": "Souanke"
+        }
+    }
+}

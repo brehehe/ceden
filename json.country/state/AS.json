@@ -1,0 +1,58 @@
+{
+    "101AS": {
+        "name": "Eastern",
+        "sub": {
+            "101201AS": "Afono",
+            "101202AS": "Alao",
+            "101203AS": "Alofau",
+            "101204AS": "Amouli",
+            "101205AS": "Aoa",
+            "101206AS": "Atu\\'u",
+            "101207AS": "Aua",
+            "101208AS": "Aunu\\'u",
+            "101209AS": "Fagasa",
+            "101210AS": "Fagatogo",
+            "101211AS": "Faga\\'alu",
+            "101212AS": "Faga\\'itua",
+            "101213AS": "Lauli\\'i",
+            "101214AS": "Leloaloa",
+            "101215AS": "Nu\\'uuli",
+            "101216AS": "Pago Pago",
+            "101217AS": "Tula",
+            "101218AS": "Utulei",
+            "101219AS": "Vatia"
+        }
+    },
+    "102AS": {
+        "name": "Manu\\'a",
+        "sub": {
+            "102201AS": "Ofu"
+        }
+    },
+    "103AS": {
+        "name": "Swains Island",
+        "sub": {
+            "103201AS": "Ofu"
+        }
+    },
+    "104AS": {
+        "name": "Western",
+        "sub": {
+            "104201AS": "Aoloau",
+            "104202AS": "Faleniu",
+            "104203AS": "Futiga",
+            "104204AS": "Ili\\'ili",
+            "104205AS": "Leone",
+            "104206AS": "Malaeimi",
+            "104207AS": "Malaeloa-Aitulagi",
+            "104208AS": "Malaeloa-Ituau",
+            "104209AS": "Mapusagafou",
+            "104210AS": "Mesepa",
+            "104211AS": "Pava\\'ia\\'i",
+            "104212AS": "Tafuna",
+            "104213AS": "Taputimu",
+            "104214AS": "Vailoatai",
+            "104215AS": "Vaitogi"
+        }
+    }
+}

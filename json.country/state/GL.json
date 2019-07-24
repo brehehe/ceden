@@ -1,0 +1,217 @@
+{
+    "101GL": {
+        "name": "Aasiaat",
+        "sub": {
+            "101201GL": "Aasiaat",
+            "101202GL": "Akunnaaq",
+            "101203GL": "Kitsissuarsuit"
+        }
+    },
+    "102GL": {
+        "name": "Ammassalik",
+        "sub": {
+            "102201GL": "Ikkatteq",
+            "102202GL": "Isortoq",
+            "102203GL": "Kulusuk",
+            "102204GL": "Kuumiut",
+            "102205GL": "Qernertuarssuit",
+            "102206GL": "Sermiligaaq",
+            "102207GL": "Tasiilaq",
+            "102208GL": "Tiniteqilaaq"
+        }
+    },
+    "103GL": {
+        "name": "Illoqqortoormiut",
+        "sub": {
+            "103201GL": "Illoqqortoormiut",
+            "103202GL": "Itterajivit",
+            "103203GL": "Uunarteq"
+        }
+    },
+    "104GL": {
+        "name": "Ilulissat",
+        "sub": {
+            "104201GL": "Ilimanaq",
+            "104202GL": "Ilulissat",
+            "104203GL": "Oqaatsut",
+            "104204GL": "Qeqertaq",
+            "104205GL": "Saqqaq"
+        }
+    },
+    "105GL": {
+        "name": "Ivittuut",
+        "sub": {
+            "105201GL": "Ivittuut",
+            "105202GL": "Kangilinnguit"
+        }
+    },
+    "106GL": {
+        "name": "Kangaatsiaq",
+        "sub": {
+            "106201GL": "Attu",
+            "106202GL": "Iginniarfik",
+            "106203GL": "Ikerasaarsuk",
+            "106204GL": "Kangaatsiaq",
+            "106205GL": "Niaqornaarsuk"
+        }
+    },
+    "107GL": {
+        "name": "Maniitsoq",
+        "sub": {
+            "107201GL": "Atammik",
+            "107202GL": "Kangaamiut",
+            "107203GL": "Maniitsoq",
+            "107204GL": "Napasoq"
+        }
+    },
+    "108GL": {
+        "name": "Nanortalik",
+        "sub": {
+            "108201GL": "Aappilattoq",
+            "108202GL": "Akuliaruseq",
+            "108203GL": "Alluitsoq",
+            "108204GL": "Alluitsup Paa",
+            "108205GL": "Ammassivik",
+            "108206GL": "Ikerasassuaq",
+            "108207GL": "Nanortalik",
+            "108208GL": "Narsarmijit",
+            "108209GL": "Nuugaarsuk",
+            "108210GL": "Qallimiut",
+            "108211GL": "Qortortorsuaq",
+            "108212GL": "Tasiusaq"
+        }
+    },
+    "109GL": {
+        "name": "Narsaq",
+        "sub": {
+            "109201GL": "Amannguit",
+            "109202GL": "Atarnaatsoq",
+            "109203GL": "Eqaluit Ilua",
+            "109204GL": "Igaliku",
+            "109205GL": "Igaliku Kujalleq",
+            "109206GL": "Inneruulalik",
+            "109207GL": "Issormiut",
+            "109208GL": "Iterlak",
+            "109209GL": "Kangerlua",
+            "109210GL": "Narsaq",
+            "109211GL": "Narsarsuaq",
+            "109212GL": "Nunataaq",
+            "109213GL": "Qassiarsuk",
+            "109214GL": "Qinngua",
+            "109215GL": "Qinngua Kangilleq",
+            "109216GL": "Qolortup Itinnera",
+            "109217GL": "Sillisit",
+            "109218GL": "Tasiusaq",
+            "109219GL": "Timerliit",
+            "109220GL": "Uummannartuuaraq"
+        }
+    },
+    "110GL": {
+        "name": "Nuuk",
+        "sub": {
+            "110201GL": "Kangerluarsoruseq",
+            "110202GL": "Kapisillit",
+            "110203GL": "Neriunaq",
+            "110204GL": "Nuuk",
+            "110205GL": "Qeqertarsuatsiaat",
+            "110206GL": "Qooqqut",
+            "110207GL": "Qoornoq"
+        }
+    },
+    "111GL": {
+        "name": "Paamiut",
+        "sub": {
+            "111201GL": "Arsuk",
+            "111202GL": "Paamiut"
+        }
+    },
+    "112GL": {
+        "name": "Qaanaaq",
+        "sub": {
+            "112201GL": "Moriusaq",
+            "112202GL": "Qaanaaq",
+            "112203GL": "Qeqertarsuaq",
+            "112204GL": "Qeqertat",
+            "112205GL": "Savissivik",
+            "112206GL": "Siorapaluk"
+        }
+    },
+    "113GL": {
+        "name": "Qaqortoq",
+        "sub": {
+            "113201GL": "Eqalugaarsuit",
+            "113202GL": "Illorsuit",
+            "113203GL": "Kangerluarsorujuk",
+            "113204GL": "Kangerluarsorujuup Qinngua",
+            "113205GL": "Qanisartuut",
+            "113206GL": "Qaqortokolook",
+            "113207GL": "Qaqortoq",
+            "113208GL": "Qassimiut",
+            "113209GL": "Saarloq",
+            "113210GL": "Saqqamiut",
+            "113211GL": "Tasiluk",
+            "113212GL": "Upernaviarsuk"
+        }
+    },
+    "114GL": {
+        "name": "Qasigiannguit",
+        "sub": {
+            "114201GL": "Ikamiut",
+            "114202GL": "Qasigiannguit"
+        }
+    },
+    "115GL": {
+        "name": "Qeqertarsuaq",
+        "sub": {
+            "115201GL": "Kangerluk",
+            "115202GL": "Qeqertarsuaq"
+        }
+    },
+    "116GL": {
+        "name": "Sisimiut",
+        "sub": {
+            "116201GL": "Itilleq",
+            "116202GL": "Kangerlussuaq",
+            "116203GL": "Sarfannguit",
+            "116204GL": "Sisimiut"
+        }
+    },
+    "117GL": {
+        "name": "Udenfor kommunal inddeling",
+        "sub": {
+            "117201GL": "Itilleq",
+            "117202GL": "Kangerlussuaq",
+            "117203GL": "Sarfannguit",
+            "117204GL": "Sisimiut"
+        }
+    },
+    "118GL": {
+        "name": "Upernavik",
+        "sub": {
+            "118201GL": "Aappilattoq",
+            "118202GL": "Ikerakuuk",
+            "118203GL": "Innarsuit",
+            "118204GL": "Kangersuatsiaq",
+            "118205GL": "Kullorsuaq",
+            "118206GL": "Naajaat",
+            "118207GL": "Nutaarmiut",
+            "118208GL": "Nuusuaq",
+            "118209GL": "Tasiusaq",
+            "118210GL": "Upernavik",
+            "118211GL": "Upernavik Kujalleq"
+        }
+    },
+    "119GL": {
+        "name": "Uummannaq",
+        "sub": {
+            "119201GL": "Ikerasak",
+            "119202GL": "Illorsuit",
+            "119203GL": "Niaqornat",
+            "119204GL": "Nuugaatsiaq",
+            "119205GL": "Qaarsut",
+            "119206GL": "Saattut",
+            "119207GL": "Ukkusissat",
+            "119208GL": "Uummannaq"
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "101GP": {
+        "name": "Basse-Terre",
+        "sub": {
+            "101201GP": "Baie-Mahault",
+            "101202GP": "Baillif",
+            "101203GP": "Basse-Terre",
+            "101204GP": "Bouillante",
+            "101205GP": "Capesterre-Belle-Eau",
+            "101206GP": "Gourbeyre",
+            "101207GP": "Lamentin",
+            "101208GP": "Petit-Bourg",
+            "101209GP": "Pointe-Noire",
+            "101210GP": "Saint-Claude",
+            "101211GP": "Sainte-Rose",
+            "101212GP": "Trois-Rivieres",
+            "101213GP": "Vieux-Habitants"
+        }
+    },
+    "102GP": {
+        "name": "Grande-Terre",
+        "sub": {
+            "102201GP": "Anse-Bertrand",
+            "102202GP": "Le Gosier",
+            "102203GP": "Le Moule",
+            "102204GP": "Les Abymes",
+            "102205GP": "Morne-a-l\\'Eau",
+            "102206GP": "Petit-Canal",
+            "102207GP": "Point-a-Pitre",
+            "102208GP": "Port-Louis",
+            "102209GP": "Saint-Francois",
+            "102210GP": "Sainte-Anne"
+        }
+    },
+    "103GP": {
+        "name": "Iles des Saintes",
+        "sub": {
+            "103201GP": "Anse-Bertrand",
+            "103202GP": "Le Gosier",
+            "103203GP": "Le Moule",
+            "103204GP": "Les Abymes",
+            "103205GP": "Morne-a-l\\'Eau",
+            "103206GP": "Petit-Canal",
+            "103207GP": "Point-a-Pitre",
+            "103208GP": "Port-Louis",
+            "103209GP": "Saint-Francois",
+            "103210GP": "Sainte-Anne"
+        }
+    },
+    "104GP": {
+        "name": "La Desirade",
+        "sub": {
+            "104201GP": "Anse-Bertrand",
+            "104202GP": "Le Gosier",
+            "104203GP": "Le Moule",
+            "104204GP": "Les Abymes",
+            "104205GP": "Morne-a-l\\'Eau",
+            "104206GP": "Petit-Canal",
+            "104207GP": "Point-a-Pitre",
+            "104208GP": "Port-Louis",
+            "104209GP": "Saint-Francois",
+            "104210GP": "Sainte-Anne"
+        }
+    },
+    "105GP": {
+        "name": "Marie-Galante",
+        "sub": {
+            "105201GP": "Grand-Bourg"
+        }
+    },
+    "106GP": {
+        "name": "Saint Barthelemy",
+        "sub": {
+            "106201GP": "Grand-Bourg"
+        }
+    },
+    "107GP": {
+        "name": "Saint Martin",
+        "sub": {
+            "107201GP": "Grand-Bourg"
+        }
+    }
+}

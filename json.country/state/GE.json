@@ -1,0 +1,125 @@
+{
+    "101GE": {
+        "name": "Abhasia",
+        "sub": {
+            "101201GE": "Ahali Atoni",
+            "101202GE": "Bihvinta",
+            "101203GE": "Gagra",
+            "101204GE": "Gali",
+            "101205GE": "Gudauta",
+            "101206GE": "Gulripshi",
+            "101207GE": "Ochamchira",
+            "101208GE": "Suhumi",
+            "101209GE": "Tkvarcheli"
+        }
+    },
+    "102GE": {
+        "name": "Ajaria",
+        "sub": {
+            "102201GE": "Batumi",
+            "102202GE": "Dioknisi",
+            "102203GE": "Kobuleti",
+            "102204GE": "Mahindzhauri"
+        }
+    },
+    "103GE": {
+        "name": "Guria",
+        "sub": {
+            "103201GE": "Lanchhuti",
+            "103202GE": "Ozurgeti"
+        }
+    },
+    "104GE": {
+        "name": "Imereti",
+        "sub": {
+            "104201GE": "Bagdadi",
+            "104202GE": "Chaltubo",
+            "104203GE": "Chiatura",
+            "104204GE": "Honi",
+            "104205GE": "Kutaisi",
+            "104206GE": "Sachhere",
+            "104207GE": "Samtredia",
+            "104208GE": "Terzhola",
+            "104209GE": "Tkibuli",
+            "104210GE": "Vani",
+            "104211GE": "Zestaponi"
+        }
+    },
+    "105GE": {
+        "name": "Kaheti",
+        "sub": {
+            "105201GE": "Ahmeta",
+            "105202GE": "Cnori",
+            "105203GE": "Dedoplisckaro",
+            "105204GE": "Gurdzhaani",
+            "105205GE": "Kvareli",
+            "105206GE": "Lagodehi",
+            "105207GE": "Sagaredzho",
+            "105208GE": "Signahi",
+            "105209GE": "Telavi"
+        }
+    },
+    "106GE": {
+        "name": "Kvemo Kartli",
+        "sub": {
+            "106201GE": "Ahmeta",
+            "106202GE": "Cnori",
+            "106203GE": "Dedoplisckaro",
+            "106204GE": "Gurdzhaani",
+            "106205GE": "Kvareli",
+            "106206GE": "Lagodehi",
+            "106207GE": "Sagaredzho",
+            "106208GE": "Signahi",
+            "106209GE": "Telavi"
+        }
+    },
+    "107GE": {
+        "name": "Mcheta-Mtianeti",
+        "sub": {
+            "107201GE": "Dusheti",
+            "107202GE": "Mcheta"
+        }
+    },
+    "108GE": {
+        "name": "Racha",
+        "sub": {
+            "108201GE": "Ambrolauri",
+            "108202GE": "Cageri",
+            "108203GE": "Oni"
+        }
+    },
+    "109GE": {
+        "name": "Samagrelo-Zemo Svaneti",
+        "sub": {
+            "109201GE": "Ambrolauri",
+            "109202GE": "Cageri",
+            "109203GE": "Oni"
+        }
+    },
+    "110GE": {
+        "name": "Samche-Zhavaheti",
+        "sub": {
+            "110201GE": "Ahalcihe",
+            "110202GE": "Ahalkalaki",
+            "110203GE": "Borzhomi",
+            "110204GE": "Ninocminda",
+            "110205GE": "Vale"
+        }
+    },
+    "111GE": {
+        "name": "Shida Kartli",
+        "sub": {
+            "111201GE": "Ahalcihe",
+            "111202GE": "Ahalkalaki",
+            "111203GE": "Borzhomi",
+            "111204GE": "Ninocminda",
+            "111205GE": "Vale"
+        }
+    },
+    "112GE": {
+        "name": "Tbilisi",
+        "sub": {
+            "112201GE": "Tbilisi"
+        }
+    }
+}

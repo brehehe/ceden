@@ -1,0 +1,189 @@
+{
+    "101AZ": {
+        "name": "Abseron",
+        "sub": {
+            "101201AZ": "Alat",
+            "101202AZ": "Artyom",
+            "101203AZ": "Baki",
+            "101204AZ": "Bakixanov",
+            "101205AZ": "Balaxani",
+            "101206AZ": "Bilacari",
+            "101207AZ": "Bilqax",
+            "101208AZ": "Bina",
+            "101209AZ": "Buzovna",
+            "101210AZ": "Haci Zeynalabdin",
+            "101211AZ": "Hovsan",
+            "101212AZ": "Lokbatan",
+            "101213AZ": "Mastaga",
+            "101214AZ": "Puta",
+            "101215AZ": "Qarasuxur",
+            "101216AZ": "Qobustan",
+            "101217AZ": "Rasulzada",
+            "101218AZ": "Sabuncu",
+            "101219AZ": "Sanqacal",
+            "101220AZ": "Sumqayit",
+            "101221AZ": "Suraxani",
+            "101222AZ": "Xirdalan",
+            "101223AZ": "Zirya"
+        }
+    },
+    "102AZ": {
+        "name": "Baki Sahari",
+        "sub": {
+            "102201AZ": "Alat",
+            "102202AZ": "Artyom",
+            "102203AZ": "Baki",
+            "102204AZ": "Bakixanov",
+            "102205AZ": "Balaxani",
+            "102206AZ": "Bilacari",
+            "102207AZ": "Bilqax",
+            "102208AZ": "Bina",
+            "102209AZ": "Buzovna",
+            "102210AZ": "Haci Zeynalabdin",
+            "102211AZ": "Hovsan",
+            "102212AZ": "Lokbatan",
+            "102213AZ": "Mastaga",
+            "102214AZ": "Puta",
+            "102215AZ": "Qarasuxur",
+            "102216AZ": "Qobustan",
+            "102217AZ": "Rasulzada",
+            "102218AZ": "Sabuncu",
+            "102219AZ": "Sanqacal",
+            "102220AZ": "Sumqayit",
+            "102221AZ": "Suraxani",
+            "102222AZ": "Xirdalan",
+            "102223AZ": "Zirya"
+        }
+    },
+    "103AZ": {
+        "name": "Ganca",
+        "sub": {
+            "103201AZ": "Daskasan",
+            "103202AZ": "Ganca",
+            "103203AZ": "Xanlar"
+        }
+    },
+    "104AZ": {
+        "name": "Ganja",
+        "sub": {
+            "104201AZ": "Ganja"
+        }
+    },
+    "105AZ": {
+        "name": "Kalbacar",
+        "sub": {
+            "105201AZ": "Cabrayil",
+            "105202AZ": "Kalbacar",
+            "105203AZ": "Lacin"
+        }
+    },
+    "106AZ": {
+        "name": "Lankaran",
+        "sub": {
+            "106201AZ": "Astara",
+            "106202AZ": "Goytapa",
+            "106203AZ": "Lankaran",
+            "106204AZ": "Masalli",
+            "106205AZ": "Neftcala"
+        }
+    },
+    "107AZ": {
+        "name": "Mil-Qarabax",
+        "sub": {
+            "107201AZ": "Agcabadi",
+            "107202AZ": "Agdam",
+            "107203AZ": "Barda",
+            "107204AZ": "Mingacevir",
+            "107205AZ": "Tartar",
+            "107206AZ": "Yevlax"
+        }
+    },
+    "108AZ": {
+        "name": "Mugan-Salyan",
+        "sub": {
+            "108201AZ": "Ali Bayramli",
+            "108202AZ": "Bilasuvar",
+            "108203AZ": "Calilabad",
+            "108204AZ": "Qarasu",
+            "108205AZ": "Qazimammad",
+            "108206AZ": "Saatli",
+            "108207AZ": "Sabirabad",
+            "108208AZ": "Salyan"
+        }
+    },
+    "109AZ": {
+        "name": "Nagorni-Qarabax",
+        "sub": {
+            "109201AZ": "Susa",
+            "109202AZ": "Xankandi",
+            "109203AZ": "Xocavand"
+        }
+    },
+    "110AZ": {
+        "name": "Naxcivan",
+        "sub": {
+            "110201AZ": "Culfa",
+            "110202AZ": "Naxcivan",
+            "110203AZ": "Ordubad",
+            "110204AZ": "Sadarak",
+            "110205AZ": "Sarur"
+        }
+    },
+    "111AZ": {
+        "name": "Priaraks",
+        "sub": {
+            "111201AZ": "Beylaqan",
+            "111202AZ": "Fuzuli",
+            "111203AZ": "Imisli"
+        }
+    },
+    "112AZ": {
+        "name": "Qazax",
+        "sub": {
+            "112201AZ": "Agstafa",
+            "112202AZ": "Gadabay",
+            "112203AZ": "Kovlar",
+            "112204AZ": "Qaracamirli",
+            "112205AZ": "Qazax",
+            "112206AZ": "Samkir",
+            "112207AZ": "Tovuz"
+        }
+    },
+    "113AZ": {
+        "name": "Saki",
+        "sub": {
+            "113201AZ": "Amircan",
+            "113202AZ": "Balakan",
+            "113203AZ": "Katex",
+            "113204AZ": "Oguz",
+            "113205AZ": "Qabala",
+            "113206AZ": "Qax",
+            "113207AZ": "Saki",
+            "113208AZ": "Zaqatala"
+        }
+    },
+    "114AZ": {
+        "name": "Sirvan",
+        "sub": {
+            "114201AZ": "Agdas",
+            "114202AZ": "Agsu",
+            "114203AZ": "Goycay",
+            "114204AZ": "Ismayilli",
+            "114205AZ": "Kurdamir",
+            "114206AZ": "Samaxi",
+            "114207AZ": "Ucar",
+            "114208AZ": "Zardab"
+        }
+    },
+    "115AZ": {
+        "name": "Xacmaz",
+        "sub": {
+            "115201AZ": "Davaci",
+            "115202AZ": "Quba",
+            "115203AZ": "Qusar",
+            "115204AZ": "Siyazan",
+            "115205AZ": "Xacmaz",
+            "115206AZ": "Xudat"
+        }
+    }
+}

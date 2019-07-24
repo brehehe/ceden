@@ -1,0 +1,44 @@
+{
+    "101AG": {
+        "name": "Barbuda",
+        "sub": {
+            "101201AG": "Codrington"
+        }
+    },
+    "102AG": {
+        "name": "Saint George",
+        "sub": {
+            "102201AG": "Codrington"
+        }
+    },
+    "103AG": {
+        "name": "Saint John",
+        "sub": {
+            "103201AG": "Codrington"
+        }
+    },
+    "104AG": {
+        "name": "Saint Mary",
+        "sub": {
+            "104201AG": "Codrington"
+        }
+    },
+    "105AG": {
+        "name": "Saint Paul",
+        "sub": {
+            "105201AG": "Codrington"
+        }
+    },
+    "106AG": {
+        "name": "Saint Peter",
+        "sub": {
+            "106201AG": "Codrington"
+        }
+    },
+    "107AG": {
+        "name": "Saint Philip",
+        "sub": {
+            "107201AG": "Codrington"
+        }
+    }
+}

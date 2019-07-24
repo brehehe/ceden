@@ -1,0 +1,24 @@
+{
+    "101BA": {
+        "name": "Federacija Bosna i Hercegovina",
+        "sub": {
+            "101201BA": "Bermejo",
+            "101202BA": "Entre Rios",
+            "101203BA": "San Lorenzo",
+            "101204BA": "Tarija",
+            "101205BA": "Villamontes",
+            "101206BA": "Yacuiba"
+        }
+    },
+    "102BA": {
+        "name": "Republika Srpska",
+        "sub": {
+            "102201BA": "Bermejo",
+            "102202BA": "Entre Rios",
+            "102203BA": "San Lorenzo",
+            "102204BA": "Tarija",
+            "102205BA": "Villamontes",
+            "102206BA": "Yacuiba"
+        }
+    }
+}

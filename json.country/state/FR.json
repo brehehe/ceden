@@ -1,0 +1,1941 @@
+{
+    "101FR": {
+        "name": "Ain",
+        "sub": {
+            "101201FR": "Amberieu-en-Bugey",
+            "101202FR": "Bellegarde-sur-Valserine",
+            "101203FR": "Bourg-en-Bresse",
+            "101204FR": "Oyonnax"
+        }
+    },
+    "102FR": {
+        "name": "Aisne",
+        "sub": {
+            "102201FR": "Chateau-Thierry",
+            "102202FR": "Chauny",
+            "102203FR": "Hirson",
+            "102204FR": "Laon",
+            "102205FR": "Saint-Quentin",
+            "102206FR": "Soissons",
+            "102207FR": "Strassbourg",
+            "102208FR": "Tergnier"
+        }
+    },
+    "103FR": {
+        "name": "Albi Le Sequestre",
+        "sub": {
+            "103201FR": "Chateau-Thierry",
+            "103202FR": "Chauny",
+            "103203FR": "Hirson",
+            "103204FR": "Laon",
+            "103205FR": "Saint-Quentin",
+            "103206FR": "Soissons",
+            "103207FR": "Strassbourg",
+            "103208FR": "Tergnier"
+        }
+    },
+    "104FR": {
+        "name": "Allier",
+        "sub": {
+            "104201FR": "Cusset",
+            "104202FR": "Montlucon",
+            "104203FR": "Moulins",
+            "104204FR": "Vichy",
+            "104205FR": "Yzeure"
+        }
+    },
+    "105FR": {
+        "name": "Alpes-Cote dAzur",
+        "sub": {
+            "105201FR": "Cusset",
+            "105202FR": "Montlucon",
+            "105203FR": "Moulins",
+            "105204FR": "Vichy",
+            "105205FR": "Yzeure"
+        }
+    },
+    "106FR": {
+        "name": "Alpes-de-Haute-Provence",
+        "sub": {
+            "106201FR": "Digne-les-Bains",
+            "106202FR": "Manosque"
+        }
+    },
+    "107FR": {
+        "name": "Alpes-Maritimes",
+        "sub": {
+            "107201FR": "Antibes",
+            "107202FR": "Beausoleil",
+            "107203FR": "Cagnes-sur-Mer",
+            "107204FR": "Cannes",
+            "107205FR": "Carros",
+            "107206FR": "Grasse",
+            "107207FR": "La Trinite",
+            "107208FR": "Le Cannet",
+            "107209FR": "Mandelieu-la-Napoule",
+            "107210FR": "Menton",
+            "107211FR": "Mougins",
+            "107212FR": "Nice",
+            "107213FR": "Roquebrune-Cap-Martin",
+            "107214FR": "Saint-Laurent-du-Var",
+            "107215FR": "Valbonne",
+            "107216FR": "Vallauris",
+            "107217FR": "Vence",
+            "107218FR": "Villeneuve-Loubet"
+        }
+    },
+    "108FR": {
+        "name": "Alsace",
+        "sub": {
+            "108201FR": "Adainville",
+            "108202FR": "Alby-sur-Cheran",
+            "108203FR": "Aubervilliers",
+            "108204FR": "Auterive",
+            "108205FR": "Baillet",
+            "108206FR": "Beaune",
+            "108207FR": "Beauzelle",
+            "108208FR": "Bonnet De Mure",
+            "108209FR": "Bormes-les-Mimosas",
+            "108210FR": "Brindas",
+            "108211FR": "Burlats",
+            "108212FR": "Buzancais",
+            "108213FR": "Candillargues",
+            "108214FR": "Carry-le-Rouet",
+            "108215FR": "Cassis",
+            "108216FR": "Cessenon-Sur-Orb",
+            "108217FR": "Chanac",
+            "108218FR": "Chevigny",
+            "108219FR": "Cogolin",
+            "108220FR": "Collioure",
+            "108221FR": "Cremieu",
+            "108222FR": "Drulingen",
+            "108223FR": "Ecouen",
+            "108224FR": "Eschau",
+            "108225FR": "Feignies",
+            "108226FR": "Ferus",
+            "108227FR": "Fourqueux",
+            "108228FR": "Franqueville",
+            "108229FR": "Gignac",
+            "108230FR": "Gravigny",
+            "108231FR": "Hangenbieten",
+            "108232FR": "Hunspach",
+            "108233FR": "Kilstett",
+            "108234FR": "La Chevroliere",
+            "108235FR": "La-Fare-Les-Oliviers",
+            "108236FR": "Lanvellec",
+            "108237FR": "Le Faget",
+            "108238FR": "Lesigny",
+            "108239FR": "Lesquin",
+            "108240FR": "Limonest",
+            "108241FR": "Messein",
+            "108242FR": "Morgat",
+            "108243FR": "Mundolsheim",
+            "108244FR": "Nantiat",
+            "108245FR": "Niederbronn-les-Bain",
+            "108246FR": "Nimes",
+            "108247FR": "Opoul",
+            "108248FR": "Pance",
+            "108249FR": "Peronne",
+            "108250FR": "Ploneour Lanvern",
+            "108251FR": "Realmont",
+            "108252FR": "Reichstett",
+            "108253FR": "Saint Aubin",
+            "108254FR": "Saint Christophe",
+            "108255FR": "Saint Martin",
+            "108256FR": "Saint-Berthevin",
+            "108257FR": "Saint-Cergues",
+            "108258FR": "Sancerre",
+            "108259FR": "Sarzeau",
+            "108260FR": "Seltz",
+            "108261FR": "Seyssins",
+            "108262FR": "Souffelweyersheim",
+            "108263FR": "Vireux-Molhain",
+            "108264FR": "Voves",
+            "108265FR": "Wambrechies",
+            "108266FR": "Wervocq Sud"
+        }
+    },
+    "109FR": {
+        "name": "Aquitaine",
+        "sub": {
+            "109201FR": "Abzac",
+            "109202FR": "Bidart",
+            "109203FR": "Biganos",
+            "109204FR": "Buzet-sur-Baise",
+            "109205FR": "Coursac",
+            "109206FR": "Hasparren",
+            "109207FR": "Landiras",
+            "109208FR": "Le Haillan",
+            "109209FR": "Ledat",
+            "109210FR": "Martillac",
+            "109211FR": "Puyoo",
+            "109212FR": "Saint-Jean-dIllac",
+            "109213FR": "Seignosse",
+            "109214FR": "Tresses"
+        }
+    },
+    "110FR": {
+        "name": "Ardeche",
+        "sub": {
+            "110201FR": "Annonay",
+            "110202FR": "Aubenas",
+            "110203FR": "Guilherand-Granges",
+            "110204FR": "Privas",
+            "110205FR": "Tournon-sur-Rhone"
+        }
+    },
+    "111FR": {
+        "name": "Ardennes",
+        "sub": {
+            "111201FR": "Charleville-Mezieres",
+            "111202FR": "Les Hautes-Rivieres",
+            "111203FR": "Revin",
+            "111204FR": "Sedan"
+        }
+    },
+    "112FR": {
+        "name": "Ariege",
+        "sub": {
+            "112201FR": "Foix",
+            "112202FR": "Pamier"
+        }
+    },
+    "113FR": {
+        "name": "Aube",
+        "sub": {
+            "113201FR": "Bar-sur-Seine",
+            "113202FR": "Romilly-sur-Seine",
+            "113203FR": "Saint-Andre-les-Vergers",
+            "113204FR": "Sainte-Savine",
+            "113205FR": "Troyes"
+        }
+    },
+    "114FR": {
+        "name": "Aude",
+        "sub": {
+            "114201FR": "Carcassonne",
+            "114202FR": "Castelnaudary",
+            "114203FR": "Limoux",
+            "114204FR": "Narbonne"
+        }
+    },
+    "115FR": {
+        "name": "Auvergne",
+        "sub": {
+            "115201FR": "Ambert",
+            "115202FR": "Creuzier-le-Vieux",
+            "115203FR": "Ferrieres",
+            "115204FR": "Peschadoires",
+            "115205FR": "Riotord",
+            "115206FR": "Saint-Pal-de-Chalencon",
+            "115207FR": "Saint-Romain-Lachalm",
+            "115208FR": "Saint-Vidal",
+            "115209FR": "Sainte-Sigolene"
+        }
+    },
+    "116FR": {
+        "name": "Aveyron",
+        "sub": {
+            "116201FR": "Millau",
+            "116202FR": "Onet-le-Chataeu",
+            "116203FR": "Rodez",
+            "116204FR": "Villefranche-de-Rouergue"
+        }
+    },
+    "117FR": {
+        "name": "Bas-Rhin",
+        "sub": {
+            "117201FR": "Bischheim",
+            "117202FR": "Bischwiller",
+            "117203FR": "Haguenau",
+            "117204FR": "Hoenheim",
+            "117205FR": "Illkirch-Graffenstaden",
+            "117206FR": "Lingolsheim",
+            "117207FR": "Obernai",
+            "117208FR": "Ostwald",
+            "117209FR": "Saverne",
+            "117210FR": "Schiltigheim",
+            "117211FR": "Selestat",
+            "117212FR": "Strasbourg"
+        }
+    },
+    "118FR": {
+        "name": "Basse-Normandie",
+        "sub": {
+            "118201FR": "Deauville"
+        }
+    },
+    "119FR": {
+        "name": "Bouches-du-Rhone",
+        "sub": {
+            "119201FR": "Aix-en-Provence",
+            "119202FR": "Allauch",
+            "119203FR": "Arles",
+            "119204FR": "Aubagne",
+            "119205FR": "Berre-l\\'Etang",
+            "119206FR": "Bouc-Bel-Air",
+            "119207FR": "Chateauneuf-les-Martigues",
+            "119208FR": "Chateaurenard",
+            "119209FR": "Fos-sur-Mer",
+            "119210FR": "Gardanne",
+            "119211FR": "Istres",
+            "119212FR": "La Ciotat",
+            "119213FR": "Les Pennes-Mirabeau",
+            "119214FR": "Maillane",
+            "119215FR": "Marignane",
+            "119216FR": "Marseille",
+            "119217FR": "Martigues",
+            "119218FR": "Miramas",
+            "119219FR": "Plan-de-Cuques",
+            "119220FR": "Port-de-Bouc",
+            "119221FR": "Rognac",
+            "119222FR": "Saint-Martin-de-Crau",
+            "119223FR": "Saint-Remy-de-Provence",
+            "119224FR": "Salon-de-Provence",
+            "119225FR": "Septemes-les-Vallons",
+            "119226FR": "Tarascon",
+            "119227FR": "Vitrolles"
+        }
+    },
+    "120FR": {
+        "name": "Bourgogne",
+        "sub": {
+            "120201FR": "Migennes"
+        }
+    },
+    "121FR": {
+        "name": "Bretagne",
+        "sub": {
+            "121201FR": "Javene",
+            "121202FR": "Plouha"
+        }
+    },
+    "122FR": {
+        "name": "Brittany",
+        "sub": {
+            "122201FR": "Brehan",
+            "122202FR": "Broons",
+            "122203FR": "Guipry",
+            "122204FR": "Miniac-Morvan",
+            "122205FR": "Ploudaniel",
+            "122206FR": "Vern-sur-Seiche"
+        }
+    },
+    "123FR": {
+        "name": "Burgundy",
+        "sub": {
+            "123201FR": "Aillant-sur-Tholon"
+        }
+    },
+    "124FR": {
+        "name": "Calvados",
+        "sub": {
+            "124201FR": "Bayeux",
+            "124202FR": "Caen",
+            "124203FR": "Herouville-Saint-Clair",
+            "124204FR": "Lisieux",
+            "124205FR": "Mondeville",
+            "124206FR": "Vire"
+        }
+    },
+    "125FR": {
+        "name": "Cantal",
+        "sub": {
+            "125201FR": "Aurillac"
+        }
+    },
+    "126FR": {
+        "name": "Cedex",
+        "sub": {
+            "126201FR": "Brumath",
+            "126202FR": "cedex",
+            "126203FR": "Courtaboeuf",
+            "126204FR": "Iregny"
+        }
+    },
+    "127FR": {
+        "name": "Centre",
+        "sub": {
+            "127201FR": "Azay-le-Rideau",
+            "127202FR": "Chevillon-sur-Huillard",
+            "127203FR": "Cloyes-sur-le-Loir",
+            "127204FR": "Gellainville",
+            "127205FR": "La Chaussse-Saint-Victor",
+            "127206FR": "La Ville-aux-Clercs",
+            "127207FR": "Ladon",
+            "127208FR": "Le Chatelet"
+        }
+    },
+    "128FR": {
+        "name": "Charente",
+        "sub": {
+            "128201FR": "Angouleme",
+            "128202FR": "Cognac",
+            "128203FR": "Lencloitre",
+            "128204FR": "Soyaux"
+        }
+    },
+    "129FR": {
+        "name": "Charente-Maritime",
+        "sub": {
+            "129201FR": "La Rochelle",
+            "129202FR": "Rochefort",
+            "129203FR": "Royan",
+            "129204FR": "Saintes"
+        }
+    },
+    "130FR": {
+        "name": "Cher",
+        "sub": {
+            "130201FR": "Bourges",
+            "130202FR": "Saint-Amand-Montrond",
+            "130203FR": "Saint-Doulchard",
+            "130204FR": "Vierzon"
+        }
+    },
+    "131FR": {
+        "name": "Correze",
+        "sub": {
+            "131201FR": "Brive-la-Gaillarde",
+            "131202FR": "Tulle",
+            "131203FR": "Ussel"
+        }
+    },
+    "132FR": {
+        "name": "Corse-du-Sud",
+        "sub": {
+            "132201FR": "Ajaccio",
+            "132202FR": "Porto-Vecchio"
+        }
+    },
+    "133FR": {
+        "name": "Cote-d\\'Or",
+        "sub": {
+            "133201FR": "Beaune",
+            "133202FR": "Chenove",
+            "133203FR": "Dijon",
+            "133204FR": "Quetigny",
+            "133205FR": "Talant"
+        }
+    },
+    "134FR": {
+        "name": "Cotes-d\\'Armor",
+        "sub": {
+            "134201FR": "Dinan",
+            "134202FR": "Lamballe",
+            "134203FR": "Lannion",
+            "134204FR": "Loudeac",
+            "134205FR": "Plerin",
+            "134206FR": "Ploufragan",
+            "134207FR": "Saint-Brieuc"
+        }
+    },
+    "135FR": {
+        "name": "Creuse",
+        "sub": {
+            "135201FR": "Gueret"
+        }
+    },
+    "136FR": {
+        "name": "Crolles",
+        "sub": {
+            "136201FR": "Crolles"
+        }
+    },
+    "137FR": {
+        "name": "Deux-Sevres",
+        "sub": {
+            "137201FR": "Bressuire",
+            "137202FR": "Niort",
+            "137203FR": "Parthenay",
+            "137204FR": "Thouars"
+        }
+    },
+    "138FR": {
+        "name": "Dordogne",
+        "sub": {
+            "138201FR": "Bergerac",
+            "138202FR": "Perigueux",
+            "138203FR": "Sarlat-la-Caneda"
+        }
+    },
+    "139FR": {
+        "name": "Doubs",
+        "sub": {
+            "139201FR": "Audincourt",
+            "139202FR": "Besancon",
+            "139203FR": "Beure",
+            "139204FR": "Montbeliard",
+            "139205FR": "Pontarlier",
+            "139206FR": "Valentigney"
+        }
+    },
+    "140FR": {
+        "name": "Drome",
+        "sub": {
+            "140201FR": "Bourg-les-Valence",
+            "140202FR": "Montelimar",
+            "140203FR": "Pierrelatte",
+            "140204FR": "Romans-sur-Isere",
+            "140205FR": "Valence"
+        }
+    },
+    "141FR": {
+        "name": "Essonne",
+        "sub": {
+            "141201FR": "Athis-Mons",
+            "141202FR": "Bretigny-sur-Orge",
+            "141203FR": "Brunoy",
+            "141204FR": "Bures-sur-Yvette",
+            "141205FR": "Chilly-Mazarin",
+            "141206FR": "Corbeil-Essonnes",
+            "141207FR": "Courcouronnes",
+            "141208FR": "Dourdan",
+            "141209FR": "Draveil",
+            "141210FR": "Epinay-sous-Senart",
+            "141211FR": "Epinay-sur-Orge",
+            "141212FR": "Etampes",
+            "141213FR": "Evry",
+            "141214FR": "Fleury-Merogis",
+            "141215FR": "Gif-sur-Yvette",
+            "141216FR": "Grigny",
+            "141217FR": "Igny",
+            "141218FR": "Juvisy-sur-Orge",
+            "141219FR": "Les Ulis",
+            "141220FR": "Longjumeau",
+            "141221FR": "Massy",
+            "141222FR": "Mennecy",
+            "141223FR": "Montgeron",
+            "141224FR": "Morangis",
+            "141225FR": "Morsang-sur-Orge",
+            "141226FR": "Orsay",
+            "141227FR": "Palaiseau",
+            "141228FR": "Ris-Orangis",
+            "141229FR": "Saint-Michel-sur-Orge",
+            "141230FR": "Sainte-Genevieve-des-Bois",
+            "141231FR": "Savigny-sur-Orge",
+            "141232FR": "Verrieres-le-Buisson",
+            "141233FR": "Vigneux-sur-Seine",
+            "141234FR": "Villebon-sur-Yvette",
+            "141235FR": "Viry-Chatillon",
+            "141236FR": "Yerres"
+        }
+    },
+    "142FR": {
+        "name": "Eure",
+        "sub": {
+            "142201FR": "Bernay",
+            "142202FR": "Evreux",
+            "142203FR": "Gisors",
+            "142204FR": "Louviers",
+            "142205FR": "Pont-Audemer",
+            "142206FR": "Val-de-Reuil",
+            "142207FR": "Vernon"
+        }
+    },
+    "143FR": {
+        "name": "Eure-et-Loir",
+        "sub": {
+            "143201FR": "Chartres",
+            "143202FR": "Chateaudun",
+            "143203FR": "Dreux",
+            "143204FR": "Luce",
+            "143205FR": "Mainvillier",
+            "143206FR": "Nogent-le-Rotrou",
+            "143207FR": "Vernouillet"
+        }
+    },
+    "144FR": {
+        "name": "Feucherolles",
+        "sub": {
+            "144201FR": "Feucherolles"
+        }
+    },
+    "145FR": {
+        "name": "Finistere",
+        "sub": {
+            "145201FR": "Brest",
+            "145202FR": "Concarneau",
+            "145203FR": "Douarnenez",
+            "145204FR": "Guipavas",
+            "145205FR": "Landerneau",
+            "145206FR": "Le Relecq-Kerhoun",
+            "145207FR": "Morlaix",
+            "145208FR": "Plougastel-Daoulas",
+            "145209FR": "Plouzane",
+            "145210FR": "Quimper",
+            "145211FR": "Quimperle"
+        }
+    },
+    "146FR": {
+        "name": "Franche-Comte",
+        "sub": {
+            "146201FR": "Charquemont",
+            "146202FR": "Chemaudin",
+            "146203FR": "Pelousey",
+            "146204FR": "Perrigny",
+            "146205FR": "Pirey",
+            "146206FR": "Villers-le-Lac"
+        }
+    },
+    "147FR": {
+        "name": "Gard",
+        "sub": {
+            "147201FR": "Ales",
+            "147202FR": "Bagnols-sur-Ceze",
+            "147203FR": "Beaucaire",
+            "147204FR": "Nimes",
+            "147205FR": "Pont-Saint-Esprit",
+            "147206FR": "Saint-Gilles",
+            "147207FR": "Vauvert",
+            "147208FR": "Villeneuve-les-Avignon"
+        }
+    },
+    "148FR": {
+        "name": "Gers",
+        "sub": {
+            "148201FR": "Auch",
+            "148202FR": "Beraut"
+        }
+    },
+    "149FR": {
+        "name": "Gironde",
+        "sub": {
+            "149201FR": "Ambares-et-Lagrave",
+            "149202FR": "Arcachon",
+            "149203FR": "Begles",
+            "149204FR": "Blanquefort",
+            "149205FR": "Bordeaux",
+            "149206FR": "Bruges",
+            "149207FR": "Cenon",
+            "149208FR": "Cestas",
+            "149209FR": "Eysines",
+            "149210FR": "Floirac",
+            "149211FR": "Gradignan",
+            "149212FR": "Gujan-Mestras",
+            "149213FR": "La Teste-de-Buch",
+            "149214FR": "Le Bouscat",
+            "149215FR": "Libourne",
+            "149216FR": "Lormont",
+            "149217FR": "Merignac",
+            "149218FR": "Pessac",
+            "149219FR": "Saint-Medard-en-Jalles",
+            "149220FR": "Talence",
+            "149221FR": "Villenave-d\\'Ornon"
+        }
+    },
+    "150FR": {
+        "name": "Haut-Rhin",
+        "sub": {
+            "150201FR": "Cernay",
+            "150202FR": "Colmar",
+            "150203FR": "Guebwiller",
+            "150204FR": "Illzach",
+            "150205FR": "Kingersheim",
+            "150206FR": "Mulhouse",
+            "150207FR": "Riediesheim",
+            "150208FR": "Rixheim",
+            "150209FR": "Saint-Louis",
+            "150210FR": "Wittelsheim",
+            "150211FR": "Wittenheim"
+        }
+    },
+    "151FR": {
+        "name": "Haute-Corse",
+        "sub": {
+            "151201FR": "Bastia"
+        }
+    },
+    "152FR": {
+        "name": "Haute-Garonne",
+        "sub": {
+            "152201FR": "Balma",
+            "152202FR": "Blagnac",
+            "152203FR": "Colomiers",
+            "152204FR": "Cugnaux",
+            "152205FR": "L\\'Union",
+            "152206FR": "Muret",
+            "152207FR": "Plaisance-du-Touch",
+            "152208FR": "Ramonville-Saint-Agne",
+            "152209FR": "Saint-Gaudens",
+            "152210FR": "Saint-Orens-de-Gameville",
+            "152211FR": "Toulouse",
+            "152212FR": "Tournefeuille"
+        }
+    },
+    "153FR": {
+        "name": "Haute-Loire",
+        "sub": {
+            "153201FR": "Blanzac",
+            "153202FR": "Le Puy-en-Velay"
+        }
+    },
+    "154FR": {
+        "name": "Haute-Marne",
+        "sub": {
+            "154201FR": "Chaumont",
+            "154202FR": "Langres",
+            "154203FR": "Saint-Dizier"
+        }
+    },
+    "155FR": {
+        "name": "Haute-Saone",
+        "sub": {
+            "155201FR": "Hericourt",
+            "155202FR": "Lure",
+            "155203FR": "Luxeuil-les-Bains",
+            "155204FR": "Vesoul"
+        }
+    },
+    "156FR": {
+        "name": "Haute-Savoie",
+        "sub": {
+            "156201FR": "Annecy",
+            "156202FR": "Annecy-le-Vieux",
+            "156203FR": "Annemasse",
+            "156204FR": "Archamps",
+            "156205FR": "Bonneville",
+            "156206FR": "Chamonix-Mont-Blanc",
+            "156207FR": "Cluses",
+            "156208FR": "Contamine sur Arve",
+            "156209FR": "Cran-Gevrier",
+            "156210FR": "Passy",
+            "156211FR": "Rumilly",
+            "156212FR": "Sallanches",
+            "156213FR": "Seynod",
+            "156214FR": "Thonon-les-Bains"
+        }
+    },
+    "157FR": {
+        "name": "Haute-Vienne",
+        "sub": {
+            "157201FR": "Gaillard",
+            "157202FR": "Limoges",
+            "157203FR": "Saint-Junien"
+        }
+    },
+    "158FR": {
+        "name": "Hautes-Alpes",
+        "sub": {
+            "158201FR": "Briancon",
+            "158202FR": "Gap"
+        }
+    },
+    "159FR": {
+        "name": "Hautes-Pyrenees",
+        "sub": {
+            "159201FR": "Lourdes",
+            "159202FR": "Tarbes"
+        }
+    },
+    "160FR": {
+        "name": "Hauts-de-Seine",
+        "sub": {
+            "160201FR": "Antony",
+            "160202FR": "Asnieres-sur-Seine",
+            "160203FR": "Bagneux",
+            "160204FR": "Bois-Colombes",
+            "160205FR": "Boulogne-Billancourt",
+            "160206FR": "Bourg-la-Reine",
+            "160207FR": "Chatenay-Malabry",
+            "160208FR": "Chatillon",
+            "160209FR": "Chaville",
+            "160210FR": "Clamart",
+            "160211FR": "Clichy",
+            "160212FR": "Colombes",
+            "160213FR": "Courbevoie",
+            "160214FR": "Fontenay-aux-Roses",
+            "160215FR": "Garches",
+            "160216FR": "Gennevillers",
+            "160217FR": "Issy-les-Moulineaux",
+            "160218FR": "La Garenne-Colombes",
+            "160219FR": "Le Plessis-Robinson",
+            "160220FR": "Levallois-Perret",
+            "160221FR": "Malakoff",
+            "160222FR": "Meudon",
+            "160223FR": "Montrouge",
+            "160224FR": "Nanterre",
+            "160225FR": "Neuilly-sur-Seine",
+            "160226FR": "Puteaux",
+            "160227FR": "Rueil-Malmaison",
+            "160228FR": "Saint-Cloud",
+            "160229FR": "Sceaux",
+            "160230FR": "Sevres",
+            "160231FR": "Suresnes",
+            "160232FR": "Vanves",
+            "160233FR": "Ville-d\\'Avray",
+            "160234FR": "Villeneuve-la-Garenne"
+        }
+    },
+    "161FR": {
+        "name": "Herault",
+        "sub": {
+            "161201FR": "Agde",
+            "161202FR": "Beziers",
+            "161203FR": "Castelnau-le-Lez",
+            "161204FR": "Frontignan",
+            "161205FR": "Lattes",
+            "161206FR": "Lunel",
+            "161207FR": "Mauguio",
+            "161208FR": "Montpellier",
+            "161209FR": "Sete"
+        }
+    },
+    "162FR": {
+        "name": "Ile-de-France",
+        "sub": {
+            "162201FR": "Champagne-sur-Oise",
+            "162202FR": "Croissy-Beaubourg",
+            "162203FR": "Gennevilliers",
+            "162204FR": "Le Mesnil-le-Roi",
+            "162205FR": "Le Plessis-Bouchard",
+            "162206FR": "Rebais",
+            "162207FR": "Saint-Thibault-des-Vignes"
+        }
+    },
+    "163FR": {
+        "name": "Ille-et-Vilaine",
+        "sub": {
+            "163201FR": "Cesson-Sevigne",
+            "163202FR": "Dinard",
+            "163203FR": "Fougeres",
+            "163204FR": "Rennes",
+            "163205FR": "Saint-Malo",
+            "163206FR": "Vitre"
+        }
+    },
+    "164FR": {
+        "name": "Indre",
+        "sub": {
+            "164201FR": "Chateauroux",
+            "164202FR": "Issoudun"
+        }
+    },
+    "165FR": {
+        "name": "Indre-et-Loire",
+        "sub": {
+            "165201FR": "Amboise",
+            "165202FR": "Joue-les-Tours",
+            "165203FR": "Saint-Avertin",
+            "165204FR": "Saint-Cyr-sur-Loire",
+            "165205FR": "Saint-Pierre-des-Corps",
+            "165206FR": "Tours"
+        }
+    },
+    "166FR": {
+        "name": "Isere",
+        "sub": {
+            "166201FR": "Bourgoin-Jallieu",
+            "166202FR": "Crolles",
+            "166203FR": "Echirolles",
+            "166204FR": "Fontaine",
+            "166205FR": "Grenoble",
+            "166206FR": "Le Pont-de-Claix",
+            "166207FR": "Meylan",
+            "166208FR": "Saint-Egreve",
+            "166209FR": "Saint-Martin-d\\'Heres",
+            "166210FR": "Seyssinet-Pariset",
+            "166211FR": "Vienne",
+            "166212FR": "Villefontaine",
+            "166213FR": "Voiron"
+        }
+    },
+    "167FR": {
+        "name": "Jura",
+        "sub": {
+            "167201FR": "Champagnole",
+            "167202FR": "Dole",
+            "167203FR": "Lons-le-Saunier",
+            "167204FR": "Saint-Claude"
+        }
+    },
+    "168FR": {
+        "name": "Klagenfurt",
+        "sub": {
+            "168201FR": "Sebastiangasse"
+        }
+    },
+    "169FR": {
+        "name": "Landes",
+        "sub": {
+            "169201FR": "Biscarrosse",
+            "169202FR": "Dax",
+            "169203FR": "Hagetmau",
+            "169204FR": "Landes",
+            "169205FR": "Mont-de-Marsan",
+            "169206FR": "Saint-Paul-les-Dax",
+            "169207FR": "Tarnos"
+        }
+    },
+    "170FR": {
+        "name": "Languedoc-Roussillon",
+        "sub": {
+            "170201FR": "Codolet",
+            "170202FR": "Cuxac-d\\'Aude",
+            "170203FR": "Gigean",
+            "170204FR": "Grabels",
+            "170205FR": "Lamalou-les-Bains",
+            "170206FR": "Perols",
+            "170207FR": "Peyrens",
+            "170208FR": "Tuchan"
+        }
+    },
+    "171FR": {
+        "name": "Larcay",
+        "sub": {
+            "171201FR": "Larcay"
+        }
+    },
+    "172FR": {
+        "name": "Le Castellet",
+        "sub": {
+            "172201FR": "Larcay"
+        }
+    },
+    "173FR": {
+        "name": "Le Creusot",
+        "sub": {
+            "173201FR": "Larcay"
+        }
+    },
+    "174FR": {
+        "name": "Limousin",
+        "sub": {
+            "174201FR": "Voutezac"
+        }
+    },
+    "175FR": {
+        "name": "Loir-et-Cher",
+        "sub": {
+            "175201FR": "Blois",
+            "175202FR": "Romorantin-Lanthenay",
+            "175203FR": "Vendome"
+        }
+    },
+    "176FR": {
+        "name": "Loire",
+        "sub": {
+            "176201FR": "Andrezieux-Boutheon",
+            "176202FR": "Firminy",
+            "176203FR": "La Ricamarie",
+            "176204FR": "Le Chambon-Feugerolles",
+            "176205FR": "Montbrison",
+            "176206FR": "Riorges",
+            "176207FR": "Rive-de-Gier",
+            "176208FR": "Roanne",
+            "176209FR": "Roche-la-Moliere",
+            "176210FR": "Saint-Chamond",
+            "176211FR": "Saint-Etienne",
+            "176212FR": "Saint-Just-Saint-Rambert"
+        }
+    },
+    "177FR": {
+        "name": "Loire-Atlantique",
+        "sub": {
+            "177201FR": "Bouguenais",
+            "177202FR": "Carquefou",
+            "177203FR": "Chateaubriant",
+            "177204FR": "Coueron",
+            "177205FR": "Guerande",
+            "177206FR": "La Baule-Escoublac",
+            "177207FR": "La Chapelle-sur-Erdre",
+            "177208FR": "Nantes",
+            "177209FR": "Orvault",
+            "177210FR": "Reze",
+            "177211FR": "Saint Etienne de Mer Morte",
+            "177212FR": "Saint-Herblain",
+            "177213FR": "Saint-Nazaire",
+            "177214FR": "Saint-Sebastien-sur-Loire",
+            "177215FR": "Sainte-Luce-sur-Loire",
+            "177216FR": "Vertou"
+        }
+    },
+    "178FR": {
+        "name": "Loiret",
+        "sub": {
+            "178201FR": "Amilly",
+            "178202FR": "Chalette-sur-Loing",
+            "178203FR": "Fleury-les-Aubrais",
+            "178204FR": "Gien",
+            "178205FR": "Montargis",
+            "178206FR": "Olivet",
+            "178207FR": "Orleans",
+            "178208FR": "Pithiviers",
+            "178209FR": "Saint-Jean-de-Braye",
+            "178210FR": "Saint-Jean-de-la-Ruelle",
+            "178211FR": "Saran"
+        }
+    },
+    "179FR": {
+        "name": "Lorraine",
+        "sub": {
+            "179201FR": "Montbronn"
+        }
+    },
+    "180FR": {
+        "name": "Lot",
+        "sub": {
+            "180201FR": "Cahors",
+            "180202FR": "Figeac"
+        }
+    },
+    "181FR": {
+        "name": "Lot-et-Garonne",
+        "sub": {
+            "181201FR": "Agen",
+            "181202FR": "Le Passage",
+            "181203FR": "Marmande",
+            "181204FR": "Tonneins",
+            "181205FR": "Villeneuve-sur-Lot"
+        }
+    },
+    "182FR": {
+        "name": "Lower Normandy",
+        "sub": {
+            "182201FR": "Agen",
+            "182202FR": "Le Passage",
+            "182203FR": "Marmande",
+            "182204FR": "Tonneins",
+            "182205FR": "Villeneuve-sur-Lot"
+        }
+    },
+    "183FR": {
+        "name": "Lozere",
+        "sub": {
+            "183201FR": "Mende"
+        }
+    },
+    "184FR": {
+        "name": "Maine-et-Loire",
+        "sub": {
+            "184201FR": "Angers",
+            "184202FR": "Avrille",
+            "184203FR": "Cholet",
+            "184204FR": "Les Ponts-de-Ce",
+            "184205FR": "Saint-Barthelemy-d\\'Anjou",
+            "184206FR": "Saumur",
+            "184207FR": "Torfou",
+            "184208FR": "Trelaze"
+        }
+    },
+    "185FR": {
+        "name": "Manche",
+        "sub": {
+            "185201FR": "Cherbourg",
+            "185202FR": "Coutances",
+            "185203FR": "Equeurdreville-Hainneville",
+            "185204FR": "Granville",
+            "185205FR": "Octeville",
+            "185206FR": "Saint-Lo",
+            "185207FR": "Tourlaville"
+        }
+    },
+    "186FR": {
+        "name": "Marne",
+        "sub": {
+            "186201FR": "Chalons-en-Champagne",
+            "186202FR": "Epernay",
+            "186203FR": "Reims",
+            "186204FR": "Tinqueux",
+            "186205FR": "Vitry-le-Francois"
+        }
+    },
+    "187FR": {
+        "name": "Mayenne",
+        "sub": {
+            "187201FR": "Chateau-Gontier",
+            "187202FR": "Laval",
+            "187203FR": "Mayenne",
+            "187204FR": "Montsurs"
+        }
+    },
+    "188FR": {
+        "name": "Meurthe-et-Moselle",
+        "sub": {
+            "188201FR": "Dombasle-sur-Meurthe",
+            "188202FR": "Jarville-la-Malgrange",
+            "188203FR": "Laxou",
+            "188204FR": "Longwy",
+            "188205FR": "Luneville",
+            "188206FR": "Nancy",
+            "188207FR": "Pont-a-Mousson",
+            "188208FR": "Saint-Max",
+            "188209FR": "Toul",
+            "188210FR": "Vandoeuvre-les-Nancy",
+            "188211FR": "Villers-les-Nancy",
+            "188212FR": "Villerupt"
+        }
+    },
+    "189FR": {
+        "name": "Meuse",
+        "sub": {
+            "189201FR": "Bar-le-Duc",
+            "189202FR": "Verdun"
+        }
+    },
+    "190FR": {
+        "name": "Midi-Pyrenees",
+        "sub": {
+            "190201FR": "Boissezon",
+            "190202FR": "Hauterive",
+            "190203FR": "Launaguet",
+            "190204FR": "Mauleon",
+            "190205FR": "Maurens-Scopont"
+        }
+    },
+    "191FR": {
+        "name": "Morbihan",
+        "sub": {
+            "191201FR": "Auray",
+            "191202FR": "Guidel",
+            "191203FR": "Hennebont",
+            "191204FR": "Lanester",
+            "191205FR": "Lorient",
+            "191206FR": "Ploemeur",
+            "191207FR": "Pontivy",
+            "191208FR": "Vannes"
+        }
+    },
+    "192FR": {
+        "name": "Moselle",
+        "sub": {
+            "192201FR": "Amneville",
+            "192202FR": "Behren-les-Forbach",
+            "192203FR": "Creutzwald",
+            "192204FR": "Fameck",
+            "192205FR": "Florange",
+            "192206FR": "Forbach",
+            "192207FR": "Freyming-Merlebach",
+            "192208FR": "Hagondange",
+            "192209FR": "Hayange",
+            "192210FR": "Hombourg-Haut",
+            "192211FR": "Maizieres-les-Metz",
+            "192212FR": "Marly",
+            "192213FR": "Metz",
+            "192214FR": "Montigny-les-Metz",
+            "192215FR": "Moyeuvre-Grande",
+            "192216FR": "Rombas",
+            "192217FR": "Saint-Avold",
+            "192218FR": "Sarrebourg",
+            "192219FR": "Sarreguemines",
+            "192220FR": "Stiring-Wendel",
+            "192221FR": "Thionville",
+            "192222FR": "Uckange",
+            "192223FR": "Woippy",
+            "192224FR": "Yutz"
+        }
+    },
+    "193FR": {
+        "name": "Nievre",
+        "sub": {
+            "193201FR": "Cosne-Cours-sur-Loire",
+            "193202FR": "Nevers",
+            "193203FR": "Varennes-Vauzelles"
+        }
+    },
+    "194FR": {
+        "name": "Nord",
+        "sub": {
+            "194201FR": "Aniche",
+            "194202FR": "Annoeullin",
+            "194203FR": "Anzin",
+            "194204FR": "Armentieres",
+            "194205FR": "Aulnoye-Aymeries",
+            "194206FR": "Bailleul",
+            "194207FR": "Bondues",
+            "194208FR": "Bruay-sur-l\\'Escaut",
+            "194209FR": "Cambrai",
+            "194210FR": "Cappelle-la-Grande",
+            "194211FR": "Caudry",
+            "194212FR": "Comines",
+            "194213FR": "Conde-sur-l\\'Escaut",
+            "194214FR": "Coudekerque-Branche",
+            "194215FR": "Croix",
+            "194216FR": "Denain",
+            "194217FR": "Douai",
+            "194218FR": "Douchy-les-Mines",
+            "194219FR": "Dunkerque",
+            "194220FR": "Escaudain",
+            "194221FR": "Fache-Thumesnil",
+            "194222FR": "Fourmies",
+            "194223FR": "Grande-Synthe",
+            "194224FR": "Graveline",
+            "194225FR": "Halluin",
+            "194226FR": "Haubourdin",
+            "194227FR": "Hautmont",
+            "194228FR": "Hazebrouck",
+            "194229FR": "Hem",
+            "194230FR": "Hulluch",
+            "194231FR": "Jeumont",
+            "194232FR": "La Madeleine",
+            "194233FR": "Lambersart",
+            "194234FR": "Leers",
+            "194235FR": "Lille",
+            "194236FR": "Lomme",
+            "194237FR": "Loos",
+            "194238FR": "Lys-lez-Lannoy",
+            "194239FR": "Marcq-en-Baroeul",
+            "194240FR": "Marennes",
+            "194241FR": "Marly",
+            "194242FR": "Marquette-lez-Lille",
+            "194243FR": "Maubeuge",
+            "194244FR": "Merville",
+            "194245FR": "Mons-en-Baroeul",
+            "194246FR": "Mouvaux",
+            "194247FR": "Neuville-en-Ferrain",
+            "194248FR": "Onnaing",
+            "194249FR": "Raismes",
+            "194250FR": "Ronchin",
+            "194251FR": "Roncq",
+            "194252FR": "Roubaix",
+            "194253FR": "Saint-Amand-les-Eaux",
+            "194254FR": "Saint-Andre-lez-Lille",
+            "194255FR": "Saint-Pol-sur-Mer",
+            "194256FR": "Saint-Saulve",
+            "194257FR": "Seclin",
+            "194258FR": "Sin-le-Noble",
+            "194259FR": "Somain",
+            "194260FR": "Tourcoing",
+            "194261FR": "Valenciennes",
+            "194262FR": "Vieux-Conde",
+            "194263FR": "Villeneuve-d\\'Ascq",
+            "194264FR": "Wasquehal",
+            "194265FR": "Wattignies",
+            "194266FR": "Wattrelos",
+            "194267FR": "Waziers"
+        }
+    },
+    "195FR": {
+        "name": "Nord-Pas-de-Calais",
+        "sub": {
+            "195201FR": "Esquelbecq"
+        }
+    },
+    "196FR": {
+        "name": "Oise",
+        "sub": {
+            "196201FR": "Beauvais",
+            "196202FR": "Chantilly",
+            "196203FR": "Clermont",
+            "196204FR": "Compiegne",
+            "196205FR": "Creil",
+            "196206FR": "Crepy-en-Valois",
+            "196207FR": "Gouvieux",
+            "196208FR": "Meru",
+            "196209FR": "Montataire",
+            "196210FR": "Nogent-sur-Oise",
+            "196211FR": "Noyon",
+            "196212FR": "Pont-Sainte-Maxence",
+            "196213FR": "Senlis"
+        }
+    },
+    "197FR": {
+        "name": "Orne",
+        "sub": {
+            "197201FR": "Alencon",
+            "197202FR": "Argentan",
+            "197203FR": "Flers",
+            "197204FR": "L\\'Aigle"
+        }
+    },
+    "198FR": {
+        "name": "Paris",
+        "sub": {
+            "198201FR": "Paris"
+        }
+    },
+    "199FR": {
+        "name": "Pas-de-Calais",
+        "sub": {
+            "199201FR": "Aire-sur-la-Lys",
+            "199202FR": "Arras",
+            "199203FR": "Auchel",
+            "199204FR": "Avion",
+            "199205FR": "Berck",
+            "199206FR": "Bethune",
+            "199207FR": "Boulogne-sur-Mer",
+            "199208FR": "Bruay-la-Brussiere",
+            "199209FR": "Bully-les-Mines",
+            "199210FR": "Calais",
+            "199211FR": "Carvin",
+            "199212FR": "Courrieres",
+            "199213FR": "Etaples",
+            "199214FR": "Harnes",
+            "199215FR": "Henin-Beaumont",
+            "199216FR": "Le Portel",
+            "199217FR": "Lens",
+            "199218FR": "Libercourt",
+            "199219FR": "Lievin",
+            "199220FR": "Lillers",
+            "199221FR": "Longuenesse",
+            "199222FR": "Marck",
+            "199223FR": "Mericourt",
+            "199224FR": "Montigny-en-Gohelle",
+            "199225FR": "Noeux-les-Mines",
+            "199226FR": "Oignies",
+            "199227FR": "Outreau",
+            "199228FR": "Rouvroy",
+            "199229FR": "Saint-Martin-Boulogne",
+            "199230FR": "Saint-Omer",
+            "199231FR": "Sallaumines",
+            "199232FR": "Vendin-le-Vieil"
+        }
+    },
+    "1100FR": {
+        "name": "Pays de la Loire",
+        "sub": {
+            "1100201FR": "Aire-sur-la-Lys",
+            "1100202FR": "Arras",
+            "1100203FR": "Auchel",
+            "1100204FR": "Avion",
+            "1100205FR": "Berck",
+            "1100206FR": "Bethune",
+            "1100207FR": "Boulogne-sur-Mer",
+            "1100208FR": "Bruay-la-Brussiere",
+            "1100209FR": "Bully-les-Mines",
+            "1100210FR": "Calais",
+            "1100211FR": "Carvin",
+            "1100212FR": "Courrieres",
+            "1100213FR": "Etaples",
+            "1100214FR": "Harnes",
+            "1100215FR": "Henin-Beaumont",
+            "1100216FR": "Le Portel",
+            "1100217FR": "Lens",
+            "1100218FR": "Libercourt",
+            "1100219FR": "Lievin",
+            "1100220FR": "Lillers",
+            "1100221FR": "Longuenesse",
+            "1100222FR": "Marck",
+            "1100223FR": "Mericourt",
+            "1100224FR": "Montigny-en-Gohelle",
+            "1100225FR": "Noeux-les-Mines",
+            "1100226FR": "Oignies",
+            "1100227FR": "Outreau",
+            "1100228FR": "Rouvroy",
+            "1100229FR": "Saint-Martin-Boulogne",
+            "1100230FR": "Saint-Omer",
+            "1100231FR": "Sallaumines",
+            "1100232FR": "Vendin-le-Vieil"
+        }
+    },
+    "1101FR": {
+        "name": "Pays-de-la-Loire",
+        "sub": {
+            "1101201FR": "Loiron",
+            "1101202FR": "Marolles-les-Braults",
+            "1101203FR": "Mortagne-sur-Sevre",
+            "1101204FR": "Mouzillon",
+            "1101205FR": "Noirmoutier-en-l\\'\u00c3\u0083\u00c2\u0083\u00c3\u0086\u00c2\u0092\u00c3\u0083\u00c2\u0082\u00c3\u0085\u00c2\u00bdle"
+        }
+    },
+    "1102FR": {
+        "name": "Picardy",
+        "sub": {
+            "1102201FR": "Friville",
+            "1102202FR": "Liancourt",
+            "1102203FR": "Maizy",
+            "1102204FR": "Oust-Marest",
+            "1102205FR": "Puiseux-le-Hauberger",
+            "1102206FR": "Saint-Crepin-Ibouvillers"
+        }
+    },
+    "1103FR": {
+        "name": "Puy-de-Dome",
+        "sub": {
+            "1103201FR": "Aubiere",
+            "1103202FR": "Beaumont",
+            "1103203FR": "Chamalieres",
+            "1103204FR": "Clermont-Ferrand",
+            "1103205FR": "Cournon-d\\'Auvergne",
+            "1103206FR": "Gerzat",
+            "1103207FR": "Issoire",
+            "1103208FR": "Riom",
+            "1103209FR": "Thiers"
+        }
+    },
+    "1104FR": {
+        "name": "Pyrenees-Atlantiques",
+        "sub": {
+            "1104201FR": "Anglet",
+            "1104202FR": "Bayonne",
+            "1104203FR": "Biarritz",
+            "1104204FR": "Billere",
+            "1104205FR": "Hendaye",
+            "1104206FR": "Lons",
+            "1104207FR": "Oloron-Sainte-Marie",
+            "1104208FR": "Orthez",
+            "1104209FR": "Pau",
+            "1104210FR": "Saint-Jean-de-Luz"
+        }
+    },
+    "1105FR": {
+        "name": "Pyrenees-Orientales",
+        "sub": {
+            "1105201FR": "Perpignan",
+            "1105202FR": "Saint-Esteve"
+        }
+    },
+    "1106FR": {
+        "name": "Quelmes",
+        "sub": {
+            "1106201FR": "Quelmes"
+        }
+    },
+    "1107FR": {
+        "name": "Rhone",
+        "sub": {
+            "1107201FR": "Brignais",
+            "1107202FR": "Bron",
+            "1107203FR": "Caluire-et-Cuire",
+            "1107204FR": "Decines-Charpieu",
+            "1107205FR": "Ecully",
+            "1107206FR": "Francheville",
+            "1107207FR": "Genas",
+            "1107208FR": "Genay",
+            "1107209FR": "Givors",
+            "1107210FR": "Lyon",
+            "1107211FR": "Meyzieu",
+            "1107212FR": "Mions",
+            "1107213FR": "Oullins",
+            "1107214FR": "Pierre-Benite",
+            "1107215FR": "Rillieux-la-Pape",
+            "1107216FR": "Saint-Fons",
+            "1107217FR": "Saint-Genis-Laval",
+            "1107218FR": "Saint-Priest",
+            "1107219FR": "Sainte-Foy-les-Lyon",
+            "1107220FR": "Tarare",
+            "1107221FR": "Tassin-la-Demi-Lune",
+            "1107222FR": "Vaulx-en-Velin",
+            "1107223FR": "Venissieux",
+            "1107224FR": "Villefranche-sur-Saone",
+            "1107225FR": "Villeurbanne"
+        }
+    },
+    "1108FR": {
+        "name": "Rhone-Alpes",
+        "sub": {
+            "1108201FR": "Beauvoir-en-Royans",
+            "1108202FR": "Belley",
+            "1108203FR": "Bons-en-Chablais",
+            "1108204FR": "Chalain-d\\'Uzore",
+            "1108205FR": "Chassieu",
+            "1108206FR": "Chavanod",
+            "1108207FR": "Chazay-d-Azergues",
+            "1108208FR": "Chimilin",
+            "1108209FR": "Civrieux-d Azergues",
+            "1108210FR": "Corbas",
+            "1108211FR": "Courzieu",
+            "1108212FR": "Dardilly",
+            "1108213FR": "Guereins",
+            "1108214FR": "Izernore",
+            "1108215FR": "La Talaudiere",
+            "1108216FR": "La Tronche",
+            "1108217FR": "La Verpilliere",
+            "1108218FR": "Le Cheylard",
+            "1108219FR": "Le Cheylas",
+            "1108220FR": "Mery",
+            "1108221FR": "Moirans",
+            "1108222FR": "Montalieu-Vercieu",
+            "1108223FR": "Montmiral",
+            "1108224FR": "Peronnas",
+            "1108225FR": "Poncin",
+            "1108226FR": "Quincie-en-Beaujolais",
+            "1108227FR": "Saint-Quentin-sur-Isere",
+            "1108228FR": "Sainte Agathe la Bouteresse",
+            "1108229FR": "Sainte-Consorce",
+            "1108230FR": "Sisteron",
+            "1108231FR": "Trevoux",
+            "1108232FR": "Villard-Bonnot"
+        }
+    },
+    "1109FR": {
+        "name": "Saint Ouen",
+        "sub": {
+            "1109201FR": "Beauvoir-en-Royans",
+            "1109202FR": "Belley",
+            "1109203FR": "Bons-en-Chablais",
+            "1109204FR": "Chalain-d\\'Uzore",
+            "1109205FR": "Chassieu",
+            "1109206FR": "Chavanod",
+            "1109207FR": "Chazay-d-Azergues",
+            "1109208FR": "Chimilin",
+            "1109209FR": "Civrieux-d Azergues",
+            "1109210FR": "Corbas",
+            "1109211FR": "Courzieu",
+            "1109212FR": "Dardilly",
+            "1109213FR": "Guereins",
+            "1109214FR": "Izernore",
+            "1109215FR": "La Talaudiere",
+            "1109216FR": "La Tronche",
+            "1109217FR": "La Verpilliere",
+            "1109218FR": "Le Cheylard",
+            "1109219FR": "Le Cheylas",
+            "1109220FR": "Mery",
+            "1109221FR": "Moirans",
+            "1109222FR": "Montalieu-Vercieu",
+            "1109223FR": "Montmiral",
+            "1109224FR": "Peronnas",
+            "1109225FR": "Poncin",
+            "1109226FR": "Quincie-en-Beaujolais",
+            "1109227FR": "Saint-Quentin-sur-Isere",
+            "1109228FR": "Sainte Agathe la Bouteresse",
+            "1109229FR": "Sainte-Consorce",
+            "1109230FR": "Sisteron",
+            "1109231FR": "Trevoux",
+            "1109232FR": "Villard-Bonnot"
+        }
+    },
+    "1110FR": {
+        "name": "Saint Viatre",
+        "sub": {
+            "1110201FR": "Beauvoir-en-Royans",
+            "1110202FR": "Belley",
+            "1110203FR": "Bons-en-Chablais",
+            "1110204FR": "Chalain-d\\'Uzore",
+            "1110205FR": "Chassieu",
+            "1110206FR": "Chavanod",
+            "1110207FR": "Chazay-d-Azergues",
+            "1110208FR": "Chimilin",
+            "1110209FR": "Civrieux-d Azergues",
+            "1110210FR": "Corbas",
+            "1110211FR": "Courzieu",
+            "1110212FR": "Dardilly",
+            "1110213FR": "Guereins",
+            "1110214FR": "Izernore",
+            "1110215FR": "La Talaudiere",
+            "1110216FR": "La Tronche",
+            "1110217FR": "La Verpilliere",
+            "1110218FR": "Le Cheylard",
+            "1110219FR": "Le Cheylas",
+            "1110220FR": "Mery",
+            "1110221FR": "Moirans",
+            "1110222FR": "Montalieu-Vercieu",
+            "1110223FR": "Montmiral",
+            "1110224FR": "Peronnas",
+            "1110225FR": "Poncin",
+            "1110226FR": "Quincie-en-Beaujolais",
+            "1110227FR": "Saint-Quentin-sur-Isere",
+            "1110228FR": "Sainte Agathe la Bouteresse",
+            "1110229FR": "Sainte-Consorce",
+            "1110230FR": "Sisteron",
+            "1110231FR": "Trevoux",
+            "1110232FR": "Villard-Bonnot"
+        }
+    },
+    "1111FR": {
+        "name": "Saone-et-Loire",
+        "sub": {
+            "1111201FR": "Autun",
+            "1111202FR": "Chalon-sur-Saone",
+            "1111203FR": "Digoin",
+            "1111204FR": "Gueugnon",
+            "1111205FR": "Le Creusot",
+            "1111206FR": "Macon",
+            "1111207FR": "Montceau-les-Mines",
+            "1111208FR": "Paray-le-Monial",
+            "1111209FR": "Saint-Vallier"
+        }
+    },
+    "1112FR": {
+        "name": "Sarthe",
+        "sub": {
+            "1112201FR": "Allonnes",
+            "1112202FR": "La Ferte-Bernard",
+            "1112203FR": "La Fleche",
+            "1112204FR": "Le Mans",
+            "1112205FR": "Sable-sur-Sarthe"
+        }
+    },
+    "1113FR": {
+        "name": "Savoie",
+        "sub": {
+            "1113201FR": "Aix-les-Bains",
+            "1113202FR": "Albertville",
+            "1113203FR": "Chambery",
+            "1113204FR": "La Motte-Servolex",
+            "1113205FR": "Saint-Jean-de-Maurienne"
+        }
+    },
+    "1114FR": {
+        "name": "Seine-et-Marne",
+        "sub": {
+            "1114201FR": "Avon",
+            "1114202FR": "Brie-Comte-Robert",
+            "1114203FR": "Champs-sur-Marne",
+            "1114204FR": "Chelles",
+            "1114205FR": "Claye-Souilly",
+            "1114206FR": "Combs-la-Ville",
+            "1114207FR": "Coulommiers",
+            "1114208FR": "Dammarie-les-Lys",
+            "1114209FR": "Fontainebleau",
+            "1114210FR": "Lagny-sur-Marne",
+            "1114211FR": "Le Mee-sur-Seine",
+            "1114212FR": "Lognes",
+            "1114213FR": "Meaux",
+            "1114214FR": "Melun",
+            "1114215FR": "Mitry-Mory",
+            "1114216FR": "Moissy-Cramayel",
+            "1114217FR": "Montereau-Fault-Yonne",
+            "1114218FR": "Nemours",
+            "1114219FR": "Noisiel",
+            "1114220FR": "Ozoir-la-Ferriere",
+            "1114221FR": "Pontault-Combault",
+            "1114222FR": "Provins",
+            "1114223FR": "Roissy-en-Brie",
+            "1114224FR": "Saint-Fargeau-Ponthierry",
+            "1114225FR": "Savigny-le-Temple",
+            "1114226FR": "Torcy",
+            "1114227FR": "Vaires-sur-Marne",
+            "1114228FR": "Veneux",
+            "1114229FR": "Villeparisis"
+        }
+    },
+    "1115FR": {
+        "name": "Seine-Maritime",
+        "sub": {
+            "1115201FR": "Barentin",
+            "1115202FR": "Bihorel",
+            "1115203FR": "Bois-Guillaume",
+            "1115204FR": "Bolbec",
+            "1115205FR": "Canteleu",
+            "1115206FR": "Caudebec-les-Elbeuf",
+            "1115207FR": "Darnetal",
+            "1115208FR": "Deville-les-Rouen",
+            "1115209FR": "Dieppe",
+            "1115210FR": "Elbeuf",
+            "1115211FR": "Fecamp",
+            "1115212FR": "Gonfreville-l\\'Orcher",
+            "1115213FR": "Grand-Couronne",
+            "1115214FR": "Harfleur",
+            "1115215FR": "Le Grand-Quevilly",
+            "1115216FR": "Le Havre",
+            "1115217FR": "Le Petit-Quevilly",
+            "1115218FR": "Lillebonne",
+            "1115219FR": "Maromme",
+            "1115220FR": "Mont-Saint-Aignan",
+            "1115221FR": "Montivilliers",
+            "1115222FR": "Notre-Dame-de-Gravenchon",
+            "1115223FR": "Oissel",
+            "1115224FR": "Rouen",
+            "1115225FR": "Saint-Etienne-du-Rouvray",
+            "1115226FR": "Sotteville-les-Rouen",
+            "1115227FR": "Yvetot"
+        }
+    },
+    "1116FR": {
+        "name": "Seine-Saint-Denis",
+        "sub": {
+            "1116201FR": "Aubervillers",
+            "1116202FR": "Aulnay-sous-Bois",
+            "1116203FR": "Bagnolet",
+            "1116204FR": "Bobigny",
+            "1116205FR": "Bondy",
+            "1116206FR": "Clichy-sous-Bois",
+            "1116207FR": "Drancy",
+            "1116208FR": "Epinay-sur-Seine",
+            "1116209FR": "Gagny",
+            "1116210FR": "La Courneuve",
+            "1116211FR": "Le Blanc-Mesnil",
+            "1116212FR": "Le Bourget",
+            "1116213FR": "Le Pre-Saint-Gervais",
+            "1116214FR": "Le Raincy",
+            "1116215FR": "Les Lilas",
+            "1116216FR": "Les Pavillons-sous-Bois",
+            "1116217FR": "Livry-Gargan",
+            "1116218FR": "Montfermeil",
+            "1116219FR": "Montreuil",
+            "1116220FR": "Neuilly-Plaisance",
+            "1116221FR": "Neuilly-sur-Marne",
+            "1116222FR": "Noisy-le-Grand",
+            "1116223FR": "Noisy-le-Sec",
+            "1116224FR": "Pantin",
+            "1116225FR": "Pierrefitte-sur-Seine",
+            "1116226FR": "Romainville",
+            "1116227FR": "Rosny-sous-Bois",
+            "1116228FR": "Saint-Denis",
+            "1116229FR": "Saint-Ouen",
+            "1116230FR": "Sevran",
+            "1116231FR": "Stains",
+            "1116232FR": "Tremblay-en-France",
+            "1116233FR": "Villemomble",
+            "1116234FR": "Villepinte",
+            "1116235FR": "Villetaneuse"
+        }
+    },
+    "1117FR": {
+        "name": "Somme",
+        "sub": {
+            "1117201FR": "Abbeville",
+            "1117202FR": "Albert",
+            "1117203FR": "Amiens"
+        }
+    },
+    "1118FR": {
+        "name": "Sophia Antipolis",
+        "sub": {
+            "1118201FR": "Abbeville",
+            "1118202FR": "Albert",
+            "1118203FR": "Amiens"
+        }
+    },
+    "1119FR": {
+        "name": "Souvans",
+        "sub": {
+            "1119201FR": "Souvans"
+        }
+    },
+    "1120FR": {
+        "name": "Tarn",
+        "sub": {
+            "1120201FR": "Albi",
+            "1120202FR": "Carmaux",
+            "1120203FR": "Castres",
+            "1120204FR": "Gaillac",
+            "1120205FR": "Graulhet",
+            "1120206FR": "Mazamet"
+        }
+    },
+    "1121FR": {
+        "name": "Tarn-et-Garonne",
+        "sub": {
+            "1121201FR": "Castelsarassin",
+            "1121202FR": "Moissac",
+            "1121203FR": "Montauban"
+        }
+    },
+    "1122FR": {
+        "name": "Territoire de Belfort",
+        "sub": {
+            "1122201FR": "Castelsarassin",
+            "1122202FR": "Moissac",
+            "1122203FR": "Montauban"
+        }
+    },
+    "1123FR": {
+        "name": "Treignac",
+        "sub": {
+            "1123201FR": "Chamberet"
+        }
+    },
+    "1124FR": {
+        "name": "Upper Normandy",
+        "sub": {
+            "1124201FR": "Chamberet"
+        }
+    },
+    "1125FR": {
+        "name": "Val-de-Marne",
+        "sub": {
+            "1125201FR": "Alfortville",
+            "1125202FR": "Arcueil",
+            "1125203FR": "Boissy-Saint-Leger",
+            "1125204FR": "Bonneuil",
+            "1125205FR": "Bry-sur-Marne",
+            "1125206FR": "Cachan",
+            "1125207FR": "Champigny-sur-Marne",
+            "1125208FR": "Charenton-le-Pont",
+            "1125209FR": "Chennevieres-sur-Marne",
+            "1125210FR": "Chevilly-Larue",
+            "1125211FR": "Choisy-le-Roi",
+            "1125212FR": "Creteil",
+            "1125213FR": "Fontenay-sous-Bois",
+            "1125214FR": "Fresnes",
+            "1125215FR": "Gentilly",
+            "1125216FR": "Ivry-sur-Seine",
+            "1125217FR": "Joinville-le-Pont",
+            "1125218FR": "La Queue-en-Brie",
+            "1125219FR": "Le Kremlin-Bicetre",
+            "1125220FR": "Le Perreux-sur-Marne",
+            "1125221FR": "Le Plessis-Trevise",
+            "1125222FR": "Limeil-Brevannes",
+            "1125223FR": "L\\'Hay-les-Roses",
+            "1125224FR": "Maisons-Alfort",
+            "1125225FR": "Nogent-sur-Marne",
+            "1125226FR": "Orly",
+            "1125227FR": "Ormesson-sur-Marne",
+            "1125228FR": "Saint-Mande",
+            "1125229FR": "Saint-Maur-des-Fosses",
+            "1125230FR": "Saint-Maurice",
+            "1125231FR": "Sucy-en-Brie",
+            "1125232FR": "Thiais",
+            "1125233FR": "Valenton",
+            "1125234FR": "Villejuif",
+            "1125235FR": "Villeneuve-le-Roi",
+            "1125236FR": "Villeneuve-Saint-Georges",
+            "1125237FR": "Villiers-sur-Marne",
+            "1125238FR": "Vincennes",
+            "1125239FR": "Vitry-sur-Seine"
+        }
+    },
+    "1126FR": {
+        "name": "Val-d\\'Oise",
+        "sub": {
+            "1126201FR": "Argenteuil",
+            "1126202FR": "Arnouville-les-Gonesse",
+            "1126203FR": "Beauchamps",
+            "1126204FR": "Bezons",
+            "1126205FR": "Cergy",
+            "1126206FR": "Cormeilles-en-Parisis",
+            "1126207FR": "Deuil-la-Barre",
+            "1126208FR": "Domont",
+            "1126209FR": "Eaubonne",
+            "1126210FR": "Enghien-les-Bains",
+            "1126211FR": "Eragny",
+            "1126212FR": "Ermont",
+            "1126213FR": "Ezanville",
+            "1126214FR": "Fosses",
+            "1126215FR": "Franconville",
+            "1126216FR": "Garges-les-Gonesse",
+            "1126217FR": "Gonesse",
+            "1126218FR": "Goussainville",
+            "1126219FR": "Herblay",
+            "1126220FR": "Jouy-le-Moutier",
+            "1126221FR": "L\\'Isle-Adam",
+            "1126222FR": "Montigny-les-Cormeilles",
+            "1126223FR": "Montmagny",
+            "1126224FR": "Montmorency",
+            "1126225FR": "Osny",
+            "1126226FR": "Persan",
+            "1126227FR": "Pontoise",
+            "1126228FR": "Saint-Brice-sous-Foret",
+            "1126229FR": "Saint-Gratien",
+            "1126230FR": "Saint-Leu-la-Foret",
+            "1126231FR": "Saint-Ouen-l\\'Aumone",
+            "1126232FR": "Sannois",
+            "1126233FR": "Sarcelles",
+            "1126234FR": "Soisy-sous-Montmorency",
+            "1126235FR": "Taverny",
+            "1126236FR": "Vaureal",
+            "1126237FR": "Villiers-le-Bel"
+        }
+    },
+    "1127FR": {
+        "name": "Var",
+        "sub": {
+            "1127201FR": "Brignoles",
+            "1127202FR": "Draguignan",
+            "1127203FR": "Frejus",
+            "1127204FR": "Hyeres",
+            "1127205FR": "La Crau",
+            "1127206FR": "La Garde",
+            "1127207FR": "La Seyne-sur-Mer",
+            "1127208FR": "La Valette-du-Var",
+            "1127209FR": "Le Pradet",
+            "1127210FR": "Ollioules",
+            "1127211FR": "Roquebrune-sur-Argens",
+            "1127212FR": "Saint-Maximin-la-Sainte-Baume",
+            "1127213FR": "Saint-Raphael",
+            "1127214FR": "Sainte-Maxime",
+            "1127215FR": "Sanary-sur-Mer",
+            "1127216FR": "Six-Fours-les-Plages",
+            "1127217FR": "Sollies-Pont",
+            "1127218FR": "Toulon"
+        }
+    },
+    "1128FR": {
+        "name": "Vaucluse",
+        "sub": {
+            "1128201FR": "Apt",
+            "1128202FR": "Avignon",
+            "1128203FR": "Bollene",
+            "1128204FR": "Carpentras",
+            "1128205FR": "Cavaillon",
+            "1128206FR": "Le Pontet",
+            "1128207FR": "L\\'Isle-sur-la-Sorgue",
+            "1128208FR": "Orange",
+            "1128209FR": "Pertuis",
+            "1128210FR": "Sorgues",
+            "1128211FR": "Valreas"
+        }
+    },
+    "1129FR": {
+        "name": "Vellise",
+        "sub": {
+            "1129201FR": "Vellise"
+        }
+    },
+    "1130FR": {
+        "name": "Vendee",
+        "sub": {
+            "1130201FR": "Challans",
+            "1130202FR": "Chateau-d\\'Olonne",
+            "1130203FR": "Fontenay-le-Comte",
+            "1130204FR": "La Chasnis",
+            "1130205FR": "La Roche-sur-Yon",
+            "1130206FR": "Les Herbiers",
+            "1130207FR": "Les Sables-d\\'Olonne",
+            "1130208FR": "Longeville-sur-Mer"
+        }
+    },
+    "1131FR": {
+        "name": "Vienne",
+        "sub": {
+            "1131201FR": "Chatellerault",
+            "1131202FR": "Poitiers"
+        }
+    },
+    "1132FR": {
+        "name": "Vosges",
+        "sub": {
+            "1132201FR": "Epinal",
+            "1132202FR": "Gerardmer",
+            "1132203FR": "Remiremont",
+            "1132204FR": "Saint-Die"
+        }
+    },
+    "1133FR": {
+        "name": "Yonne",
+        "sub": {
+            "1133201FR": "Auxerre",
+            "1133202FR": "Avallon",
+            "1133203FR": "Joigny",
+            "1133204FR": "Sens"
+        }
+    },
+    "1134FR": {
+        "name": "Yvelines",
+        "sub": {
+            "1134201FR": "Acheres",
+            "1134202FR": "Andresy",
+            "1134203FR": "Aubergenville",
+            "1134204FR": "Bois-d\\'Arcy",
+            "1134205FR": "Carrieres-sous-Poissy",
+            "1134206FR": "Carrieres-sur-Seine",
+            "1134207FR": "Chanteloup-les-Vignes",
+            "1134208FR": "Chatou",
+            "1134209FR": "Conflans-Sainte-Honorine",
+            "1134210FR": "Croissy-sur-Seine",
+            "1134211FR": "Elancourt",
+            "1134212FR": "Fontenay-le-Fleury",
+            "1134213FR": "Guyancourt",
+            "1134214FR": "Houilles",
+            "1134215FR": "La Celle-Saint-Cloud",
+            "1134216FR": "Le Chesnay",
+            "1134217FR": "Le Pecq",
+            "1134218FR": "Le Vesinet",
+            "1134219FR": "Les Clayes-sous-Bois",
+            "1134220FR": "Les Mureaux",
+            "1134221FR": "Limay",
+            "1134222FR": "Maisons-Laffitte",
+            "1134223FR": "Mantes-la-Jolie",
+            "1134224FR": "Mantes-la-Ville",
+            "1134225FR": "Marly-le-Roi",
+            "1134226FR": "Maurepas",
+            "1134227FR": "Montesson",
+            "1134228FR": "Montigny-le-Bretonneux",
+            "1134229FR": "Plaisir",
+            "1134230FR": "Poissy",
+            "1134231FR": "Rambouillet",
+            "1134232FR": "Saint-Cyr-l\\'Ecole",
+            "1134233FR": "Saint-Germain-en-Laye",
+            "1134234FR": "Sartrouville",
+            "1134235FR": "Trappes",
+            "1134236FR": "Triel-sur-Seine",
+            "1134237FR": "Velizy-Villacoublay",
+            "1134238FR": "Verneuil-sur-Seine",
+            "1134239FR": "Versailles",
+            "1134240FR": "Viroflay",
+            "1134241FR": "Voisins-le-Bretonneux"
+        }
+    }
+}

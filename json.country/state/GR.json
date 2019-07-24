@@ -1,0 +1,510 @@
+{
+    "101GR": {
+        "name": "Acharnes",
+        "sub": {
+            "101201GR": "Elassonos"
+        }
+    },
+    "102GR": {
+        "name": "Ahaia",
+        "sub": {
+            "102201GR": "Aiyion",
+            "102202GR": "Patra"
+        }
+    },
+    "103GR": {
+        "name": "Aitolia kai Akarnania",
+        "sub": {
+            "103201GR": "Aiyion",
+            "103202GR": "Patra"
+        }
+    },
+    "104GR": {
+        "name": "Argolis",
+        "sub": {
+            "104201GR": "Argos",
+            "104202GR": "Navplion"
+        }
+    },
+    "105GR": {
+        "name": "Arkadia",
+        "sub": {
+            "105201GR": "Tripoli"
+        }
+    },
+    "106GR": {
+        "name": "Arta",
+        "sub": {
+            "106201GR": "Arta"
+        }
+    },
+    "107GR": {
+        "name": "Attica",
+        "sub": {
+            "107201GR": "Acharnes",
+            "107202GR": "Agios Ioannis Rentis",
+            "107203GR": "Drapetsona",
+            "107204GR": "Koropi",
+            "107205GR": "Lavrion",
+            "107206GR": "Mandra",
+            "107207GR": "Spata"
+        }
+    },
+    "108GR": {
+        "name": "Attiki",
+        "sub": {
+            "108201GR": "Aharna",
+            "108202GR": "Aiyaleo",
+            "108203GR": "Alimos",
+            "108204GR": "Amarousion",
+            "108205GR": "Ano Liosia",
+            "108206GR": "Aryiroupoli",
+            "108207GR": "Aspropirgos",
+            "108208GR": "Athina",
+            "108209GR": "Athinai",
+            "108210GR": "Ayia Barbara",
+            "108211GR": "Ayia Paraskevi",
+            "108212GR": "Ayios Anaryiros",
+            "108213GR": "Ayios Dimitrios",
+            "108214GR": "Dafne",
+            "108215GR": "Elevsis",
+            "108216GR": "Ellenikon",
+            "108217GR": "Galatsion",
+            "108218GR": "Glifada",
+            "108219GR": "Haidarion",
+            "108220GR": "Halandrion",
+            "108221GR": "Holargos",
+            "108222GR": "Ilioupoli",
+            "108223GR": "Iraklion",
+            "108224GR": "Kaisariani",
+            "108225GR": "Kallithea",
+            "108226GR": "Kamateron",
+            "108227GR": "Keratea",
+            "108228GR": "Keratsinion",
+            "108229GR": "Kifisia",
+            "108230GR": "Koridallos",
+            "108231GR": "Kropion",
+            "108232GR": "Markopoulos Mesogaia",
+            "108233GR": "Maroussi",
+            "108234GR": "Megara",
+            "108235GR": "Melission",
+            "108236GR": "Metamorfosios",
+            "108237GR": "Moshatos",
+            "108238GR": "Nea Filedelfia",
+            "108239GR": "Nea Ionia",
+            "108240GR": "Nea Liosia",
+            "108241GR": "Nea Smirni",
+            "108242GR": "Nikaia",
+            "108243GR": "Palaion Faliron",
+            "108244GR": "Perama",
+            "108245GR": "Peristerion",
+            "108246GR": "Petroupoli",
+            "108247GR": "Pevka",
+            "108248GR": "Piraeus",
+            "108249GR": "Salamis",
+            "108250GR": "Tavros",
+            "108251GR": "Viron",
+            "108252GR": "Voula",
+            "108253GR": "Vrilission",
+            "108254GR": "Zografos"
+        }
+    },
+    "109GR": {
+        "name": "Ayion Oros",
+        "sub": {
+            "109201GR": "Aharna",
+            "109202GR": "Aiyaleo",
+            "109203GR": "Alimos",
+            "109204GR": "Amarousion",
+            "109205GR": "Ano Liosia",
+            "109206GR": "Aryiroupoli",
+            "109207GR": "Aspropirgos",
+            "109208GR": "Athina",
+            "109209GR": "Athinai",
+            "109210GR": "Ayia Barbara",
+            "109211GR": "Ayia Paraskevi",
+            "109212GR": "Ayios Anaryiros",
+            "109213GR": "Ayios Dimitrios",
+            "109214GR": "Dafne",
+            "109215GR": "Elevsis",
+            "109216GR": "Ellenikon",
+            "109217GR": "Galatsion",
+            "109218GR": "Glifada",
+            "109219GR": "Haidarion",
+            "109220GR": "Halandrion",
+            "109221GR": "Holargos",
+            "109222GR": "Ilioupoli",
+            "109223GR": "Iraklion",
+            "109224GR": "Kaisariani",
+            "109225GR": "Kallithea",
+            "109226GR": "Kamateron",
+            "109227GR": "Keratea",
+            "109228GR": "Keratsinion",
+            "109229GR": "Kifisia",
+            "109230GR": "Koridallos",
+            "109231GR": "Kropion",
+            "109232GR": "Markopoulos Mesogaia",
+            "109233GR": "Maroussi",
+            "109234GR": "Megara",
+            "109235GR": "Melission",
+            "109236GR": "Metamorfosios",
+            "109237GR": "Moshatos",
+            "109238GR": "Nea Filedelfia",
+            "109239GR": "Nea Ionia",
+            "109240GR": "Nea Liosia",
+            "109241GR": "Nea Smirni",
+            "109242GR": "Nikaia",
+            "109243GR": "Palaion Faliron",
+            "109244GR": "Perama",
+            "109245GR": "Peristerion",
+            "109246GR": "Petroupoli",
+            "109247GR": "Pevka",
+            "109248GR": "Piraeus",
+            "109249GR": "Salamis",
+            "109250GR": "Tavros",
+            "109251GR": "Viron",
+            "109252GR": "Voula",
+            "109253GR": "Vrilission",
+            "109254GR": "Zografos"
+        }
+    },
+    "110GR": {
+        "name": "Crete",
+        "sub": {
+            "110201GR": "Heraklion"
+        }
+    },
+    "111GR": {
+        "name": "Dodekanisos",
+        "sub": {
+            "111201GR": "Arhangelos",
+            "111202GR": "Ialysos",
+            "111203GR": "Kos",
+            "111204GR": "Rodos"
+        }
+    },
+    "112GR": {
+        "name": "Drama",
+        "sub": {
+            "112201GR": "Drama"
+        }
+    },
+    "113GR": {
+        "name": "Evia",
+        "sub": {
+            "113201GR": "Chalkis"
+        }
+    },
+    "114GR": {
+        "name": "Evritania",
+        "sub": {
+            "114201GR": "Karpenisi"
+        }
+    },
+    "115GR": {
+        "name": "Evros",
+        "sub": {
+            "115201GR": "Alexandroupoli",
+            "115202GR": "Orestias"
+        }
+    },
+    "116GR": {
+        "name": "Evvoia",
+        "sub": {
+            "116201GR": "Halkida"
+        }
+    },
+    "117GR": {
+        "name": "Florina",
+        "sub": {
+            "117201GR": "Florina"
+        }
+    },
+    "118GR": {
+        "name": "Fokis",
+        "sub": {
+            "118201GR": "Amfissa"
+        }
+    },
+    "119GR": {
+        "name": "Fthiotis",
+        "sub": {
+            "119201GR": "Lamia"
+        }
+    },
+    "120GR": {
+        "name": "Grevena",
+        "sub": {
+            "120201GR": "Grevena"
+        }
+    },
+    "121GR": {
+        "name": "Halandri",
+        "sub": {
+            "121201GR": "Halandri"
+        }
+    },
+    "122GR": {
+        "name": "Halkidiki",
+        "sub": {
+            "122201GR": "Lakkoma",
+            "122202GR": "N. Kallikrateia",
+            "122203GR": "Poliyiros"
+        }
+    },
+    "123GR": {
+        "name": "Hania",
+        "sub": {
+            "123201GR": "Hania"
+        }
+    },
+    "124GR": {
+        "name": "Heraklion",
+        "sub": {
+            "124201GR": "Crete"
+        }
+    },
+    "125GR": {
+        "name": "Hios",
+        "sub": {
+            "125201GR": "Hios"
+        }
+    },
+    "126GR": {
+        "name": "Ilia",
+        "sub": {
+            "126201GR": "Pirgos"
+        }
+    },
+    "127GR": {
+        "name": "Imathia",
+        "sub": {
+            "127201GR": "Veroia"
+        }
+    },
+    "128GR": {
+        "name": "Ioannina",
+        "sub": {
+            "128201GR": "Ioannina"
+        }
+    },
+    "129GR": {
+        "name": "Iraklion",
+        "sub": {
+            "129201GR": "Ioannina"
+        }
+    },
+    "130GR": {
+        "name": "Karditsa",
+        "sub": {
+            "130201GR": "Karditsa"
+        }
+    },
+    "131GR": {
+        "name": "Kastoria",
+        "sub": {
+            "131201GR": "Kastoria"
+        }
+    },
+    "132GR": {
+        "name": "Kavala",
+        "sub": {
+            "132201GR": "Kavala"
+        }
+    },
+    "133GR": {
+        "name": "Kefallinia",
+        "sub": {
+            "133201GR": "Agioi Theodoroi",
+            "133202GR": "Argostolion"
+        }
+    },
+    "134GR": {
+        "name": "Kerkira",
+        "sub": {
+            "134201GR": "Kerkira"
+        }
+    },
+    "135GR": {
+        "name": "Kiklades",
+        "sub": {
+            "135201GR": "Ermoupoli",
+            "135202GR": "Fira",
+            "135203GR": "Mikonos"
+        }
+    },
+    "136GR": {
+        "name": "Kilkis",
+        "sub": {
+            "136201GR": "Kilkis"
+        }
+    },
+    "137GR": {
+        "name": "Korinthia",
+        "sub": {
+            "137201GR": "Korinthos"
+        }
+    },
+    "138GR": {
+        "name": "Kozani",
+        "sub": {
+            "138201GR": "Kozani",
+            "138202GR": "Ptolemais"
+        }
+    },
+    "139GR": {
+        "name": "Lakonia",
+        "sub": {
+            "139201GR": "Sparti"
+        }
+    },
+    "140GR": {
+        "name": "Larisa",
+        "sub": {
+            "140201GR": "Larisa",
+            "140202GR": "Larissa"
+        }
+    },
+    "141GR": {
+        "name": "Lasithi",
+        "sub": {
+            "141201GR": "Ayios Nikolaos",
+            "141202GR": "Ierapetra",
+            "141203GR": "Sitia"
+        }
+    },
+    "142GR": {
+        "name": "Lesvos",
+        "sub": {
+            "142201GR": "Mitilini"
+        }
+    },
+    "143GR": {
+        "name": "Levkas",
+        "sub": {
+            "143201GR": "Levkas"
+        }
+    },
+    "144GR": {
+        "name": "Magnisia",
+        "sub": {
+            "144201GR": "Volos"
+        }
+    },
+    "145GR": {
+        "name": "Messinia",
+        "sub": {
+            "145201GR": "Kalamata"
+        }
+    },
+    "146GR": {
+        "name": "Nomos Attikis",
+        "sub": {
+            "146201GR": "Kalamata"
+        }
+    },
+    "147GR": {
+        "name": "Nomos Zakynthou",
+        "sub": {
+            "147201GR": "Kalamata"
+        }
+    },
+    "148GR": {
+        "name": "Pella",
+        "sub": {
+            "148201GR": "Edessa",
+            "148202GR": "Yiannitsa"
+        }
+    },
+    "149GR": {
+        "name": "Pieria",
+        "sub": {
+            "149201GR": "Katerini"
+        }
+    },
+    "150GR": {
+        "name": "Piraios",
+        "sub": {
+            "150201GR": "Acharne",
+            "150202GR": "Pallini"
+        }
+    },
+    "151GR": {
+        "name": "Preveza",
+        "sub": {
+            "151201GR": "Preveza"
+        }
+    },
+    "152GR": {
+        "name": "Rethimni",
+        "sub": {
+            "152201GR": "Rethimnon"
+        }
+    },
+    "153GR": {
+        "name": "Rodopi",
+        "sub": {
+            "153201GR": "Komotini"
+        }
+    },
+    "154GR": {
+        "name": "Samos",
+        "sub": {
+            "154201GR": "Samos"
+        }
+    },
+    "155GR": {
+        "name": "Serrai",
+        "sub": {
+            "155201GR": "Serrai"
+        }
+    },
+    "156GR": {
+        "name": "Thesprotia",
+        "sub": {
+            "156201GR": "Igoumenitsa"
+        }
+    },
+    "157GR": {
+        "name": "Thessaloniki",
+        "sub": {
+            "157201GR": "Ampelokipa",
+            "157202GR": "Kalamaria",
+            "157203GR": "Neapoli",
+            "157204GR": "Oristiada",
+            "157205GR": "Thessaloniki"
+        }
+    },
+    "158GR": {
+        "name": "Trikala",
+        "sub": {
+            "158201GR": "Trikala"
+        }
+    },
+    "159GR": {
+        "name": "Voiotia",
+        "sub": {
+            "159201GR": "Levadia",
+            "159202GR": "Thivai"
+        }
+    },
+    "160GR": {
+        "name": "West Greece",
+        "sub": {
+            "160201GR": "Levadia",
+            "160202GR": "Thivai"
+        }
+    },
+    "161GR": {
+        "name": "Xanthi",
+        "sub": {
+            "161201GR": "Xanthi"
+        }
+    },
+    "162GR": {
+        "name": "Zakinthos",
+        "sub": {
+            "162201GR": "Zakinthos"
+        }
+    }
+}

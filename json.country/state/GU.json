@@ -1,0 +1,106 @@
+{
+    "101GU": {
+        "name": "Agana Heights",
+        "sub": {
+            "101201GU": "Grand-Bourg"
+        }
+    },
+    "102GU": {
+        "name": "Agat",
+        "sub": {
+            "102201GU": "Agat"
+        }
+    },
+    "103GU": {
+        "name": "Barrigada",
+        "sub": {
+            "103201GU": "Barrigada",
+            "103202GU": "Barrigada Heights"
+        }
+    },
+    "104GU": {
+        "name": "Chalan-Pago-Ordot",
+        "sub": {
+            "104201GU": "Chalan Pago",
+            "104202GU": "Ordot"
+        }
+    },
+    "105GU": {
+        "name": "Dededo",
+        "sub": {
+            "105201GU": "Astumbo",
+            "105202GU": "Dededo",
+            "105203GU": "Finegayan Station"
+        }
+    },
+    "106GU": {
+        "name": "Hagatna",
+        "sub": {
+            "106201GU": "Agana",
+            "106202GU": "Agana Station"
+        }
+    },
+    "107GU": {
+        "name": "Inarajan",
+        "sub": {
+            "107201GU": "Inarajan"
+        }
+    },
+    "108GU": {
+        "name": "Mangilao",
+        "sub": {
+            "108201GU": "Mangilao"
+        }
+    },
+    "109GU": {
+        "name": "Merizo",
+        "sub": {
+            "109201GU": "Merizo"
+        }
+    },
+    "110GU": {
+        "name": "Mongmong-Toto-Maite",
+        "sub": {
+            "110201GU": "Mongmong",
+            "110202GU": "Toto"
+        }
+    },
+    "111GU": {
+        "name": "Santa Rita",
+        "sub": {
+            "111201GU": "Mongmong",
+            "111202GU": "Toto"
+        }
+    },
+    "112GU": {
+        "name": "Sinajana",
+        "sub": {
+            "112201GU": "Sinajana"
+        }
+    },
+    "113GU": {
+        "name": "Talofofo",
+        "sub": {
+            "113201GU": "Talofofo"
+        }
+    },
+    "114GU": {
+        "name": "Tamuning",
+        "sub": {
+            "114201GU": "Tamuning"
+        }
+    },
+    "115GU": {
+        "name": "Yigo",
+        "sub": {
+            "115201GU": "Anderson Air Force Base",
+            "115202GU": "Yigo"
+        }
+    },
+    "116GU": {
+        "name": "Yona",
+        "sub": {
+            "116201GU": "Yona"
+        }
+    }
+}

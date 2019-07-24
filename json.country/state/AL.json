@@ -1,0 +1,251 @@
+{
+    "101AL": {
+        "name": "Berat",
+        "sub": {
+            "101201AL": "Berat",
+            "101202AL": "Polican",
+            "101203AL": "Ure Vajgurore"
+        }
+    },
+    "102AL": {
+        "name": "Bulqize",
+        "sub": {
+            "102201AL": "Bulqize"
+        }
+    },
+    "103AL": {
+        "name": "Delvine",
+        "sub": {
+            "103201AL": "Delvine"
+        }
+    },
+    "104AL": {
+        "name": "Devoll",
+        "sub": {
+            "104201AL": "Bilisht"
+        }
+    },
+    "105AL": {
+        "name": "Dibre",
+        "sub": {
+            "105201AL": "Maqellare",
+            "105202AL": "Peshkopi"
+        }
+    },
+    "106AL": {
+        "name": "Durres",
+        "sub": {
+            "106201AL": "Durres",
+            "106202AL": "Shijak"
+        }
+    },
+    "107AL": {
+        "name": "Elbasan",
+        "sub": {
+            "107201AL": "Cerrik",
+            "107202AL": "Elbasan",
+            "107203AL": "Kerrabe"
+        }
+    },
+    "108AL": {
+        "name": "Fier",
+        "sub": {
+            "108201AL": "Fier",
+            "108202AL": "Patos",
+            "108203AL": "Roskovec"
+        }
+    },
+    "109AL": {
+        "name": "Gjirokaster",
+        "sub": {
+            "109201AL": "Gjirokaster",
+            "109202AL": "Libohove"
+        }
+    },
+    "110AL": {
+        "name": "Gramsh",
+        "sub": {
+            "110201AL": "Gramsh"
+        }
+    },
+    "111AL": {
+        "name": "Has",
+        "sub": {
+            "111201AL": "Krume"
+        }
+    },
+    "112AL": {
+        "name": "Kavaje",
+        "sub": {
+            "112201AL": "Kavaje"
+        }
+    },
+    "113AL": {
+        "name": "Kolonje",
+        "sub": {
+            "113201AL": "Erseke",
+            "113202AL": "Leskovik"
+        }
+    },
+    "114AL": {
+        "name": "Korce",
+        "sub": {
+            "114201AL": "Korce",
+            "114202AL": "Maliq"
+        }
+    },
+    "115AL": {
+        "name": "Kruje",
+        "sub": {
+            "115201AL": "Fushe-Kruje",
+            "115202AL": "Kruje",
+            "115203AL": "Mamurras",
+            "115204AL": "Milot"
+        }
+    },
+    "116AL": {
+        "name": "Kucove",
+        "sub": {
+            "116201AL": "Kucove"
+        }
+    },
+    "117AL": {
+        "name": "Kukes",
+        "sub": {
+            "117201AL": "Kukes"
+        }
+    },
+    "118AL": {
+        "name": "Kurbin",
+        "sub": {
+            "118201AL": "Lac"
+        }
+    },
+    "119AL": {
+        "name": "Lezhe",
+        "sub": {
+            "119201AL": "Lezhe",
+            "119202AL": "Shengjin"
+        }
+    },
+    "120AL": {
+        "name": "Librazhd",
+        "sub": {
+            "120201AL": "Librazhd",
+            "120202AL": "Perrenjas"
+        }
+    },
+    "121AL": {
+        "name": "Lushnje",
+        "sub": {
+            "121201AL": "Lushnje",
+            "121202AL": "Rrogozhine"
+        }
+    },
+    "122AL": {
+        "name": "Mallakaster",
+        "sub": {
+            "122201AL": "Ballsh"
+        }
+    },
+    "123AL": {
+        "name": "Malsi e Madhe",
+        "sub": {
+            "123201AL": "Ballsh"
+        }
+    },
+    "124AL": {
+        "name": "Mat",
+        "sub": {
+            "124201AL": "Burrel",
+            "124202AL": "Klos",
+            "124203AL": "Kraste",
+            "124204AL": "Ulze"
+        }
+    },
+    "125AL": {
+        "name": "Mirdite",
+        "sub": {
+            "125201AL": "Kurbnesh",
+            "125202AL": "Rreshen",
+            "125203AL": "Rubik"
+        }
+    },
+    "126AL": {
+        "name": "Peqin",
+        "sub": {
+            "126201AL": "Peqin"
+        }
+    },
+    "127AL": {
+        "name": "Permet",
+        "sub": {
+            "127201AL": "Kelcyre",
+            "127202AL": "Permet"
+        }
+    },
+    "128AL": {
+        "name": "Pogradec",
+        "sub": {
+            "128201AL": "Pogradec"
+        }
+    },
+    "129AL": {
+        "name": "Puke",
+        "sub": {
+            "129201AL": "Fierze",
+            "129202AL": "Fushe-Arrez",
+            "129203AL": "Puke"
+        }
+    },
+    "130AL": {
+        "name": "Sarande",
+        "sub": {
+            "130201AL": "Konispol",
+            "130202AL": "Sarande"
+        }
+    },
+    "131AL": {
+        "name": "Shkoder",
+        "sub": {
+            "131201AL": "Shkoder"
+        }
+    },
+    "132AL": {
+        "name": "Skrapar",
+        "sub": {
+            "132201AL": "Corovode"
+        }
+    },
+    "133AL": {
+        "name": "Tepelene",
+        "sub": {
+            "133201AL": "Memaliaj",
+            "133202AL": "Tepelene"
+        }
+    },
+    "134AL": {
+        "name": "Tirane",
+        "sub": {
+            "134201AL": "Kamze",
+            "134202AL": "Paskuqan",
+            "134203AL": "Tirane",
+            "134204AL": "Vore"
+        }
+    },
+    "135AL": {
+        "name": "Tropoje",
+        "sub": {
+            "135201AL": "Bajram Curri"
+        }
+    },
+    "136AL": {
+        "name": "Vlore",
+        "sub": {
+            "136201AL": "Himare",
+            "136202AL": "Orikum",
+            "136203AL": "Selenice",
+            "136204AL": "Vlore"
+        }
+    }
+}

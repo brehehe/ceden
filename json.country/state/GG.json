@@ -1,0 +1,74 @@
+{
+    "101GG": {
+        "name": "Alderney",
+        "sub": {
+            "101201GG": "Saint Anne\\'s"
+        }
+    },
+    "102GG": {
+        "name": "Castel",
+        "sub": {
+            "102201GG": "Castle"
+        }
+    },
+    "103GG": {
+        "name": "Forest",
+        "sub": {
+            "103201GG": "Forest"
+        }
+    },
+    "104GG": {
+        "name": "Saint Andrew",
+        "sub": {
+            "104201GG": "Forest"
+        }
+    },
+    "105GG": {
+        "name": "Saint Martin",
+        "sub": {
+            "105201GG": "Forest"
+        }
+    },
+    "106GG": {
+        "name": "Saint Peter Port",
+        "sub": {
+            "106201GG": "Forest"
+        }
+    },
+    "107GG": {
+        "name": "Saint Pierre du Bois",
+        "sub": {
+            "107201GG": "Forest"
+        }
+    },
+    "108GG": {
+        "name": "Saint Sampson",
+        "sub": {
+            "108201GG": "Forest"
+        }
+    },
+    "109GG": {
+        "name": "Saint Saviour",
+        "sub": {
+            "109201GG": "Forest"
+        }
+    },
+    "110GG": {
+        "name": "Sark",
+        "sub": {
+            "110201GG": "Sark"
+        }
+    },
+    "111GG": {
+        "name": "Torteval",
+        "sub": {
+            "111201GG": "Torteval"
+        }
+    },
+    "112GG": {
+        "name": "Vale",
+        "sub": {
+            "112201GG": "Vale"
+        }
+    }
+}

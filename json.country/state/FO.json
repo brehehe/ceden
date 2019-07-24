@@ -1,0 +1,97 @@
+{
+    "101FO": {
+        "name": "Klaksvik",
+        "sub": {
+            "101201FO": "Hvannasund",
+            "101202FO": "Klaksvik"
+        }
+    },
+    "102FO": {
+        "name": "Nor ara Eysturoy",
+        "sub": {
+            "102201FO": "Hvannasund",
+            "102202FO": "Klaksvik"
+        }
+    },
+    "103FO": {
+        "name": "Nor oy",
+        "sub": {
+            "103201FO": "Hvannasund",
+            "103202FO": "Klaksvik"
+        }
+    },
+    "104FO": {
+        "name": "Sandoy",
+        "sub": {
+            "104201FO": "Husavik",
+            "104202FO": "Sands",
+            "104203FO": "Skalavik",
+            "104204FO": "Skopun",
+            "104205FO": "Skuvoy"
+        }
+    },
+    "105FO": {
+        "name": "Streymoy",
+        "sub": {
+            "105201FO": "Haldarsvik",
+            "105202FO": "Hests",
+            "105203FO": "Hosvik",
+            "105204FO": "Hvalvik",
+            "105205FO": "Kirkjubo",
+            "105206FO": "Kollafjar ",
+            "105207FO": "Kvivik",
+            "105208FO": "Nolsoy",
+            "105209FO": "Saksun",
+            "105210FO": "Torshavn",
+            "105211FO": "Vestmanna"
+        }
+    },
+    "106FO": {
+        "name": "Su uroy",
+        "sub": {
+            "106201FO": "Haldarsvik",
+            "106202FO": "Hests",
+            "106203FO": "Hosvik",
+            "106204FO": "Hvalvik",
+            "106205FO": "Kirkjubo",
+            "106206FO": "Kollafjar ",
+            "106207FO": "Kvivik",
+            "106208FO": "Nolsoy",
+            "106209FO": "Saksun",
+            "106210FO": "Torshavn",
+            "106211FO": "Vestmanna"
+        }
+    },
+    "107FO": {
+        "name": "Sy ra Eysturoy",
+        "sub": {
+            "107201FO": "Haldarsvik",
+            "107202FO": "Hests",
+            "107203FO": "Hosvik",
+            "107204FO": "Hvalvik",
+            "107205FO": "Kirkjubo",
+            "107206FO": "Kollafjar ",
+            "107207FO": "Kvivik",
+            "107208FO": "Nolsoy",
+            "107209FO": "Saksun",
+            "107210FO": "Torshavn",
+            "107211FO": "Vestmanna"
+        }
+    },
+    "108FO": {
+        "name": "Torshavn",
+        "sub": {
+            "108201FO": "Torshavn"
+        }
+    },
+    "109FO": {
+        "name": "Vaga",
+        "sub": {
+            "109201FO": "Biggjar",
+            "109202FO": "Midvags",
+            "109203FO": "Mykines",
+            "109204FO": "Sandavags",
+            "109205FO": "Sorvags"
+        }
+    }
+}

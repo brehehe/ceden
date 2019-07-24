@@ -1,0 +1,54 @@
+{
+    "101CY": {
+        "name": "Government controlled area",
+        "sub": {
+            "101201CY": "Abreus",
+            "101202CY": "Agramonte",
+            "101203CY": "Aguacate",
+            "101204CY": "Aguada de Pasajeros",
+            "101205CY": "Alacranes",
+            "101206CY": "Bolondron",
+            "101207CY": "Calimete",
+            "101208CY": "Cardenas",
+            "101209CY": "Carlos Rojas",
+            "101210CY": "Colon",
+            "101211CY": "Corralillo",
+            "101212CY": "Jaguey Grande",
+            "101213CY": "Jovellanos",
+            "101214CY": "Juan Gualberto Gomez",
+            "101215CY": "Los Arabos",
+            "101216CY": "Manguito",
+            "101217CY": "Marti",
+            "101218CY": "Matanzas",
+            "101219CY": "Maximo Gomez",
+            "101220CY": "Pedro Betancourt",
+            "101221CY": "Perico",
+            "101222CY": "Union de Reyes",
+            "101223CY": "Varadero"
+        }
+    },
+    "102CY": {
+        "name": "Limassol",
+        "sub": {
+            "102201CY": "Limassol"
+        }
+    },
+    "103CY": {
+        "name": "Nicosia District",
+        "sub": {
+            "103201CY": "Limassol"
+        }
+    },
+    "104CY": {
+        "name": "Paphos",
+        "sub": {
+            "104201CY": "Paphos"
+        }
+    },
+    "105CY": {
+        "name": "Turkish controlled area",
+        "sub": {
+            "105201CY": "Paphos"
+        }
+    }
+}

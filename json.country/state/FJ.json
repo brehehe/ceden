@@ -1,0 +1,51 @@
+{
+    "101FJ": {
+        "name": "Central",
+        "sub": {
+            "101201FJ": "Deuba",
+            "101202FJ": "Korovou",
+            "101203FJ": "Lami",
+            "101204FJ": "Namosi",
+            "101205FJ": "Nausori",
+            "101206FJ": "Navua",
+            "101207FJ": "Suva"
+        }
+    },
+    "102FJ": {
+        "name": "Eastern",
+        "sub": {
+            "102201FJ": "Levuka",
+            "102202FJ": "Malhaha",
+            "102203FJ": "Tubou",
+            "102204FJ": "Vunisea"
+        }
+    },
+    "103FJ": {
+        "name": "Northern",
+        "sub": {
+            "103201FJ": "Korokade",
+            "103202FJ": "Labasa",
+            "103203FJ": "Savusavu"
+        }
+    },
+    "104FJ": {
+        "name": "South Pacific",
+        "sub": {
+            "104201FJ": "Korokade",
+            "104202FJ": "Labasa",
+            "104203FJ": "Savusavu"
+        }
+    },
+    "105FJ": {
+        "name": "Western",
+        "sub": {
+            "105201FJ": "Ba",
+            "105202FJ": "Lautoka",
+            "105203FJ": "Nadi",
+            "105204FJ": "Rakiraki",
+            "105205FJ": "Sigatoka",
+            "105206FJ": "Tavua",
+            "105207FJ": "Vatukoula"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "101GQ": {
+        "name": "Annobon",
+        "sub": {
+            "101201GQ": "Pale"
+        }
+    },
+    "102GQ": {
+        "name": "Bioko Norte",
+        "sub": {
+            "102201GQ": "Pale"
+        }
+    },
+    "103GQ": {
+        "name": "Bioko Sur",
+        "sub": {
+            "103201GQ": "Pale"
+        }
+    },
+    "104GQ": {
+        "name": "Centro Sur",
+        "sub": {
+            "104201GQ": "Pale"
+        }
+    },
+    "105GQ": {
+        "name": "Kie-Ntem",
+        "sub": {
+            "105201GQ": "Ebebiyin",
+            "105202GQ": "Mikomeseng"
+        }
+    },
+    "106GQ": {
+        "name": "Litoral",
+        "sub": {
+            "106201GQ": "Bata",
+            "106202GQ": "Mbini"
+        }
+    },
+    "107GQ": {
+        "name": "Wele-Nzas",
+        "sub": {
+            "107201GQ": "Aconibe",
+            "107202GQ": "Anisoc",
+            "107203GQ": "Mongomo",
+            "107204GQ": "Nsok"
+        }
+    }
+}

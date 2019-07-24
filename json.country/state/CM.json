@@ -1,0 +1,132 @@
+{
+    "101CM": {
+        "name": "Adamaoua",
+        "sub": {
+            "101201CM": "Banyo",
+            "101202CM": "Meiganga",
+            "101203CM": "Ngaoundere",
+            "101204CM": "Tibati",
+            "101205CM": "Tignere"
+        }
+    },
+    "102CM": {
+        "name": "Centre",
+        "sub": {
+            "102201CM": "Akonolinga",
+            "102202CM": "Bafia",
+            "102203CM": "Eseka",
+            "102204CM": "Mbalmayo",
+            "102205CM": "Mfou",
+            "102206CM": "Monatele",
+            "102207CM": "Nanga Eboko",
+            "102208CM": "Obala",
+            "102209CM": "Ombesa",
+            "102210CM": "Saa",
+            "102211CM": "Yaounde"
+        }
+    },
+    "103CM": {
+        "name": "Est",
+        "sub": {
+            "103201CM": "Abong Mbang",
+            "103202CM": "Batouri",
+            "103203CM": "Bertoua",
+            "103204CM": "Betare Oya",
+            "103205CM": "Djoum",
+            "103206CM": "Doume",
+            "103207CM": "Lomie",
+            "103208CM": "Yokadouma"
+        }
+    },
+    "104CM": {
+        "name": "Littoral",
+        "sub": {
+            "104201CM": "Bonaberi",
+            "104202CM": "Dibombari",
+            "104203CM": "Douala",
+            "104204CM": "Edea",
+            "104205CM": "Loum",
+            "104206CM": "Manjo",
+            "104207CM": "Mbanga",
+            "104208CM": "Nkongsamba",
+            "104209CM": "Yabassi"
+        }
+    },
+    "105CM": {
+        "name": "Nord",
+        "sub": {
+            "105201CM": "Figuif",
+            "105202CM": "Garoua",
+            "105203CM": "Guider",
+            "105204CM": "Lagdo",
+            "105205CM": "Poli",
+            "105206CM": "Rey Bouba",
+            "105207CM": "Tchollire"
+        }
+    },
+    "106CM": {
+        "name": "Nord Extreme",
+        "sub": {
+            "106201CM": "Figuif",
+            "106202CM": "Garoua",
+            "106203CM": "Guider",
+            "106204CM": "Lagdo",
+            "106205CM": "Poli",
+            "106206CM": "Rey Bouba",
+            "106207CM": "Tchollire"
+        }
+    },
+    "107CM": {
+        "name": "Nordouest",
+        "sub": {
+            "107201CM": "Bamenda",
+            "107202CM": "Kumbo",
+            "107203CM": "Mbengwi",
+            "107204CM": "Mme",
+            "107205CM": "Njinikom",
+            "107206CM": "Nkambe",
+            "107207CM": "Wum"
+        }
+    },
+    "108CM": {
+        "name": "Ouest",
+        "sub": {
+            "108201CM": "Bafang",
+            "108202CM": "Bafoussam",
+            "108203CM": "Bafut",
+            "108204CM": "Bali",
+            "108205CM": "Bana",
+            "108206CM": "Bangangte",
+            "108207CM": "Djang",
+            "108208CM": "Fontem",
+            "108209CM": "Foumban",
+            "108210CM": "Foumbot",
+            "108211CM": "Mbouda"
+        }
+    },
+    "109CM": {
+        "name": "Sud",
+        "sub": {
+            "109201CM": "Akom",
+            "109202CM": "Ambam",
+            "109203CM": "Ebolowa",
+            "109204CM": "Kribi",
+            "109205CM": "Lolodorf",
+            "109206CM": "Moloundou",
+            "109207CM": "Mvangue",
+            "109208CM": "Sangmelima"
+        }
+    },
+    "110CM": {
+        "name": "Sudouest",
+        "sub": {
+            "110201CM": "Buea",
+            "110202CM": "Idenao",
+            "110203CM": "Kumba",
+            "110204CM": "Limbe",
+            "110205CM": "Mamfe",
+            "110206CM": "Muyuka",
+            "110207CM": "Tiko"
+        }
+    }
+}

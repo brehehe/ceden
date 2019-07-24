@@ -1,0 +1,27 @@
+{
+    "101GF": {
+        "name": "Cayenne",
+        "sub": {
+            "101201GF": "Camopi",
+            "101202GF": "Cayenne",
+            "101203GF": "Iracoubo",
+            "101204GF": "Kourou",
+            "101205GF": "Macouria",
+            "101206GF": "Matoury",
+            "101207GF": "Remire-Montjoly",
+            "101208GF": "Roura",
+            "101209GF": "Saint-Georges",
+            "101210GF": "Sinnamary"
+        }
+    },
+    "102GF": {
+        "name": "Saint-Laurent-du-Maroni",
+        "sub": {
+            "102201GF": "Apatou",
+            "102202GF": "Grand-Santi",
+            "102203GF": "Mana",
+            "102204GF": "Maripasoula",
+            "102205GF": "Saint-Laurent-du-Maroni"
+        }
+    }
+}
