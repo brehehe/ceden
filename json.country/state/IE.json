@@ -1,0 +1,318 @@
+{
+    "101IE": {
+        "name": "Armagh",
+        "sub": {
+            "101201IE": "Moira"
+        }
+    },
+    "102IE": {
+        "name": "Carlow",
+        "sub": {
+            "102201IE": "Bagenalstown",
+            "102202IE": "Carlow",
+            "102203IE": "Tullow"
+        }
+    },
+    "103IE": {
+        "name": "Cavan",
+        "sub": {
+            "103201IE": "Bailieborough",
+            "103202IE": "Belturbet",
+            "103203IE": "Cavan",
+            "103204IE": "Coothill"
+        }
+    },
+    "104IE": {
+        "name": "Clare",
+        "sub": {
+            "104201IE": "Ennis",
+            "104202IE": "Kilkee",
+            "104203IE": "Kilrush",
+            "104204IE": "Newmarket-on-Fergus",
+            "104205IE": "Shannon"
+        }
+    },
+    "105IE": {
+        "name": "Cork",
+        "sub": {
+            "105201IE": "Bandon",
+            "105202IE": "Bantry",
+            "105203IE": "Blarney",
+            "105204IE": "Carrigaline",
+            "105205IE": "Charleville",
+            "105206IE": "Clonakilty",
+            "105207IE": "Cobh",
+            "105208IE": "Cork",
+            "105209IE": "Drishane",
+            "105210IE": "Dunmanway",
+            "105211IE": "Fermoy",
+            "105212IE": "Kanturk",
+            "105213IE": "Kinsale",
+            "105214IE": "Macroom",
+            "105215IE": "Mallow",
+            "105216IE": "Midleton",
+            "105217IE": "Millstreet",
+            "105218IE": "Mitchelstown",
+            "105219IE": "Passage West",
+            "105220IE": "Skibbereen",
+            "105221IE": "Youghal"
+        }
+    },
+    "106IE": {
+        "name": "Donegal",
+        "sub": {
+            "106201IE": "Ballybofey",
+            "106202IE": "Ballyshannon",
+            "106203IE": "Buncrana",
+            "106204IE": "Bundoran",
+            "106205IE": "Carndonagh",
+            "106206IE": "Donegal",
+            "106207IE": "Killybegs",
+            "106208IE": "Letterkenny",
+            "106209IE": "Lifford",
+            "106210IE": "Moville"
+        }
+    },
+    "107IE": {
+        "name": "Dublin",
+        "sub": {
+            "107201IE": "Balbriggan",
+            "107202IE": "Ballsbridge",
+            "107203IE": "Dublin",
+            "107204IE": "Leixlip",
+            "107205IE": "Lucan",
+            "107206IE": "Malahide",
+            "107207IE": "Portrane",
+            "107208IE": "Rathcoole",
+            "107209IE": "Rush",
+            "107210IE": "Skerries",
+            "107211IE": "Swords"
+        }
+    },
+    "108IE": {
+        "name": "Galway",
+        "sub": {
+            "108201IE": "Athenry",
+            "108202IE": "Ballinasloe",
+            "108203IE": "Clifden",
+            "108204IE": "Galway",
+            "108205IE": "Gort",
+            "108206IE": "Loughrea",
+            "108207IE": "Tuam"
+        }
+    },
+    "109IE": {
+        "name": "Kerry",
+        "sub": {
+            "109201IE": "Ballybunion",
+            "109202IE": "Cahirciveen",
+            "109203IE": "Castleisland",
+            "109204IE": "Dingle",
+            "109205IE": "Kenmare",
+            "109206IE": "Killarney",
+            "109207IE": "Killorglin",
+            "109208IE": "Listowel",
+            "109209IE": "Tralee"
+        }
+    },
+    "110IE": {
+        "name": "Kildare",
+        "sub": {
+            "110201IE": "Athy",
+            "110202IE": "Celbridge",
+            "110203IE": "Clane",
+            "110204IE": "Kilcock",
+            "110205IE": "Kilcullen",
+            "110206IE": "Kildare",
+            "110207IE": "Maynooth",
+            "110208IE": "Monasterevan",
+            "110209IE": "Naas",
+            "110210IE": "Newbridge"
+        }
+    },
+    "111IE": {
+        "name": "Kilkenny",
+        "sub": {
+            "111201IE": "Callan",
+            "111202IE": "Castlecomer",
+            "111203IE": "Kilkenny",
+            "111204IE": "Thomastown"
+        }
+    },
+    "112IE": {
+        "name": "Laois",
+        "sub": {
+            "112201IE": "Abbeyleix",
+            "112202IE": "Mountmellick",
+            "112203IE": "Mountrath",
+            "112204IE": "Port Laoise",
+            "112205IE": "Portarlington"
+        }
+    },
+    "113IE": {
+        "name": "Leinster",
+        "sub": {
+            "113201IE": "Meath"
+        }
+    },
+    "114IE": {
+        "name": "Leitrim",
+        "sub": {
+            "114201IE": "Carrick-on-Shannon"
+        }
+    },
+    "115IE": {
+        "name": "Limerick",
+        "sub": {
+            "115201IE": "Abbeyfeale",
+            "115202IE": "Kilmallock",
+            "115203IE": "Limerick",
+            "115204IE": "Newcastle",
+            "115205IE": "Rathkeale"
+        }
+    },
+    "116IE": {
+        "name": "Loch Garman",
+        "sub": {
+            "116201IE": "Abbeyfeale",
+            "116202IE": "Kilmallock",
+            "116203IE": "Limerick",
+            "116204IE": "Newcastle",
+            "116205IE": "Rathkeale"
+        }
+    },
+    "117IE": {
+        "name": "Longford",
+        "sub": {
+            "117201IE": "Granard",
+            "117202IE": "Longford",
+            "117203IE": "Moate"
+        }
+    },
+    "118IE": {
+        "name": "Louth",
+        "sub": {
+            "118201IE": "Ardee",
+            "118202IE": "Drogheda",
+            "118203IE": "Drumcar",
+            "118204IE": "Dundalk"
+        }
+    },
+    "119IE": {
+        "name": "Mayo",
+        "sub": {
+            "119201IE": "Ballina",
+            "119202IE": "Ballinrobe",
+            "119203IE": "Ballyhaunis",
+            "119204IE": "Castlebar",
+            "119205IE": "Claremorris",
+            "119206IE": "Swinford",
+            "119207IE": "Westport"
+        }
+    },
+    "120IE": {
+        "name": "Meath",
+        "sub": {
+            "120201IE": "Ashbourne",
+            "120202IE": "Duleek",
+            "120203IE": "Dunboyne",
+            "120204IE": "Dunshaughlin",
+            "120205IE": "Kells",
+            "120206IE": "Laytown",
+            "120207IE": "Navan",
+            "120208IE": "Trim"
+        }
+    },
+    "121IE": {
+        "name": "Monaghan",
+        "sub": {
+            "121201IE": "Carrickmacross",
+            "121202IE": "Castleblayney",
+            "121203IE": "Clones",
+            "121204IE": "Monaghan"
+        }
+    },
+    "122IE": {
+        "name": "Offaly",
+        "sub": {
+            "122201IE": "Banagher",
+            "122202IE": "Birr",
+            "122203IE": "Clara",
+            "122204IE": "Edenderry",
+            "122205IE": "Kilcormac",
+            "122206IE": "Tullamore"
+        }
+    },
+    "123IE": {
+        "name": "Roscommon",
+        "sub": {
+            "123201IE": "Ballaghaderreen",
+            "123202IE": "Boyle",
+            "123203IE": "Castlerea",
+            "123204IE": "Roscommon"
+        }
+    },
+    "124IE": {
+        "name": "Sligo",
+        "sub": {
+            "124201IE": "Sligo"
+        }
+    },
+    "125IE": {
+        "name": "Tipperary North Riding",
+        "sub": {
+            "125201IE": "Sligo"
+        }
+    },
+    "126IE": {
+        "name": "Tipperary South Riding",
+        "sub": {
+            "126201IE": "Sligo"
+        }
+    },
+    "127IE": {
+        "name": "Ulster",
+        "sub": {
+            "127201IE": "Co Tyrone",
+            "127202IE": "Downpatrick"
+        }
+    },
+    "128IE": {
+        "name": "Waterford",
+        "sub": {
+            "128201IE": "Dungarvan",
+            "128202IE": "Tramore",
+            "128203IE": "Waterford"
+        }
+    },
+    "129IE": {
+        "name": "Westmeath",
+        "sub": {
+            "129201IE": "Athlone",
+            "129202IE": "Mullingar"
+        }
+    },
+    "130IE": {
+        "name": "Wexford",
+        "sub": {
+            "130201IE": "Enniscorthy",
+            "130202IE": "Gorey",
+            "130203IE": "New Ross",
+            "130204IE": "Wexford"
+        }
+    },
+    "131IE": {
+        "name": "Wicklow",
+        "sub": {
+            "131201IE": "Arklow",
+            "131202IE": "Baltinglass",
+            "131203IE": "Blessington",
+            "131204IE": "Bray",
+            "131205IE": "Greystones",
+            "131206IE": "Kilcoole",
+            "131207IE": "Newtownmountkennedy",
+            "131208IE": "Rathdrum",
+            "131209IE": "Wicklow"
+        }
+    }
+}

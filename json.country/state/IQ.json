@@ -1,0 +1,184 @@
+{
+    "101IQ": {
+        "name": "al-Anbar",
+        "sub": {
+            "101201IQ": "al-Fallujah",
+            "101202IQ": "al-Habbaniyah",
+            "101203IQ": "al-Hadithah",
+            "101204IQ": "ar-Ramadi",
+            "101205IQ": "ar-Rutbah",
+            "101206IQ": "Hit",
+            "101207IQ": "Rawah",
+            "101208IQ": "\\'Anah"
+        }
+    },
+    "102IQ": {
+        "name": "al-Basrah",
+        "sub": {
+            "102201IQ": "Abu al-Khasib",
+            "102202IQ": "al-Basrah",
+            "102203IQ": "al-Faw",
+            "102204IQ": "al-Qurnah",
+            "102205IQ": "az-Zubayr",
+            "102206IQ": "Harithah",
+            "102207IQ": "Shatt-al-\\'Arab"
+        }
+    },
+    "103IQ": {
+        "name": "al-Muthanna",
+        "sub": {
+            "103201IQ": "ar-Rumaythah",
+            "103202IQ": "as-Samawah"
+        }
+    },
+    "104IQ": {
+        "name": "al-Qadisiyah",
+        "sub": {
+            "104201IQ": "ad-Diwaniyah",
+            "104202IQ": "al-Ghammas",
+            "104203IQ": "al-Hamzah",
+            "104204IQ": "ash-Shamiyah",
+            "104205IQ": "ash-Shinafiyah",
+            "104206IQ": "\\'Afak"
+        }
+    },
+    "105IQ": {
+        "name": "an-Najaf",
+        "sub": {
+            "105201IQ": "al-Kufah",
+            "105202IQ": "al-Mishkhab",
+            "105203IQ": "an-Najaf"
+        }
+    },
+    "106IQ": {
+        "name": "as-Sulaymaniyah",
+        "sub": {
+            "106201IQ": "as-Sulaymaniyah",
+            "106202IQ": "Chamchamal",
+            "106203IQ": "Halabjah",
+            "106204IQ": "Kusanjaq",
+            "106205IQ": "Panjwin",
+            "106206IQ": "Qal\\'at Dizeh"
+        }
+    },
+    "107IQ": {
+        "name": "at-Ta\\'mim",
+        "sub": {
+            "107201IQ": "Kirkuk",
+            "107202IQ": "\\'Aqrah"
+        }
+    },
+    "108IQ": {
+        "name": "Babil",
+        "sub": {
+            "108201IQ": "al-Hillah",
+            "108202IQ": "al-Madhatiyah",
+            "108203IQ": "al-Musayyib",
+            "108204IQ": "al-Qasim",
+            "108205IQ": "Jurf-as-Sakhr",
+            "108206IQ": "Saddat-al-Hindiyah"
+        }
+    },
+    "109IQ": {
+        "name": "Baghdad",
+        "sub": {
+            "109201IQ": "Baghdad"
+        }
+    },
+    "110IQ": {
+        "name": "Dahuk",
+        "sub": {
+            "110201IQ": "Dahuk",
+            "110202IQ": "Zakhu"
+        }
+    },
+    "111IQ": {
+        "name": "Dhi Qar",
+        "sub": {
+            "111201IQ": "Dahuk",
+            "111202IQ": "Zakhu"
+        }
+    },
+    "112IQ": {
+        "name": "Diyala",
+        "sub": {
+            "112201IQ": "al-Fuhud",
+            "112202IQ": "al-Khalis",
+            "112203IQ": "al-Miqdadiyah",
+            "112204IQ": "ash-Shatrah",
+            "112205IQ": "Ba\\'qubah",
+            "112206IQ": "Hanaqin",
+            "112207IQ": "Jalula\\'\\'",
+            "112208IQ": "Kifri",
+            "112209IQ": "Mandali"
+        }
+    },
+    "113IQ": {
+        "name": "Erbil",
+        "sub": {
+            "113201IQ": "Ankawa"
+        }
+    },
+    "114IQ": {
+        "name": "Irbil",
+        "sub": {
+            "114201IQ": "Chaqalawa",
+            "114202IQ": "Irbil",
+            "114203IQ": "Rawanduz"
+        }
+    },
+    "115IQ": {
+        "name": "Karbala",
+        "sub": {
+            "115201IQ": "al-Hindiyah",
+            "115202IQ": "Karbala"
+        }
+    },
+    "116IQ": {
+        "name": "Kurdistan",
+        "sub": {
+            "116201IQ": "Erbil"
+        }
+    },
+    "117IQ": {
+        "name": "Maysan",
+        "sub": {
+            "117201IQ": "al-Majarr-al-Kabir",
+            "117202IQ": "al-\\'Amarah",
+            "117203IQ": "\\'Ali al Gharbi"
+        }
+    },
+    "118IQ": {
+        "name": "Ninawa",
+        "sub": {
+            "118201IQ": "al-Mawsil",
+            "118202IQ": "ash-Shaykhan",
+            "118203IQ": "Qarah Qush",
+            "118204IQ": "Sinjar",
+            "118205IQ": "Tall Kayf",
+            "118206IQ": "Tall \\'Afar"
+        }
+    },
+    "119IQ": {
+        "name": "Salah-ad-Din",
+        "sub": {
+            "119201IQ": "ad-Dujayl",
+            "119202IQ": "Balad",
+            "119203IQ": "Bayji",
+            "119204IQ": "Dhalu\\'iyah",
+            "119205IQ": "Samarra",
+            "119206IQ": "Tikrit",
+            "119207IQ": "Tuz"
+        }
+    },
+    "120IQ": {
+        "name": "Wasit",
+        "sub": {
+            "120201IQ": "al-Hayy",
+            "120202IQ": "al-Kut",
+            "120203IQ": "al-\\'Aziziyah",
+            "120204IQ": "an-Nu\\'maniyah",
+            "120205IQ": "as-Suwayrah"
+        }
+    }
+}

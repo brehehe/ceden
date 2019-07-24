@@ -1,0 +1,85 @@
+{
+    "101HT": {
+        "name": "Artibonite",
+        "sub": {
+            "101201HT": "Desdunes",
+            "101202HT": "Dessalines",
+            "101203HT": "Gonaives",
+            "101204HT": "Gros-Morne",
+            "101205HT": "L\\'Artibonite",
+            "101206HT": "Saint-Marc",
+            "101207HT": "Saint-Michel-de-l\\'Atalaye",
+            "101208HT": "Saint-Raphael",
+            "101209HT": "Verrettes"
+        }
+    },
+    "102HT": {
+        "name": "Centre",
+        "sub": {
+            "102201HT": "Hinche",
+            "102202HT": "Mirebalais"
+        }
+    },
+    "103HT": {
+        "name": "Grand\\'Anse",
+        "sub": {
+            "103201HT": "Anse-d\\'Hainault",
+            "103202HT": "Dame Marie",
+            "103203HT": "Jeremie",
+            "103204HT": "Miragoane"
+        }
+    },
+    "104HT": {
+        "name": "Nord",
+        "sub": {
+            "104201HT": "Cap-Haitien",
+            "104202HT": "Croix-des-Bouquets",
+            "104203HT": "Grande Riviere du Nord",
+            "104204HT": "Limbe",
+            "104205HT": "Pignon"
+        }
+    },
+    "105HT": {
+        "name": "Nord-Est",
+        "sub": {
+            "105201HT": "Derac",
+            "105202HT": "Fort-Liberte",
+            "105203HT": "Ouanaminthe",
+            "105204HT": "Trou-du-Nord"
+        }
+    },
+    "106HT": {
+        "name": "Nord-Ouest",
+        "sub": {
+            "106201HT": "Port-de-Paix",
+            "106202HT": "Saint-Louis-du-Nord"
+        }
+    },
+    "107HT": {
+        "name": "Ouest",
+        "sub": {
+            "107201HT": "Anse-a-Galets",
+            "107202HT": "Carrefour",
+            "107203HT": "Delmas",
+            "107204HT": "Kenscoff",
+            "107205HT": "Lascahobas",
+            "107206HT": "Leogane",
+            "107207HT": "Petionville",
+            "107208HT": "Petit Goave",
+            "107209HT": "Port-au-Prince"
+        }
+    },
+    "108HT": {
+        "name": "Sud",
+        "sub": {
+            "108201HT": "Aquin",
+            "108202HT": "Les Cayes"
+        }
+    },
+    "109HT": {
+        "name": "Sud-Est",
+        "sub": {
+            "109201HT": "Jacmel"
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "101GY": {
+        "name": "Barima-Waini",
+        "sub": {
+            "101201GY": "Mabaruma",
+            "101202GY": "Morawhanna"
+        }
+    },
+    "102GY": {
+        "name": "Cuyuni-Mazaruni",
+        "sub": {
+            "102201GY": "Bartica",
+            "102202GY": "Issano",
+            "102203GY": "Kamarang"
+        }
+    },
+    "103GY": {
+        "name": "Demerara-Mahaica",
+        "sub": {
+            "103201GY": "Georgetown",
+            "103202GY": "Mahaica",
+            "103203GY": "Paradise",
+            "103204GY": "Queenstown"
+        }
+    },
+    "104GY": {
+        "name": "East Berbice-Corentyne",
+        "sub": {
+            "104201GY": "Georgetown",
+            "104202GY": "Mahaica",
+            "104203GY": "Paradise",
+            "104204GY": "Queenstown"
+        }
+    },
+    "105GY": {
+        "name": "Essequibo Islands-West Demerar",
+        "sub": {
+            "105201GY": "Georgetown",
+            "105202GY": "Mahaica",
+            "105203GY": "Paradise",
+            "105204GY": "Queenstown"
+        }
+    },
+    "106GY": {
+        "name": "Mahaica-Berbice",
+        "sub": {
+            "106201GY": "Fort Wellington",
+            "106202GY": "Mahaicony",
+            "106203GY": "Rosignol"
+        }
+    },
+    "107GY": {
+        "name": "Pomeroon-Supenaam",
+        "sub": {
+            "107201GY": "Anna Regina",
+            "107202GY": "Charity",
+            "107203GY": "Suddie"
+        }
+    },
+    "108GY": {
+        "name": "Potaro-Siparuni",
+        "sub": {
+            "108201GY": "Mahdia",
+            "108202GY": "Tumatumari"
+        }
+    },
+    "109GY": {
+        "name": "Upper Demerara-Berbice",
+        "sub": {
+            "109201GY": "Mahdia",
+            "109202GY": "Tumatumari"
+        }
+    },
+    "110GY": {
+        "name": "Upper Takutu-Upper Essequibo",
+        "sub": {
+            "110201GY": "Mahdia",
+            "110202GY": "Tumatumari"
+        }
+    }
+}

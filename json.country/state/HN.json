@@ -1,0 +1,165 @@
+{
+    "101HN": {
+        "name": "Atlantida",
+        "sub": {
+            "101201HN": "La Ceiba",
+            "101202HN": "Olanchito",
+            "101203HN": "Tela"
+        }
+    },
+    "102HN": {
+        "name": "Choluteca",
+        "sub": {
+            "102201HN": "Choluteca",
+            "102202HN": "El Triunfo",
+            "102203HN": "Pespire"
+        }
+    },
+    "103HN": {
+        "name": "Colon",
+        "sub": {
+            "103201HN": "Sonaguera",
+            "103202HN": "Tocoa",
+            "103203HN": "Trujillo"
+        }
+    },
+    "104HN": {
+        "name": "Comayagua",
+        "sub": {
+            "104201HN": "Comayagua",
+            "104202HN": "Siguatepeque"
+        }
+    },
+    "105HN": {
+        "name": "Copan",
+        "sub": {
+            "105201HN": "Copan",
+            "105202HN": "Corquin",
+            "105203HN": "Dulce Nombre",
+            "105204HN": "El Paraiso",
+            "105205HN": "San Antonio",
+            "105206HN": "San Nicolas",
+            "105207HN": "Santa Rosa de Copan"
+        }
+    },
+    "106HN": {
+        "name": "Cortes",
+        "sub": {
+            "106201HN": "Choloma",
+            "106202HN": "La Lima",
+            "106203HN": "Omoa",
+            "106204HN": "Puerto Cortes",
+            "106205HN": "San Pedro Sula"
+        }
+    },
+    "107HN": {
+        "name": "Distrito Central",
+        "sub": {
+            "107201HN": "Choloma",
+            "107202HN": "La Lima",
+            "107203HN": "Omoa",
+            "107204HN": "Puerto Cortes",
+            "107205HN": "San Pedro Sula"
+        }
+    },
+    "108HN": {
+        "name": "El Paraiso",
+        "sub": {
+            "108201HN": "Choloma",
+            "108202HN": "La Lima",
+            "108203HN": "Omoa",
+            "108204HN": "Puerto Cortes",
+            "108205HN": "San Pedro Sula"
+        }
+    },
+    "109HN": {
+        "name": "Francisco Morazan",
+        "sub": {
+            "109201HN": "Choloma",
+            "109202HN": "La Lima",
+            "109203HN": "Omoa",
+            "109204HN": "Puerto Cortes",
+            "109205HN": "San Pedro Sula"
+        }
+    },
+    "110HN": {
+        "name": "Gracias a Dios",
+        "sub": {
+            "110201HN": "Choloma",
+            "110202HN": "La Lima",
+            "110203HN": "Omoa",
+            "110204HN": "Puerto Cortes",
+            "110205HN": "San Pedro Sula"
+        }
+    },
+    "111HN": {
+        "name": "Intibuca",
+        "sub": {
+            "111201HN": "Intibuca",
+            "111202HN": "La Esperanza",
+            "111203HN": "Utila"
+        }
+    },
+    "112HN": {
+        "name": "Islas de la Bahia",
+        "sub": {
+            "112201HN": "Intibuca",
+            "112202HN": "La Esperanza",
+            "112203HN": "Utila"
+        }
+    },
+    "113HN": {
+        "name": "La Paz",
+        "sub": {
+            "113201HN": "Intibuca",
+            "113202HN": "La Esperanza",
+            "113203HN": "Utila"
+        }
+    },
+    "114HN": {
+        "name": "Lempira",
+        "sub": {
+            "114201HN": "Gracias"
+        }
+    },
+    "115HN": {
+        "name": "Ocotepeque",
+        "sub": {
+            "115201HN": "Ocotepeque",
+            "115202HN": "San Marcos",
+            "115203HN": "Sinuapa"
+        }
+    },
+    "116HN": {
+        "name": "Olancho",
+        "sub": {
+            "116201HN": "Catacamas",
+            "116202HN": "Juticalpa"
+        }
+    },
+    "117HN": {
+        "name": "Santa Barbara",
+        "sub": {
+            "117201HN": "Catacamas",
+            "117202HN": "Juticalpa"
+        }
+    },
+    "118HN": {
+        "name": "Valle",
+        "sub": {
+            "118201HN": "Amapala",
+            "118202HN": "Langue",
+            "118203HN": "Nacaome",
+            "118204HN": "San Lorenzo"
+        }
+    },
+    "119HN": {
+        "name": "Yoro",
+        "sub": {
+            "119201HN": "El Progreso",
+            "119202HN": "Morazan",
+            "119203HN": "Santa Rita",
+            "119204HN": "Yoro"
+        }
+    }
+}

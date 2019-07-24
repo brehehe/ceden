@@ -1,0 +1,22 @@
+{
+    "101KM": {
+        "name": "Mwali",
+        "sub": {
+            "101201KM": "Fomboni"
+        }
+    },
+    "102KM": {
+        "name": "Njazidja",
+        "sub": {
+            "102201KM": "Mitsamiouli",
+            "102202KM": "Moroni"
+        }
+    },
+    "103KM": {
+        "name": "Nzwani",
+        "sub": {
+            "103201KM": "Domoni",
+            "103202KM": "Mutsamudu"
+        }
+    }
+}

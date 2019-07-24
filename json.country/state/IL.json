@@ -1,0 +1,332 @@
+{
+    "101IL": {
+        "name": "Beit Hanania",
+        "sub": {
+            "101201IL": "Arklow",
+            "101202IL": "Baltinglass",
+            "101203IL": "Blessington",
+            "101204IL": "Bray",
+            "101205IL": "Greystones",
+            "101206IL": "Kilcoole",
+            "101207IL": "Newtownmountkennedy",
+            "101208IL": "Rathdrum",
+            "101209IL": "Wicklow"
+        }
+    },
+    "102IL": {
+        "name": "Ben Gurion Airport",
+        "sub": {
+            "102201IL": "Arklow",
+            "102202IL": "Baltinglass",
+            "102203IL": "Blessington",
+            "102204IL": "Bray",
+            "102205IL": "Greystones",
+            "102206IL": "Kilcoole",
+            "102207IL": "Newtownmountkennedy",
+            "102208IL": "Rathdrum",
+            "102209IL": "Wicklow"
+        }
+    },
+    "103IL": {
+        "name": "Bethlehem",
+        "sub": {
+            "103201IL": "Bethlehem"
+        }
+    },
+    "104IL": {
+        "name": "Caesarea",
+        "sub": {
+            "104201IL": "Caesarea"
+        }
+    },
+    "105IL": {
+        "name": "Centre",
+        "sub": {
+            "105201IL": "Petach Tikva",
+            "105202IL": "Ramallah"
+        }
+    },
+    "106IL": {
+        "name": "Gaza",
+        "sub": {
+            "106201IL": "Gaza"
+        }
+    },
+    "107IL": {
+        "name": "Hadaron",
+        "sub": {
+            "107201IL": "Ashdod",
+            "107202IL": "Ashqelon",
+            "107203IL": "Beersheba",
+            "107204IL": "Bene Ayish",
+            "107205IL": "Be\\'er Sheva",
+            "107206IL": "Dimona",
+            "107207IL": "Elat",
+            "107208IL": "Gan Yavne",
+            "107209IL": "kiryat Malachi",
+            "107210IL": "Nahal `Oz",
+            "107211IL": "Netivot",
+            "107212IL": "Ofaqim",
+            "107213IL": "Qiryat Gat",
+            "107214IL": "Qiryat Mal\\'akhi",
+            "107215IL": "Sederot",
+            "107216IL": "Yeroham",
+            "107217IL": "\\'Arad",
+            "107218IL": "\\'Omer"
+        }
+    },
+    "108IL": {
+        "name": "Haifa District",
+        "sub": {
+            "108201IL": "Ashdod",
+            "108202IL": "Ashqelon",
+            "108203IL": "Beersheba",
+            "108204IL": "Bene Ayish",
+            "108205IL": "Be\\'er Sheva",
+            "108206IL": "Dimona",
+            "108207IL": "Elat",
+            "108208IL": "Gan Yavne",
+            "108209IL": "kiryat Malachi",
+            "108210IL": "Nahal `Oz",
+            "108211IL": "Netivot",
+            "108212IL": "Ofaqim",
+            "108213IL": "Qiryat Gat",
+            "108214IL": "Qiryat Mal\\'akhi",
+            "108215IL": "Sederot",
+            "108216IL": "Yeroham",
+            "108217IL": "\\'Arad",
+            "108218IL": "\\'Omer"
+        }
+    },
+    "109IL": {
+        "name": "Hamerkaz",
+        "sub": {
+            "109201IL": "Beit Shemesh",
+            "109202IL": "Bene Beraq",
+            "109203IL": "Be\\'er Ya\\'aqov",
+            "109204IL": "Bnei Brak",
+            "109205IL": "Even Yehuda",
+            "109206IL": "Fureidis",
+            "109207IL": "Gat Rimon",
+            "109208IL": "Gedera",
+            "109209IL": "Givat Shmuel",
+            "109210IL": "Hibat Zion",
+            "109211IL": "Hod HaSharon",
+            "109212IL": "Hogar",
+            "109213IL": "Jaljulye",
+            "109214IL": "Jatt",
+            "109215IL": "Kafar Qasem",
+            "109216IL": "Kefar Sava",
+            "109217IL": "Kefar Yona",
+            "109218IL": "Kfar Saba",
+            "109219IL": "Kiryag Bialik",
+            "109220IL": "Lod",
+            "109221IL": "Mazkeret Batya",
+            "109222IL": "Modi\\'in",
+            "109223IL": "Nes Ziyyona",
+            "109224IL": "Ness Ziona",
+            "109225IL": "Netanya",
+            "109226IL": "Nordiya",
+            "109227IL": "Pardesiyya",
+            "109228IL": "Petakh Tiqwa",
+            "109229IL": "Qadima",
+            "109230IL": "Qalansawe",
+            "109231IL": "Qiryat \\'Eqron",
+            "109232IL": "Ramla",
+            "109233IL": "Ra\\'anana",
+            "109234IL": "Rehovot",
+            "109235IL": "Rekhovot",
+            "109236IL": "Rinnatya",
+            "109237IL": "Rishon LeZiyyon",
+            "109238IL": "Rosh HaAyin",
+            "109239IL": "Shoham",
+            "109240IL": "Tayibe",
+            "109241IL": "Tire",
+            "109242IL": "Tsur Igal",
+            "109243IL": "Udim",
+            "109244IL": "Yavne",
+            "109245IL": "Yehud"
+        }
+    },
+    "110IL": {
+        "name": "Hazafon",
+        "sub": {
+            "110201IL": "Abu Sinan",
+            "110202IL": "Basmat Tab\\'un",
+            "110203IL": "Beit Jann",
+            "110204IL": "Bet She\\'an",
+            "110205IL": "Bir-al-Maksur",
+            "110206IL": "Bi\\'ne",
+            "110207IL": "Bu\\'eine-Nujeidat",
+            "110208IL": "Dabburye",
+            "110209IL": "Dayr Hannah",
+            "110210IL": "Dayr-al-Asad",
+            "110211IL": "Hazor HaGelilit",
+            "110212IL": "Iksal",
+            "110213IL": "I\\'billin",
+            "110214IL": "Judeide-Maker",
+            "110215IL": "Kabul",
+            "110216IL": "Kafar Kanna",
+            "110217IL": "Kafar Manda",
+            "110218IL": "Kafar Yasif",
+            "110219IL": "Karmiel",
+            "110220IL": "Kisra-Sumei",
+            "110221IL": "Majd-al-Kurum",
+            "110222IL": "Ma\\'alot Tarshikha",
+            "110223IL": "Migdal Ha\\'Emeq",
+            "110224IL": "Mugar",
+            "110225IL": "Nahariyya",
+            "110226IL": "Nahef",
+            "110227IL": "Nazerat",
+            "110228IL": "Nazerat \\'Illit",
+            "110229IL": "Qiryat Shemona",
+            "110230IL": "Qiryat Tiv\\'on",
+            "110231IL": "Rame",
+            "110232IL": "Reine",
+            "110233IL": "Sakhnin",
+            "110234IL": "Shefar\\'am",
+            "110235IL": "Tamra",
+            "110236IL": "Tiberias",
+            "110237IL": "Tur\\'an",
+            "110238IL": "Yirka",
+            "110239IL": "Yoqne\\'am Illit",
+            "110240IL": "Zefat",
+            "110241IL": "Zur Yigal",
+            "110242IL": "\\'Afula",
+            "110243IL": "\\'Akko",
+            "110244IL": "\\'Arrabe",
+            "110245IL": "\\'Ein Mahel",
+            "110246IL": "\\'Ilut"
+        }
+    },
+    "111IL": {
+        "name": "Hebron",
+        "sub": {
+            "111201IL": "Hebron"
+        }
+    },
+    "112IL": {
+        "name": "Jaffa",
+        "sub": {
+            "112201IL": "Sgula"
+        }
+    },
+    "113IL": {
+        "name": "Jerusalem",
+        "sub": {
+            "113201IL": "Jerusalem"
+        }
+    },
+    "114IL": {
+        "name": "Khefa",
+        "sub": {
+            "114201IL": "Baqa al-Gharbiyyah",
+            "114202IL": "Binyamina",
+            "114203IL": "Daliyat-al-Karmil",
+            "114204IL": "Jizr-az-Zarqa",
+            "114205IL": "Khadera",
+            "114206IL": "Khefa",
+            "114207IL": "Nesher",
+            "114208IL": "Or \\'Aqiva",
+            "114209IL": "Pardes Khanna-Karkur",
+            "114210IL": "Qiryat Atta",
+            "114211IL": "Qiryat Bialik",
+            "114212IL": "Qiryat Motzkin",
+            "114213IL": "Qiryat Yam",
+            "114214IL": "Rekhasim",
+            "114215IL": "Tirat Karmel",
+            "114216IL": "Umm-al-Fahm",
+            "114217IL": "Zikhron Ya\\'aqov",
+            "114218IL": "\\'Ar\\'ara",
+            "114219IL": "\\'Isifya"
+        }
+    },
+    "115IL": {
+        "name": "Kiryat Yam",
+        "sub": {
+            "115201IL": "Baqa al-Gharbiyyah",
+            "115202IL": "Binyamina",
+            "115203IL": "Daliyat-al-Karmil",
+            "115204IL": "Jizr-az-Zarqa",
+            "115205IL": "Khadera",
+            "115206IL": "Khefa",
+            "115207IL": "Nesher",
+            "115208IL": "Or \\'Aqiva",
+            "115209IL": "Pardes Khanna-Karkur",
+            "115210IL": "Qiryat Atta",
+            "115211IL": "Qiryat Bialik",
+            "115212IL": "Qiryat Motzkin",
+            "115213IL": "Qiryat Yam",
+            "115214IL": "Rekhasim",
+            "115215IL": "Tirat Karmel",
+            "115216IL": "Umm-al-Fahm",
+            "115217IL": "Zikhron Ya\\'aqov",
+            "115218IL": "\\'Ar\\'ara",
+            "115219IL": "\\'Isifya"
+        }
+    },
+    "116IL": {
+        "name": "Lower Galilee",
+        "sub": {
+            "116201IL": "Baqa al-Gharbiyyah",
+            "116202IL": "Binyamina",
+            "116203IL": "Daliyat-al-Karmil",
+            "116204IL": "Jizr-az-Zarqa",
+            "116205IL": "Khadera",
+            "116206IL": "Khefa",
+            "116207IL": "Nesher",
+            "116208IL": "Or \\'Aqiva",
+            "116209IL": "Pardes Khanna-Karkur",
+            "116210IL": "Qiryat Atta",
+            "116211IL": "Qiryat Bialik",
+            "116212IL": "Qiryat Motzkin",
+            "116213IL": "Qiryat Yam",
+            "116214IL": "Rekhasim",
+            "116215IL": "Tirat Karmel",
+            "116216IL": "Umm-al-Fahm",
+            "116217IL": "Zikhron Ya\\'aqov",
+            "116218IL": "\\'Ar\\'ara",
+            "116219IL": "\\'Isifya"
+        }
+    },
+    "117IL": {
+        "name": "Qalqilya",
+        "sub": {
+            "117201IL": "Qalqilya"
+        }
+    },
+    "118IL": {
+        "name": "Talme Elazar",
+        "sub": {
+            "118201IL": "Qalqilya"
+        }
+    },
+    "119IL": {
+        "name": "Tel Aviv",
+        "sub": {
+            "119201IL": "Qalqilya"
+        }
+    },
+    "120IL": {
+        "name": "Tsafon",
+        "sub": {
+            "120201IL": "Hadera",
+            "120202IL": "Kiryag Bialik"
+        }
+    },
+    "121IL": {
+        "name": "Umm El Fahem",
+        "sub": {
+            "121201IL": "Hadera",
+            "121202IL": "Kiryag Bialik"
+        }
+    },
+    "122IL": {
+        "name": "Yerushalayim",
+        "sub": {
+            "122201IL": "Bet Shemesh",
+            "122202IL": "Mevasserat Ziyyon",
+            "122203IL": "Yerushalayim"
+        }
+    }
+}

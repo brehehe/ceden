@@ -1,0 +1,184 @@
+{
+    "101IS": {
+        "name": "Austurland",
+        "sub": {
+            "101201IS": "Bakkafjor ur",
+            "101202IS": "Borgarfjor ur",
+            "101203IS": "Brei dalsvik",
+            "101204IS": "Djupivogur",
+            "101205IS": "Egilssta ir",
+            "101206IS": "Eskifjor ur",
+            "101207IS": "Faskru sfjor ur",
+            "101208IS": "Fellabar",
+            "101209IS": "Hallormssta ur",
+            "101210IS": "Hofn",
+            "101211IS": "Nesjakauptun",
+            "101212IS": "Neskaupsta ur",
+            "101213IS": "Rey arfjor ur",
+            "101214IS": "Sey isfjor ur",
+            "101215IS": "Sto varfjor ur",
+            "101216IS": "Vopnafjor ur"
+        }
+    },
+    "102IS": {
+        "name": "Gullbringusysla",
+        "sub": {
+            "102201IS": "Bakkafjor ur",
+            "102202IS": "Borgarfjor ur",
+            "102203IS": "Brei dalsvik",
+            "102204IS": "Djupivogur",
+            "102205IS": "Egilssta ir",
+            "102206IS": "Eskifjor ur",
+            "102207IS": "Faskru sfjor ur",
+            "102208IS": "Fellabar",
+            "102209IS": "Hallormssta ur",
+            "102210IS": "Hofn",
+            "102211IS": "Nesjakauptun",
+            "102212IS": "Neskaupsta ur",
+            "102213IS": "Rey arfjor ur",
+            "102214IS": "Sey isfjor ur",
+            "102215IS": "Sto varfjor ur",
+            "102216IS": "Vopnafjor ur"
+        }
+    },
+    "103IS": {
+        "name": "Hofu borgarsva i",
+        "sub": {
+            "103201IS": "Bakkafjor ur",
+            "103202IS": "Borgarfjor ur",
+            "103203IS": "Brei dalsvik",
+            "103204IS": "Djupivogur",
+            "103205IS": "Egilssta ir",
+            "103206IS": "Eskifjor ur",
+            "103207IS": "Faskru sfjor ur",
+            "103208IS": "Fellabar",
+            "103209IS": "Hallormssta ur",
+            "103210IS": "Hofn",
+            "103211IS": "Nesjakauptun",
+            "103212IS": "Neskaupsta ur",
+            "103213IS": "Rey arfjor ur",
+            "103214IS": "Sey isfjor ur",
+            "103215IS": "Sto varfjor ur",
+            "103216IS": "Vopnafjor ur"
+        }
+    },
+    "104IS": {
+        "name": "Nor urland eystra",
+        "sub": {
+            "104201IS": "Bakkafjor ur",
+            "104202IS": "Borgarfjor ur",
+            "104203IS": "Brei dalsvik",
+            "104204IS": "Djupivogur",
+            "104205IS": "Egilssta ir",
+            "104206IS": "Eskifjor ur",
+            "104207IS": "Faskru sfjor ur",
+            "104208IS": "Fellabar",
+            "104209IS": "Hallormssta ur",
+            "104210IS": "Hofn",
+            "104211IS": "Nesjakauptun",
+            "104212IS": "Neskaupsta ur",
+            "104213IS": "Rey arfjor ur",
+            "104214IS": "Sey isfjor ur",
+            "104215IS": "Sto varfjor ur",
+            "104216IS": "Vopnafjor ur"
+        }
+    },
+    "105IS": {
+        "name": "Nor urland vestra",
+        "sub": {
+            "105201IS": "Bakkafjor ur",
+            "105202IS": "Borgarfjor ur",
+            "105203IS": "Brei dalsvik",
+            "105204IS": "Djupivogur",
+            "105205IS": "Egilssta ir",
+            "105206IS": "Eskifjor ur",
+            "105207IS": "Faskru sfjor ur",
+            "105208IS": "Fellabar",
+            "105209IS": "Hallormssta ur",
+            "105210IS": "Hofn",
+            "105211IS": "Nesjakauptun",
+            "105212IS": "Neskaupsta ur",
+            "105213IS": "Rey arfjor ur",
+            "105214IS": "Sey isfjor ur",
+            "105215IS": "Sto varfjor ur",
+            "105216IS": "Vopnafjor ur"
+        }
+    },
+    "106IS": {
+        "name": "Su urland",
+        "sub": {
+            "106201IS": "Bakkafjor ur",
+            "106202IS": "Borgarfjor ur",
+            "106203IS": "Brei dalsvik",
+            "106204IS": "Djupivogur",
+            "106205IS": "Egilssta ir",
+            "106206IS": "Eskifjor ur",
+            "106207IS": "Faskru sfjor ur",
+            "106208IS": "Fellabar",
+            "106209IS": "Hallormssta ur",
+            "106210IS": "Hofn",
+            "106211IS": "Nesjakauptun",
+            "106212IS": "Neskaupsta ur",
+            "106213IS": "Rey arfjor ur",
+            "106214IS": "Sey isfjor ur",
+            "106215IS": "Sto varfjor ur",
+            "106216IS": "Vopnafjor ur"
+        }
+    },
+    "107IS": {
+        "name": "Su urnes",
+        "sub": {
+            "107201IS": "Bakkafjor ur",
+            "107202IS": "Borgarfjor ur",
+            "107203IS": "Brei dalsvik",
+            "107204IS": "Djupivogur",
+            "107205IS": "Egilssta ir",
+            "107206IS": "Eskifjor ur",
+            "107207IS": "Faskru sfjor ur",
+            "107208IS": "Fellabar",
+            "107209IS": "Hallormssta ur",
+            "107210IS": "Hofn",
+            "107211IS": "Nesjakauptun",
+            "107212IS": "Neskaupsta ur",
+            "107213IS": "Rey arfjor ur",
+            "107214IS": "Sey isfjor ur",
+            "107215IS": "Sto varfjor ur",
+            "107216IS": "Vopnafjor ur"
+        }
+    },
+    "108IS": {
+        "name": "Vestfir ir",
+        "sub": {
+            "108201IS": "Bakkafjor ur",
+            "108202IS": "Borgarfjor ur",
+            "108203IS": "Brei dalsvik",
+            "108204IS": "Djupivogur",
+            "108205IS": "Egilssta ir",
+            "108206IS": "Eskifjor ur",
+            "108207IS": "Faskru sfjor ur",
+            "108208IS": "Fellabar",
+            "108209IS": "Hallormssta ur",
+            "108210IS": "Hofn",
+            "108211IS": "Nesjakauptun",
+            "108212IS": "Neskaupsta ur",
+            "108213IS": "Rey arfjor ur",
+            "108214IS": "Sey isfjor ur",
+            "108215IS": "Sto varfjor ur",
+            "108216IS": "Vopnafjor ur"
+        }
+    },
+    "109IS": {
+        "name": "Vesturland",
+        "sub": {
+            "109201IS": "Akranes",
+            "109202IS": "Borgarnes",
+            "109203IS": "Bu ardalur",
+            "109204IS": "Grundarfjor ur",
+            "109205IS": "Hellissandur",
+            "109206IS": "Hvanneyri",
+            "109207IS": "Olafsvik",
+            "109208IS": "Rif",
+            "109209IS": "Stykkisholmur"
+        }
+    }
+}

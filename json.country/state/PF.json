@@ -1,0 +1,97 @@
+{
+    "101PF": {
+        "name": "Iles du Vent",
+        "sub": {
+            "101201PF": "Apatou",
+            "101202PF": "Grand-Santi",
+            "101203PF": "Mana",
+            "101204PF": "Maripasoula",
+            "101205PF": "Saint-Laurent-du-Maroni"
+        }
+    },
+    "102PF": {
+        "name": "Iles sous le Vent",
+        "sub": {
+            "102201PF": "Apatou",
+            "102202PF": "Grand-Santi",
+            "102203PF": "Mana",
+            "102204PF": "Maripasoula",
+            "102205PF": "Saint-Laurent-du-Maroni"
+        }
+    },
+    "103PF": {
+        "name": "Marquesas",
+        "sub": {
+            "103201PF": "Atuona",
+            "103202PF": "Fatu-Hiva",
+            "103203PF": "Hakahao",
+            "103204PF": "Hakamaii",
+            "103205PF": "Hatiheu",
+            "103206PF": "Tahuata",
+            "103207PF": "Taiohae",
+            "103208PF": "Taipivai",
+            "103209PF": "Ua-Huka"
+        }
+    },
+    "104PF": {
+        "name": "Tuamotu",
+        "sub": {
+            "104201PF": "Ahe",
+            "104202PF": "Amanu",
+            "104203PF": "Anaa",
+            "104204PF": "Apataki",
+            "104205PF": "Arutua",
+            "104206PF": "Faaite",
+            "104207PF": "Fakahima",
+            "104208PF": "Fakarava",
+            "104209PF": "Fangatau",
+            "104210PF": "Hao",
+            "104211PF": "Hereheretue",
+            "104212PF": "Hikueru",
+            "104213PF": "Katiu",
+            "104214PF": "Kauehi",
+            "104215PF": "Kaukura",
+            "104216PF": "Makatea",
+            "104217PF": "Makemo",
+            "104218PF": "Manihi",
+            "104219PF": "Marokau",
+            "104220PF": "Napuka",
+            "104221PF": "Niau",
+            "104222PF": "Nukutavake",
+            "104223PF": "Puamau",
+            "104224PF": "Pukapuka",
+            "104225PF": "Pukarua",
+            "104226PF": "Rangiroa",
+            "104227PF": "Raroia",
+            "104228PF": "Reao",
+            "104229PF": "Rikitea",
+            "104230PF": "Taenga",
+            "104231PF": "Takapoto",
+            "104232PF": "Takaroa",
+            "104233PF": "Tatakoto",
+            "104234PF": "Tepoto",
+            "104235PF": "Tikehau",
+            "104236PF": "Tureia",
+            "104237PF": "Vahitahi",
+            "104238PF": "Vairaatea"
+        }
+    },
+    "105PF": {
+        "name": "Tubuai",
+        "sub": {
+            "105201PF": "Amaru",
+            "105202PF": "Anapoto",
+            "105203PF": "Anatonu",
+            "105204PF": "Auti",
+            "105205PF": "Avera",
+            "105206PF": "Mahu",
+            "105207PF": "Mataura",
+            "105208PF": "Moerai",
+            "105209PF": "Mutuaura",
+            "105210PF": "Rairua",
+            "105211PF": "Rapa",
+            "105212PF": "Taahuaia",
+            "105213PF": "Vaiuru"
+        }
+    }
+}

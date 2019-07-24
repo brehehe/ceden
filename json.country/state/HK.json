@@ -1,0 +1,11 @@
+{
+    "101HK": {
+        "name": "Hong Kong",
+        "sub": {
+            "101201HK": "El Progreso",
+            "101202HK": "Morazan",
+            "101203HK": "Santa Rita",
+            "101204HK": "Yoro"
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "101KH": {
+        "name": "Banteay Mean Chey",
+        "sub": {
+            "101201KH": "Ruyigi"
+        }
+    },
+    "102KH": {
+        "name": "Bat Dambang",
+        "sub": {
+            "102201KH": "Ruyigi"
+        }
+    },
+    "103KH": {
+        "name": "Kampong Cham",
+        "sub": {
+            "103201KH": "Ruyigi"
+        }
+    },
+    "104KH": {
+        "name": "Kampong Chhnang",
+        "sub": {
+            "104201KH": "Ruyigi"
+        }
+    },
+    "105KH": {
+        "name": "Kampong Spoeu",
+        "sub": {
+            "105201KH": "Ruyigi"
+        }
+    },
+    "106KH": {
+        "name": "Kampong Thum",
+        "sub": {
+            "106201KH": "Ruyigi"
+        }
+    },
+    "107KH": {
+        "name": "Kampot",
+        "sub": {
+            "107201KH": "Kampot"
+        }
+    },
+    "108KH": {
+        "name": "Kandal",
+        "sub": {
+            "108201KH": "Ta Khmau"
+        }
+    },
+    "109KH": {
+        "name": "Kaoh Kong",
+        "sub": {
+            "109201KH": "Ta Khmau"
+        }
+    },
+    "110KH": {
+        "name": "Kracheh",
+        "sub": {
+            "110201KH": "Kracheh"
+        }
+    },
+    "111KH": {
+        "name": "Krong Kaeb",
+        "sub": {
+            "111201KH": "Kracheh"
+        }
+    },
+    "112KH": {
+        "name": "Krong Pailin",
+        "sub": {
+            "112201KH": "Kracheh"
+        }
+    },
+    "113KH": {
+        "name": "Krong Preah Sihanouk",
+        "sub": {
+            "113201KH": "Kracheh"
+        }
+    },
+    "114KH": {
+        "name": "Mondol Kiri",
+        "sub": {
+            "114201KH": "Kracheh"
+        }
+    },
+    "115KH": {
+        "name": "Otdar Mean Chey",
+        "sub": {
+            "115201KH": "Kracheh"
+        }
+    },
+    "116KH": {
+        "name": "Phnum Penh",
+        "sub": {
+            "116201KH": "Kracheh"
+        }
+    },
+    "117KH": {
+        "name": "Pousat",
+        "sub": {
+            "117201KH": "Pousat"
+        }
+    },
+    "118KH": {
+        "name": "Preah Vihear",
+        "sub": {
+            "118201KH": "Pousat"
+        }
+    },
+    "119KH": {
+        "name": "Prey Veaeng",
+        "sub": {
+            "119201KH": "Pousat"
+        }
+    },
+    "120KH": {
+        "name": "Rotanak Kiri",
+        "sub": {
+            "120201KH": "Pousat"
+        }
+    },
+    "121KH": {
+        "name": "Siem Reab",
+        "sub": {
+            "121201KH": "Pousat"
+        }
+    },
+    "122KH": {
+        "name": "Stueng Traeng",
+        "sub": {
+            "122201KH": "Pousat"
+        }
+    },
+    "123KH": {
+        "name": "Svay Rieng",
+        "sub": {
+            "123201KH": "Pousat"
+        }
+    },
+    "124KH": {
+        "name": "Takaev",
+        "sub": {
+            "124201KH": "Phumi Takaev"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "101IO": {
+        "name": "British Indian Ocean Territory",
+        "sub": {
+            "101201IO": "Alvorada",
+            "101202IO": "Ananas",
+            "101203IO": "Araguacu",
+            "101204IO": "Araguaina",
+            "101205IO": "Araguatins",
+            "101206IO": "Arraias",
+            "101207IO": "Augustinopolis",
+            "101208IO": "Axixa do Tocantins",
+            "101209IO": "Colinas do Tocantins",
+            "101210IO": "Dianopolis",
+            "101211IO": "Formoso do Araguaia",
+            "101212IO": "Goiatins",
+            "101213IO": "Guarai",
+            "101214IO": "Gurupi",
+            "101215IO": "Miracema do Tocantins",
+            "101216IO": "Miranorte",
+            "101217IO": "Palmas",
+            "101218IO": "Paraiso",
+            "101219IO": "Parana",
+            "101220IO": "Porto Nacional",
+            "101221IO": "Sitio Novo do Tocantins",
+            "101222IO": "Taguatinga",
+            "101223IO": "Tocantinopolis",
+            "101224IO": "Wanderlandia",
+            "101225IO": "Xambioa"
+        }
+    }
+}

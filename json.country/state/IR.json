@@ -1,0 +1,443 @@
+{
+    "101IR": {
+        "name": "Ardabil",
+        "sub": {
+            "101201IR": "Ardabil",
+            "101202IR": "Garmi",
+            "101203IR": "Khalkhal",
+            "101204IR": "Meshkinshahr",
+            "101205IR": "Parsabad"
+        }
+    },
+    "102IR": {
+        "name": "Azarbayjan-e Bakhtari",
+        "sub": {
+            "102201IR": "Ardabil",
+            "102202IR": "Garmi",
+            "102203IR": "Khalkhal",
+            "102204IR": "Meshkinshahr",
+            "102205IR": "Parsabad"
+        }
+    },
+    "103IR": {
+        "name": "Azarbayjan-e Khavari",
+        "sub": {
+            "103201IR": "Ardabil",
+            "103202IR": "Garmi",
+            "103203IR": "Khalkhal",
+            "103204IR": "Meshkinshahr",
+            "103205IR": "Parsabad"
+        }
+    },
+    "104IR": {
+        "name": "Bushehr",
+        "sub": {
+            "104201IR": "Bandar-e Gonaveh",
+            "104202IR": "Borazjan",
+            "104203IR": "Bushehr",
+            "104204IR": "Dashti",
+            "104205IR": "Dir",
+            "104206IR": "Khormuj",
+            "104207IR": "Kongan",
+            "104208IR": "Tangestan"
+        }
+    },
+    "105IR": {
+        "name": "Chahar Mahal-e Bakhtiari",
+        "sub": {
+            "105201IR": "Bandar-e Gonaveh",
+            "105202IR": "Borazjan",
+            "105203IR": "Bushehr",
+            "105204IR": "Dashti",
+            "105205IR": "Dir",
+            "105206IR": "Khormuj",
+            "105207IR": "Kongan",
+            "105208IR": "Tangestan"
+        }
+    },
+    "106IR": {
+        "name": "Esfahan",
+        "sub": {
+            "106201IR": "Ardistan",
+            "106202IR": "Dorchehpiyaz",
+            "106203IR": "Dowlatabad",
+            "106204IR": "Esfahan",
+            "106205IR": "Falavarjan",
+            "106206IR": "Faridan",
+            "106207IR": "Fereydunshahr",
+            "106208IR": "Fuladshahr",
+            "106209IR": "Golara",
+            "106210IR": "Golpayegan",
+            "106211IR": "Kashan",
+            "106212IR": "Kelishad",
+            "106213IR": "Khomeynishahr",
+            "106214IR": "Khonsar",
+            "106215IR": "Khuresgan",
+            "106216IR": "Mobarakeh",
+            "106217IR": "Najafabad",
+            "106218IR": "Natnaz",
+            "106219IR": "Na\\'in",
+            "106220IR": "Qahdarijan",
+            "106221IR": "Rehnan",
+            "106222IR": "Semirom",
+            "106223IR": "Shahinshahr",
+            "106224IR": "Shahreza",
+            "106225IR": "Zarinshahr"
+        }
+    },
+    "107IR": {
+        "name": "Fars",
+        "sub": {
+            "107201IR": "Abadeh",
+            "107202IR": "Akbarabad",
+            "107203IR": "Darab",
+            "107204IR": "Eqlid",
+            "107205IR": "Estehban",
+            "107206IR": "Fasa",
+            "107207IR": "Firuzabad",
+            "107208IR": "Gerash",
+            "107209IR": "Jahrom",
+            "107210IR": "Kazerun",
+            "107211IR": "Lar",
+            "107212IR": "Marv Dasht",
+            "107213IR": "Neyriz",
+            "107214IR": "Nurabad",
+            "107215IR": "Qa\\'emiyeh",
+            "107216IR": "Sepidan",
+            "107217IR": "Shiraz"
+        }
+    },
+    "108IR": {
+        "name": "Gilan",
+        "sub": {
+            "108201IR": "Astaneh-ye Ashrafiyeh",
+            "108202IR": "Astara",
+            "108203IR": "Bandar-e Anzali",
+            "108204IR": "Faman",
+            "108205IR": "Hashtpar",
+            "108206IR": "Lahijan",
+            "108207IR": "Langarud",
+            "108208IR": "Rasht",
+            "108209IR": "Rudbar",
+            "108210IR": "Rudsar",
+            "108211IR": "Sawma\\'eh Sara"
+        }
+    },
+    "109IR": {
+        "name": "Golestan",
+        "sub": {
+            "109201IR": "Aq Qal\\'eh",
+            "109202IR": "Azad Shahr",
+            "109203IR": "Bandar-e Torkaman",
+            "109204IR": "Gonbad-e Qabus",
+            "109205IR": "Gorgan"
+        }
+    },
+    "110IR": {
+        "name": "Hamadan",
+        "sub": {
+            "110201IR": "Asadabad",
+            "110202IR": "Bahar",
+            "110203IR": "Hamadan",
+            "110204IR": "Malayer",
+            "110205IR": "Nahavand",
+            "110206IR": "Tuysarkan"
+        }
+    },
+    "111IR": {
+        "name": "Hormozgan",
+        "sub": {
+            "111201IR": "Bandar Abbas",
+            "111202IR": "Bandar-e Lengeh",
+            "111203IR": "Bandar-e \\'Abbas",
+            "111204IR": "Gheshm",
+            "111205IR": "Jask",
+            "111206IR": "Kish",
+            "111207IR": "Kish Island",
+            "111208IR": "Minab"
+        }
+    },
+    "112IR": {
+        "name": "Ilam",
+        "sub": {
+            "112201IR": "Abdanan",
+            "112202IR": "Darrehshahr",
+            "112203IR": "Dehloran",
+            "112204IR": "Ilam",
+            "112205IR": "Ivan",
+            "112206IR": "Mehran"
+        }
+    },
+    "113IR": {
+        "name": "Kerman",
+        "sub": {
+            "113201IR": "Baft",
+            "113202IR": "Bam",
+            "113203IR": "Bardsir",
+            "113204IR": "Jiroft",
+            "113205IR": "Kahnuj",
+            "113206IR": "Kerman",
+            "113207IR": "Rafsanjan",
+            "113208IR": "Ravar",
+            "113209IR": "Shahr-e Babak",
+            "113210IR": "Sirjan",
+            "113211IR": "Zarand"
+        }
+    },
+    "114IR": {
+        "name": "Kermanshah",
+        "sub": {
+            "114201IR": "Eslamabad",
+            "114202IR": "Gilan-e Garb",
+            "114203IR": "Harsin",
+            "114204IR": "Javanrud",
+            "114205IR": "Kangavar",
+            "114206IR": "Kermanshah",
+            "114207IR": "Paveh",
+            "114208IR": "Sahneh",
+            "114209IR": "Sar-e-Pol-e-Zohab",
+            "114210IR": "Sonqor"
+        }
+    },
+    "115IR": {
+        "name": "Khorasan",
+        "sub": {
+            "115201IR": "Birjand",
+            "115202IR": "Bojnurd",
+            "115203IR": "Chenaran",
+            "115204IR": "Darreh Gaz",
+            "115205IR": "Esfarayen",
+            "115206IR": "Fariman",
+            "115207IR": "Ferdus",
+            "115208IR": "Gha\\'nat",
+            "115209IR": "Gonabad",
+            "115210IR": "Kashmar",
+            "115211IR": "Mashad",
+            "115212IR": "Mashhad",
+            "115213IR": "Neyshabur",
+            "115214IR": "Qayen",
+            "115215IR": "Quchan",
+            "115216IR": "Sabzevar",
+            "115217IR": "Sarakhs",
+            "115218IR": "Shirvan",
+            "115219IR": "Tabas",
+            "115220IR": "Tayyebat",
+            "115221IR": "Torbat-e Heydariyeh",
+            "115222IR": "Torbat-e Jam"
+        }
+    },
+    "116IR": {
+        "name": "Khuzestan",
+        "sub": {
+            "116201IR": "Abadan",
+            "116202IR": "Agha Jari",
+            "116203IR": "Ahvaz",
+            "116204IR": "Ahwaz",
+            "116205IR": "Andimeshk",
+            "116206IR": "Bandar-e Emam Khomeyni",
+            "116207IR": "Bandar-e Mahshahr",
+            "116208IR": "Behbahan",
+            "116209IR": "Dezful",
+            "116210IR": "Ezeh",
+            "116211IR": "Hendijan",
+            "116212IR": "Khorramshahr",
+            "116213IR": "Masjed-e Soleyman",
+            "116214IR": "Omidiyeh",
+            "116215IR": "Ramhormoz",
+            "116216IR": "Ramshir",
+            "116217IR": "Shadegan",
+            "116218IR": "Shush",
+            "116219IR": "Shushtar",
+            "116220IR": "Susangerd"
+        }
+    },
+    "117IR": {
+        "name": "Kohgiluyeh-e Boyerahmad",
+        "sub": {
+            "117201IR": "Abadan",
+            "117202IR": "Agha Jari",
+            "117203IR": "Ahvaz",
+            "117204IR": "Ahwaz",
+            "117205IR": "Andimeshk",
+            "117206IR": "Bandar-e Emam Khomeyni",
+            "117207IR": "Bandar-e Mahshahr",
+            "117208IR": "Behbahan",
+            "117209IR": "Dezful",
+            "117210IR": "Ezeh",
+            "117211IR": "Hendijan",
+            "117212IR": "Khorramshahr",
+            "117213IR": "Masjed-e Soleyman",
+            "117214IR": "Omidiyeh",
+            "117215IR": "Ramhormoz",
+            "117216IR": "Ramshir",
+            "117217IR": "Shadegan",
+            "117218IR": "Shush",
+            "117219IR": "Shushtar",
+            "117220IR": "Susangerd"
+        }
+    },
+    "118IR": {
+        "name": "Kordestan",
+        "sub": {
+            "118201IR": "Baneh",
+            "118202IR": "Bijar",
+            "118203IR": "Kamyaran",
+            "118204IR": "Marivan",
+            "118205IR": "Qorveh",
+            "118206IR": "Sanandaj",
+            "118207IR": "Saqqez"
+        }
+    },
+    "119IR": {
+        "name": "Lorestan",
+        "sub": {
+            "119201IR": "Alashtar",
+            "119202IR": "Aligudarz",
+            "119203IR": "Azna",
+            "119204IR": "Borujerd",
+            "119205IR": "Do Rud",
+            "119206IR": "Khorramabad",
+            "119207IR": "Kuhdasht",
+            "119208IR": "Nurabad"
+        }
+    },
+    "120IR": {
+        "name": "Markazi",
+        "sub": {
+            "120201IR": "Arak",
+            "120202IR": "Ashtian",
+            "120203IR": "Delijan",
+            "120204IR": "Khomeyn",
+            "120205IR": "Mahallat",
+            "120206IR": "Sarband",
+            "120207IR": "Saveh",
+            "120208IR": "Tafresh"
+        }
+    },
+    "121IR": {
+        "name": "Mazandaran",
+        "sub": {
+            "121201IR": "Aliabad",
+            "121202IR": "Amir Kala",
+            "121203IR": "Amol",
+            "121204IR": "Babol",
+            "121205IR": "Babol Sar",
+            "121206IR": "Behshahr",
+            "121207IR": "Chalus",
+            "121208IR": "Fereydunkenar",
+            "121209IR": "Juybar",
+            "121210IR": "Kalaleh",
+            "121211IR": "Kordkuy",
+            "121212IR": "Mahmudabad",
+            "121213IR": "Minudasht",
+            "121214IR": "Neka",
+            "121215IR": "Nur",
+            "121216IR": "Nushahr",
+            "121217IR": "Qa\\'emshahr",
+            "121218IR": "Ramsar",
+            "121219IR": "Sari",
+            "121220IR": "Savadkuh",
+            "121221IR": "Tonekabon"
+        }
+    },
+    "122IR": {
+        "name": "Ostan-e Esfahan",
+        "sub": {
+            "122201IR": "Aliabad",
+            "122202IR": "Amir Kala",
+            "122203IR": "Amol",
+            "122204IR": "Babol",
+            "122205IR": "Babol Sar",
+            "122206IR": "Behshahr",
+            "122207IR": "Chalus",
+            "122208IR": "Fereydunkenar",
+            "122209IR": "Juybar",
+            "122210IR": "Kalaleh",
+            "122211IR": "Kordkuy",
+            "122212IR": "Mahmudabad",
+            "122213IR": "Minudasht",
+            "122214IR": "Neka",
+            "122215IR": "Nur",
+            "122216IR": "Nushahr",
+            "122217IR": "Qa\\'emshahr",
+            "122218IR": "Ramsar",
+            "122219IR": "Sari",
+            "122220IR": "Savadkuh",
+            "122221IR": "Tonekabon"
+        }
+    },
+    "123IR": {
+        "name": "Qazvin",
+        "sub": {
+            "123201IR": "Abhar",
+            "123202IR": "Abyek",
+            "123203IR": "Qazvin",
+            "123204IR": "Takestan"
+        }
+    },
+    "124IR": {
+        "name": "Qom",
+        "sub": {
+            "124201IR": "Qom"
+        }
+    },
+    "125IR": {
+        "name": "Semnan",
+        "sub": {
+            "125201IR": "Damghan",
+            "125202IR": "Garmsar",
+            "125203IR": "Semnan",
+            "125204IR": "Shahrud"
+        }
+    },
+    "126IR": {
+        "name": "Sistan-e Baluchestan",
+        "sub": {
+            "126201IR": "Damghan",
+            "126202IR": "Garmsar",
+            "126203IR": "Semnan",
+            "126204IR": "Shahrud"
+        }
+    },
+    "127IR": {
+        "name": "Tehran",
+        "sub": {
+            "127201IR": "Damavand",
+            "127202IR": "Eqbaliyeh",
+            "127203IR": "Eslamshahr",
+            "127204IR": "Hashtgerd",
+            "127205IR": "Karaj",
+            "127206IR": "Mahdasht",
+            "127207IR": "Malard",
+            "127208IR": "Mohammadiyeh",
+            "127209IR": "Nazarabad",
+            "127210IR": "Pakdasht",
+            "127211IR": "Pishva",
+            "127212IR": "Qarchak",
+            "127213IR": "Qods",
+            "127214IR": "Robat Karim",
+            "127215IR": "Shahriyar",
+            "127216IR": "Tehran",
+            "127217IR": "Varamin"
+        }
+    },
+    "128IR": {
+        "name": "Yazd",
+        "sub": {
+            "128201IR": "Ardakan",
+            "128202IR": "Bafq",
+            "128203IR": "Mehriz",
+            "128204IR": "Meybod",
+            "128205IR": "Taft",
+            "128206IR": "Yazd"
+        }
+    },
+    "129IR": {
+        "name": "Zanjan",
+        "sub": {
+            "129201IR": "Alvand",
+            "129202IR": "Khorramdarreh",
+            "129203IR": "Zanjan"
+        }
+    }
+}
