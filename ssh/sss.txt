@@ -1,0 +1,13 @@
+5 aruba ::
+
+SV 1 : 80.211.134.157
+SV 2 : 80.211.155.52
+SV 3 : 212.237.23.228
+SV 4 : 212.237.5.142
+SV 5 : 80.211.154.130
+
+DigitalOcean
+AksisoftMedia :: 159.65.1.211 :: RatuMiskin1-4
+WHYPEOPLE :: 157.230.244.166 :: NamaRadio pakai strip - dan hurup besar di W dan R dengan akhiran .com
+ADI :: 206.189.154.81 :: GAPERLU lah 
+SURABAYAAD :: 178.128.216.249 :: ya biasa delapan 
